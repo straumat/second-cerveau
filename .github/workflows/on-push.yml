@@ -1,0 +1,34 @@
+name: On push, publish the new website
+
+on:
+  push:
+    branches:
+      - "main"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # ================================================================================================================
+      - name: Retrieve the sources
+        uses: actions/checkout@v3
+
+      # ================================================================================================================
+      - name: Hugo Setup
+        uses: peaceiris/actions-hugo@v2.5.0
+        with:
+          hugo-version: '0.102.1'
+
+      # ================================================================================================================
+      - name: Build Hugo website in the beta directory
+        run: hugo --minify --gc
+
+      # ================================================================================================================
+      - name: Deploy the website to github pages
+        uses: JamesIves/github-pages-deploy-action@v4.4.0
+        with:
+          branch: gh-pages
+          folder: public
+          commit-message: "Website deployment"
+          clean: true
