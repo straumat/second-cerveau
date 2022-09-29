@@ -25,8 +25,10 @@
     {{ range .Site.Params.custom_css -}}
     <link href="{{(printf "%s" .) | relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}" rel="stylesheet">
     {{- end }}
-
+    <meta name="referrer" content="strict-origin" />
     <script src="{{"js/jquery-3.3.1.min.js"| relURL}}{{ if $assetBusting }}?{{ now.Unix }}{{ end }}"></script>
+
+    <script src="https://kit.fontawesome.com/5fb9c96d34.js" crossorigin="anonymous"></script>
 
     <style>
       :root #header + #content > #left > #rlblock_left{
