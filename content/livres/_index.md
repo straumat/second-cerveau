@@ -1,6 +1,6 @@
 ---
 title: Livres
-weight: 1
+weight: 7
 depth: 0
 pre: "<i class='fa-solid fa-book'></i> "
 chapter: true

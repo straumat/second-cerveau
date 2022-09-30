@@ -1,8 +1,8 @@
 ---
-title: Sujets
-weight: 8
+title: Projets
+weight: 1
 depth: 0
-pre: "<i class='fa-solid fa-lightbulb'></i> "
+pre: "<i class='fa-solid fa-bars-progress'></i> "
 chapter: true
 ---
 

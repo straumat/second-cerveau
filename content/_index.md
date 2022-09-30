@@ -4,7 +4,7 @@ title: "Mon second cerveau"
 
 # Mon second cerveau
 
-## Qu'est-ce que c'est et pourquoi ?
+## Qu'est-ce que c'est ? Quel est le but ?
 
 Début 2021, je me suis mis comme objectif de lire un livre par semaine ce qui a été l'une des meilleures décisions de ma
 vie. Cela a carrément changé ma façon de voir le monde, d'aborder les choses et de me comporter au jour le jour.
@@ -56,11 +56,40 @@ Richard Feynman avait une stratégie géniale, il gardait dans sa tête une douz
 Dès qu'il entendait quelque chose de nouveau et d'intéressant, il regardait si cela pouvait faire avancer ses problèmes.
 Si oui, il prenait en note !
 
-Vous devez vous poser la question 
+Vous devez vous poser la question "Quelles sont les questions qui m'ont toujours intéressées ?" Cela peut être des
+questions très larges comme "Comment rendre la société plus égalitaire ?" ou très pratique comme "Comment faire du sport
+plus régulièrement ?".
+
+Voici ensuite les critères pour choisi quoi capturer :
+
+- Est-ce que cela m'inspire ?
+- Est-ce utile ? Parfois ce n'est pas intéressant, mais c'est utile : statistique, référence, schéma...
+- Est-ce surprenant ? Pour lutter contre le biais de confirmation, notez ce qui va contre vos croyances.
+
+En moyenne, je capture deux ou trois idées par jour.
 
 #### Organize
+
+Lorsque vous avez un projet, vous devez créer un dossier, un peu comme si vous achetiez une boite et que vous colliez le
+nom du projet dessus. Cela vous permettra de vous sentir organiser, d'avoir un endroit où vous allez décharger votre
+cerveau, mais c'est aussi une forme d'engagement à mener à bien votre projet. Le simple fait d'avoir créé et nommer un
+dossier signifie que vous avez commencé à travailler dessus.
+
+Quand vous aurez commencé à capturer des idées, vous devriez ressentir une certaine excitation, mais vous devriez
+bientôt faire face à un nouveau problème : que faire de toutes ses informations ?
+
+La façon de les organiser la plus efficace selon l'auteur est la suivante :
+
+- **P**rojects : Ce sur quoi vous travaillez en ce moment (perso ou pro).
+- **A**reas : Choses sur lesquelles j'aimerais travailler sur le long terme.
+- **R**ssources : Choses qui pourraiennt être utiles dans le futur.
+- **A**rchives : Les sujets inactifs des trois précédentes catégories.
+
+Avec cette organisation, quand vous devez trier une note, la question que vous devez vous poser est simplement : "Dans
+quel projet cette information serait la plus utile ?".
 
 #### Distill
 
 #### Express
 
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=blog-straumat-21&language=fr_FR&marketplace=amazon&region=FR&placement=B09MDNDYYF&asins=B09MDNDYYF&linkId=d5f49865f0e9fd9ca5f632c28b001ec1&show_border=true&link_opens_in_new_window=true"></iframe>
