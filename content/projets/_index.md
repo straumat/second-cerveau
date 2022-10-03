@@ -6,6 +6,6 @@ pre: "<i class='fa-solid fa-bars-progress'></i> "
 chapter: true
 ---
 
-# Sujets
+# Projets
 
-Points de vue et données intéressantes sur divers sujets
+Ce sur quoi je suis en train de travailler maintenant

@@ -80,16 +80,50 @@ bientôt faire face à un nouveau problème : que faire de toutes ses informatio
 
 La façon de les organiser la plus efficace selon l'auteur est la suivante :
 
-- **P**rojects : Ce sur quoi vous travaillez en ce moment (perso ou pro).
+- **P**rojects : Ce sur quoi vous travaillez en ce moment (perso ou pro mais pas plus de dix en même temps).
 - **A**reas : Choses sur lesquelles j'aimerais travailler sur le long terme.
-- **R**ssources : Choses qui pourraiennt être utiles dans le futur.
+- **R**ssources : Choses qui pourraient être utiles dans le futur.
 - **A**rchives : Les sujets inactifs des trois précédentes catégories.
 
 Avec cette organisation, quand vous devez trier une note, la question que vous devez vous poser est simplement : "Dans
 quel projet cette information serait la plus utile ?".
 
+Mais tout n'est pas un projet, par exemple la partie finance n'est pas un projet avec une date de fin. C'est quelque
+chose qui se traite sur le long terme et sur lequel on doit constamment améliorer ses compétences.
+
+Les ressources, c'est tout ce qui n'est pas un projet ou un domaine, mais qui est un sujet qui m'intéresse comme, la
+physique quantique ou l'agriculture.
+
+Enfin, quand quelque chose est fini ou ne vous intéresse plus, vous le mettez aux archives. Comme ça, au cas où, vous
+pourrez toujours le retrouver si cela revient sur le tapis.
+
+Toutes les semaines, le mardi pour moi, je trie les notes que j'ai capturé dans Google Keep pour les ranger dans l'un
+des quatre dossiers avec un processus très simple:
+
+- Dans quel projet cette note peut être importante ?
+- Sinon, dans quel domaine peut-elle être utile ?
+- Sinon, c'est lié à quelle ressource ?
+- Sinon, archive.
+
 #### Distill
 
+Pour distiller les notes et en tirer le meilleur parti, le mieux est de revenir plusieurs fois sur les notes et les
+améliorer en faisant trois choses :
+
+- En mettant en gras les phrases importantes.
+- En surlignant les phrases contenant les idées fondamentales.
+- En écrivant un résumé en haut de la note qui liste ce qu'il faut retenir sous forme de liste.
+
+Améliorer une note peut se faire quand vous n'avez plus l'énergie d'avancer sur un sujet, vous prenez alors l'une de vos
+notes et vous travaillez à l'améliorer.
+
 #### Express
+
+
+
+
+
+
+
 
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=blog-straumat-21&language=fr_FR&marketplace=amazon&region=FR&placement=B09MDNDYYF&asins=B09MDNDYYF&linkId=d5f49865f0e9fd9ca5f632c28b001ec1&show_border=true&link_opens_in_new_window=true"></iframe>
