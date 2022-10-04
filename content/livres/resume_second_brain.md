@@ -3,7 +3,9 @@ title: Résumé "Second brain" par Tiago Forte
 menuTitle: Second brain
 ---
 
-## Qu'est-ce que c'est ? Quel est le but ?
+<a href="https://www.amazon.fr/dp/B09MDNDYYF?&linkCode=li2&tag=blog-straumat-21&linkId=10d5fbc7befd628292d2f1dd34638b24&language=fr_FR&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09MDNDYYF&Format=_SL160_&ID=AsinImage&MarketPlace=FR&ServiceVersion=20070822&WS=1&tag=blog-straumat-21&language=fr_FR" ></a><img src="https://ir-fr.amazon-adsystem.com/e/ir?t=blog-straumat-21&language=fr_FR&l=li2&o=8&a=B09MDNDYYF" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## Construire un second cerveau ? Quel est le but ?
 
 Début 2021, je me suis mis comme objectif de lire un livre par semaine ce qui a été l'une des meilleures décisions de ma
 vie. Cela a carrément changé ma façon de voir le monde, d'aborder les choses et de me comporter au jour le jour.
@@ -14,6 +16,11 @@ La prise de note que l'on nous a appris à l'école considérait l'apprentissage
 intention que ces connaissances soient utiles à long terme. Alors que traitée correctement, une note est un "bloc de
 connaissances" - une unité d'information discrète interprétée à travers votre point de vue unique et stockée en dehors
 de votre tête pour être utilisée plus tard.
+
+J'ai donc créé ce site suite à la lecture du livre [Building a Second Brain](https://amzn.to/3LQCulw) qui décrit une
+méthode à la fois simple & élégante de se créer une base de connaissance. L'idée est d'avoir à portée de main une
+collection de souvenirs, idées, connaissances, résumés, articles qui seront utiles pour le travail, le business et la
+vie en général.
 
 ## Les quatre capacités essentielles du second cerveau
 
@@ -144,4 +151,3 @@ toute son énergie, il écrivait de manière la prochaine étape de son travail.
 travail un peu plus tard, il savait exactement où reprendre et ne perdait pas de temps à se poser la question. Il
 passait directement à l'action.
 
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=blog-straumat-21&language=fr_FR&marketplace=amazon&region=FR&placement=B09MDNDYYF&asins=B09MDNDYYF&linkId=d5f49865f0e9fd9ca5f632c28b001ec1&show_border=true&link_opens_in_new_window=true"></iframe>

@@ -4,7 +4,7 @@ title: "Mon second cerveau"
 
 # Mon second cerveau
 
-## Qu'est-ce que c'est ? Quel est le but ?
+## Quel est le but de ce site ?
 
 Début 2021, je me suis mis comme objectif de lire un livre par semaine ce qui a été l'une des meilleures décisions de ma
 vie. Cela a carrément changé ma façon de voir le monde, d'aborder les choses et de me comporter au jour le jour.
