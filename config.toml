@@ -6,7 +6,7 @@ theme = 'hugo-theme-learn'
 
 [params]
 themeVariant = "blue"
-
+landingPageURL = '/second-cerveau'
 
 [markup]
 [markup.goldmark]
