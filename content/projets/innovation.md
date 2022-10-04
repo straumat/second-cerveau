@@ -24,7 +24,7 @@ SPS nous a montré qu’une solution qui couvre et résout trop de problèmes es
 le client implique beaucoup de changements et dérange beaucoup de monde. Ceci allonge son cycle de ventes et crée trop
 d’ennemis.
 
-**À retenir** : Un produit doit résoudre un ou deux problèmes importants.
+**À retenir** : Un produit doit résoudre un problème important.
 
 #### Le premier client s’achète.
 

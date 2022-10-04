@@ -115,7 +115,33 @@ des sources d'inspiration (leurs expériences, observations, idées, discussions
 articles...) ont tendance à être sous évaluées.
 
 La dernière étape du processus créatif consiste à refuser d'attendre d'avoir fait quelque chose de parfait avant de
-partager ce que vous savez. Il s'agit de montrer ce que vous faites plus tôt, plus souvent et dans de petites extraits
+partager ce que vous savez. Il s'agit de montrer ce que vous faites plus tôt, plus souvent et dans de petits extraits
 pour tester ce qui marche et recueillir des retours.
+
+## Faire en sorte que les choses arrivent
+
+L'innovation et la résolution de problème nécessite d'avoir une routine qui vous remonte régulièrement des idées
+intéressantes. Il faut que votre cerveau croise vos anciennes idées constamment. Si vous y regardez bien, le processus
+de création suit toujours le même principe : passer de la divergence à la convergence et recommencer cela indéfiniment.
+
+**L'objectif de la divergence, c'est de générer des nouvelles idées**. Certains ont des tableaux blancs où ils
+dessinent, certains font des croquis, d'autres feuillètent des catalogues. C'est un processus chaotique.
+
+**L'objectif de la convergence, c'est de décider ce qui est vraiment essentiel**. Il s'agit là de réduire le nombre de
+possibilités, d'éliminer des options afin de produire un résultat minimal dont vous pourrez être fier.
+
+Votre second cerveau est un des outils que vous aurez pour résoudre ce problème : "je ne sais pas par où commencer ?".
+Désormais, consciemment, vous saurez dans quel état vous êtes, vous pourrez savoir si vous avez besoin de faire plus de
+recherche, si vous devez élargir vos horizons ou être plus focus, si vous devez partir de 0 ou d'un existant.
+
+Au lieu de rester devant une page blanche, relisez vos notes, vos emails, vos ressources, les articles que vous avez
+trouvés intéressant... c'est comme cela que vous pourrez combattre la procrastination.
+
+## Une dernière astuce
+
+Hemingway finissait une session d'écriture seulement quand il savait ce qu'il allait écrire ensuite. Au lieu d'épuiser
+toute son énergie, il écrivait de manière la prochaine étape de son travail. De cette façon, quand il se remettait au
+travail un peu plus tard, il savait exactement où reprendre et ne perdait pas de temps à se poser la question. Il
+passait directement à l'action.
 
 <iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=blog-straumat-21&language=fr_FR&marketplace=amazon&region=FR&placement=B09MDNDYYF&asins=B09MDNDYYF&linkId=d5f49865f0e9fd9ca5f632c28b001ec1&show_border=true&link_opens_in_new_window=true"></iframe>
