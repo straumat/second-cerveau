@@ -57,11 +57,6 @@ marketplaces type github permettent de se faire connaître à moindre coût.
 
 ## Éléments clés pour réussir.
 
-#### Une solution B2B.
-
-Personne dans l’équipe n’a de compétences ou d’expériences sur comment attaquer le marché du grand public et cela
-nécessite généralement beaucoup de dépenses marketing.
-
 #### Un marché potentiel intéressant & des clients riches.
 
 Il vaut mieux cibler un marché existant en croissance ou en phase de mutation. Un marché qui change permet des erreurs
