@@ -1,4 +1,5 @@
 baseURL = 'https://straumat.github.io/second-cerveau/'
+IsMultiLingual = false
 landingPageURL = '/second-cerveau'
 languageCode = 'fr-FR'
 title = 'Second cerveau'
