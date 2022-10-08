@@ -36,7 +36,7 @@ vie en général.
 ### La méthode CODE : les quatre étapes pour se souvenir de ce qui compte
 
 - **C**apture : Ne conservez que ce qui résonne en vous.
-- **O**rganize : Organisez vote notes pour qu'elles puissent servir à l'action.
+- **O**rganize : Organisez vos notes pour qu'elles puissent servir à l'action.
 - **D**istill : Trouver l'essence dans les notes que vous avez prises. "Comment rendre utile pour mon futur moi ?"
 - **E**xpress : Montrez votre travail, car le savoir ne sert qu'à une chose : passer à l'action.
 
@@ -69,17 +69,17 @@ En moyenne, je capture deux ou trois idées par jour.
 
 Lorsque vous avez un projet, vous devez créer un dossier, un peu comme si vous achetiez une boite et que vous colliez le
 nom du projet dessus. Cela vous permettra de vous sentir organisé, d'avoir un endroit où vous allez décharger votre
-cerveau, mais c'est aussi une forme d'engagement à mener à bien votre projet. Le simple fait d'avoir créé et nommer un
+cerveau, mais c'est aussi une forme d'engagement à mener à bien votre projet. Le simple fait d'avoir créé et nommé un
 dossier signifie que vous avez commencé à travailler dessus.
 
 Quand vous aurez commencé à capturer des idées, vous devriez ressentir une certaine excitation, mais vous devriez
 bientôt faire face à un nouveau problème : que faire de toutes ses informations ?
 
-La façon de les organiser la plus efficace selon l'auteur est d'avoirs quatre dossiers :
+La façon de les organiser la plus efficace selon l'auteur est d'avoir quatre dossiers :
 
 - **P**rojects : Ce sur quoi vous travaillez en ce moment (perso ou pro, mais pas plus de dix en même temps).
 - **A**reas : Choses sur lesquelles j'aimerais travailler sur le long terme.
-- **R**ssources : Choses qui pourraient être utiles dans le futur.
+- **R**essources : Choses qui pourraient être utiles dans le futur.
 - **A**rchives : Les sujets inactifs des trois précédentes catégories.
 
 Avec cette organisation, quand vous devez trier une note, la question que vous devez vous poser est simplement : "Dans
@@ -127,7 +127,7 @@ pour tester ce qui marche et recueillir des retours.
 
 ## Faire en sorte que les choses arrivent
 
-L'innovation et la résolution de problème nécessite d'avoir une routine qui vous remonte régulièrement des idées
+L'innovation et la résolution de problème nécessitent d'avoir une routine qui vous remonte régulièrement des idées
 intéressantes. Il faut que votre cerveau croise vos anciennes idées constamment. Si vous y regardez bien, le processus
 de création suit toujours le même principe : passer de la divergence à la convergence et recommencer cela indéfiniment.
 
@@ -142,12 +142,12 @@ Désormais, consciemment, vous saurez dans quel état vous êtes, vous pourrez s
 recherche, si vous devez élargir vos horizons ou être plus focus, si vous devez partir de 0 ou d'un existant.
 
 Au lieu de rester devant une page blanche, relisez vos notes, vos emails, vos ressources, les articles que vous avez
-trouvés intéressant... c'est comme cela que vous pourrez combattre la procrastination.
+trouvés intéressant... c'est comme ça que l'on combat la procrastination.
 
 ## Une dernière astuce
 
 Hemingway finissait une session d'écriture seulement quand il savait ce qu'il allait écrire ensuite. Au lieu d'épuiser
-toute son énergie, il écrivait de manière la prochaine étape de son travail. De cette façon, quand il se remettait au
-travail un peu plus tard, il savait exactement où reprendre et ne perdait pas de temps à se poser la question. Il
-passait directement à l'action.
+toute son énergie, avant de s'arrêter, il écrivait quelle serait la prochaine étape de son travail. De cette façon,
+quand il se remettait au travail un peu plus tard, il savait exactement où reprendre et ne perdait pas de temps à se
+poser la question. Il passait directement à l'action.
 

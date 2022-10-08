@@ -26,21 +26,21 @@ d’ennemis.
 
 **À retenir** : Un produit doit résoudre un problème important.
 
-#### Le premier client s’achète.
+#### Le premier client s’achète
 
 Inutile de penser, concevoir, développer et vendre un produit si l’on n'a pas déjà un client qui l’utilise et qui sert
 de référence.
 
 **À retenir**: Un produit doit être créé avec un client utilisateur.
 
-#### Ne pas tout dépenser en développement logiciel.
+#### Ne pas tout dépenser en développement logiciel
 
 On a à chaque fois réalisé de bons produits avec un budget qui se concentrait exclusivement sur le produit. Mais par
 contre, rien sur le marketing. Sur tous nos produits, on a quasiment aucun appel entrant !
 
 **À retenir**: On doit prévoir un budget marketing.
 
-#### L’open source ce n’est pas simple.
+#### L’open source ce n’est pas simple
 
 L’open source est un canal de distribution qui permet d’ouvrir les portes de nombreux comptes avec un minimum d’efforts.
 Pour des projets pointus, il offre un accès à des utilisateurs/clients qui sont “planqués” dans des organisations
@@ -55,35 +55,35 @@ marketplaces type github permettent de se faire connaître à moindre coût.
 
 **À retenir**: Voir si notre produit pourrait être déployé sur une plateforme.
 
-## Éléments clés pour réussir.
+## Éléments clés pour réussir
 
-#### Un marché potentiel intéressant & des clients riches.
+#### Un marché potentiel intéressant & des clients riches
 
 Il vaut mieux cibler un marché existant en croissance ou en phase de mutation. Un marché qui change permet des erreurs
 et laisse du temps pour se développer. Si les clients cibles sont riches, ils pourront payer plus pour aller vite et
 pour une offre pertinente.
 
-#### Clarté de l'objectif.
+#### Clarté de l'objectif
 
 Il faut décrire UN problème que l’on veut résoudre, comment nous allons le résoudre et pourquoi c’est important de le
 faire pour nos clients. Les clients achètent des produits simples avec une proposition de valeur singulière.
 
-#### Un premier client pour la première version.
+#### Un premier client pour la première version
 
 Afin de valider que nous résolvons correctement le problème et permettre de vendre la solution, il nous faut un client
 qui participe à la conception et qui utilise la solution.
 
-#### Un canal de distribution.
+#### Un canal de distribution
 
 Idéalement, il nous faudrait avoir un ou plusieurs canaux de distribution. Cela peut prendre plusieurs formes : un
 modèle open source, une marketplace (comme Github marketplace ou Salesforce AppExchange) ou des solutions déjà
 existantes).
 
-#### Un budget marketing.
+#### Un budget marketing
 
 Il faut prévoir dès le début les dépenses marketing classiques : logo, site web, google ads, salons & partenariats.
 
-## Modèle du business plan à bâtir.
+## Modèle du business plan
 
 **Objectif de l'entreprise**
 

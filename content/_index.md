@@ -20,3 +20,5 @@ La prise de note que l'on nous a appris à l'école considérait l'apprentissage
 intention que ces connaissances soient utiles à long terme. Alors que traitée correctement, une note est un "bloc de
 connaissances" - une unité d'information discrète interprétée à travers votre point de vue unique et stockée en dehors
 de votre tête pour être utilisée plus tard.
+
+[Stéphane Traumat](https://github.com/straumat)
