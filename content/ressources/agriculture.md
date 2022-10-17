@@ -47,7 +47,8 @@ les [rendements](https://www.sciencedirect.com/science/article/abs/pii/S0308521X
 
 Le glyphosate n’est ni cancérigène, ni mutagène, ni reprotoxique confirme une fois de plus l’Agence européenne des
 produits chimiques, à l'instar de toutes les agences sanitaires publiques du monde. Un rapport
-complet [ici](https://food.ec.europa.eu/system/files/2021-06/pesticides_aas_agg_report_202106.pdf).
+complet [ici](https://food.ec.europa.eu/system/files/2021-06/pesticides_aas_agg_report_202106.pdf). Par contre, il pose
+des problèmes aquatiques.
 
 Cependant, les pesticides peuvent être évités, mais il faut noter que les seuils de détection sont maintenant
 considérablement inférieurs aux seuils de toxicité. Le lobby bio, exploite ce progrès à mauvais escient comme le montre
