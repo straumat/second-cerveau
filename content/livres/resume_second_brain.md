@@ -150,3 +150,5 @@ Hemingway finissait une session d'écriture seulement quand il savait ce qu'il a
 toute son énergie, avant de s'arrêter, il écrivait quelle serait la prochaine étape de son travail. De cette façon,
 quand il se remettait au travail un peu plus tard, il savait exactement où reprendre et ne perdait pas de temps à se
 poser la question. Il passait directement à l'action.
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=blog-straumat-21&language=fr_FR&marketplace=amazon&region=FR&placement=B09MDNDYYF&asins=B09MDNDYYF&linkId=c3c5596c97afb1e75b8feae6ff19eaca&show_border=true&link_opens_in_new_window=true"></iframe>
