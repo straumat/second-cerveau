@@ -52,7 +52,7 @@ Cela **exige que vous fassiez face à votre finitude**.
 
 Afin d'habiter pleinement la seule vie que vous ayez jamais eue, vous devez vous abstenir d'utiliser chaque heure libre
 pour votre développement personnel. Se reposer pour se reposer (profiter d'une heure à rien faire par exemple) implique
-d'abord d'accepter le fait que**vos journées ne progressent pas vers un état futur de bonheur parfaitement
+d'abord d'accepter le fait que **vos journées ne progressent pas vers un état futur de bonheur parfaitement
 invulnérable**, et que les aborder avec une telle hypothèse revient systématiquement à vider nos quatre
 mille semaines de leur valeur.
 
