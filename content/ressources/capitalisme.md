@@ -6,6 +6,8 @@ menuTitle: Capitalisme & co
 ## Now is the best time in human history to be alive
 
 [Now is the best time in human history to be alive](https://www.youtube.com/watch?v=nK7AbxTGDSU) est un discours d'Obama
+qui résume assez bien les choses. Peu importe qui vous êtes (âge, sexe, genre, couleur de peau, famille...), il n'y a
+pas de meilleur moment dans l'histoire pour vivre qu'aujourd'hui.
 
 ## Bénéfices
 
@@ -24,9 +26,6 @@ Certains pays ont-ils réussi à croitre économiquement tout en réduisant leur
 Réponse du GIEC : OUI, MEME EN TENANT COMPTE DES IMPORTATIONS, le document
 est [ici](https://report.ipcc.ch/ar6wg3/pdf/IPCC_AR6_WGIII_FAQ_Chapter_02.pdf).
 ![giec découplage c02 économie](decouplage_co2.jpeg)
-
-
-
 
 ### Les sociétés primitives étaient communistes
 
