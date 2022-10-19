@@ -1,5 +1,5 @@
 ---
-title: Capitalisme, libéralisme & croissance
+title: Capitalisme, libéralisme et croissance
 menuTitle: Capitalisme & co
 ---
 
@@ -9,14 +9,21 @@ menuTitle: Capitalisme & co
 qui résume assez bien les choses. Peu importe qui vous êtes (âge, sexe, genre, couleur de peau, famille...), il n'y a
 pas de meilleur moment dans l'histoire pour vivre qu'aujourd'hui.
 
-## Bénéfices
+Un simple graphique pour résumer les choses:
+![Est-ce que le monde va de mieux en mieux ?](Two-centuries-World-as-100-people.png)
 
-### Permet à des pays de sortir de la pauvreté par eux même
+Cependant, il est difficile de faire accepter que le capitalisme améliore le sort de la société dans son ensemble à ceux
+qui sont potentiellement menacés par les effets de la concurrence et des phases récessives de l’économie.
 
-L'aide humanitaire est un échec en Afrique, les pays qui ont réussi à se développer s'en sont sorti par le commerce et
-l'export comme la Corée du Sud. Dans les années 1960, uniquement des matières premières, de la métallurgie et du
-textile. Aujourd'hui des produits électroniques, des voitures, des bateaux, des machines-outils, etc.
-![Export corée du sud](export_coree_du_sud.jpeg)
+Conscients de leurs acquis et de leur situation favorable, les citoyens vont rechercher un système plus stable,
+d’apparence plus protecteur et dans le même temps, se montrer de plus en plus à l’écoute des critiques contre le
+capitalisme.
+
+Cette tendance sera d’autant plus forte que le capitalisme encourage la liberté de pensée, ce qui va favoriser
+l’émergence de groupe d’individus dont la fonction est justement de conduire le réquisitoire anticapitaliste. Ces
+individus, que Schumpeter nomme "intellectuels" ou "professionnels de l’agitation sociale", ne sont pas intégrés dans la
+sphère économique. Ils peuvent donc la critiquer à loisir. Leur rôle est de stimuler, activer, exprimer et organiser les
+sujets de mécontentement (cf. Mélenchon).
 
 ## Mythes
 
@@ -26,6 +33,20 @@ Certains pays ont-ils réussi à croitre économiquement tout en réduisant leur
 Réponse du GIEC : OUI, MEME EN TENANT COMPTE DES IMPORTATIONS, le document
 est [ici](https://report.ipcc.ch/ar6wg3/pdf/IPCC_AR6_WGIII_FAQ_Chapter_02.pdf).
 ![giec découplage c02 économie](decouplage_co2.jpeg)
+
+Voici l'exemple français
+![decouplage co2 france](decouplage_france.jpeg)
+
+### Les sociétés primitives étaient écologistes
+
+Les premiers Nord-Américains de l'ère paléolithique ont défriché la plupart des forêts du continent et chassé les
+mammouths et autres mégafaunes jusqu'à l'extinction - y compris les ancêtres des chevaux.
+
+Au cours de l'histoire de l'humanité, environ les trois quarts de la déforestation dans les forêts tempérées se sont
+produites avant la révolution industrielle, lorsque la population humaine était inférieure à un milliard de personnes,
+qui vivaient presque toutes dans une pauvreté extrême par rapport aux normes industrielles actuelles.
+
+La décroissance n'offre aucune garantie que les impacts environnementaux diminueront.
 
 ### Les sociétés primitives étaient communistes
 
@@ -66,27 +87,13 @@ avec par exemple :
 
 ### Contrôle des prix
 
+Le contrôle des prix ne marche jamais comme le montre l'exemple de
+la [révolution française et sa gestion de l'inflation](https://www.lesechos.fr/economie-france/budget-fiscalite/1789-la-fabuleuse-inflation-des-assignats-1778629#xtor=CS1-26)
+. En septembre 1793, les sans-culottes arrachent à Robespierre le blocage des prix. Dix mois plus tard, la pénurie ainsi
+déclenchée est effroyable...
+
 ### Encadrement des loyers
 
 Le [contrôle des loyers à Berlin](https://www.bloomberg.com/opinion/articles/2021-03-02/berlin-s-rent-controls-are-proving-to-be-the-disaster-we-feared)
 est un désastre : protège les locataires existants aux dépens du reste de la population, en particulier les jeunes pour
 qui il est impossible de trouver un logement : et voici la pénurie.
-
-## Problématiques
-
-### Un bouleversement constant de l’économie
-
-Il est difficile de faire accepter que le capitalisme améliore le sort de la société dans son ensemble à ceux qui sont
-potentiellement menacés par les effets de la concurrence et des phases récessives de l’économie.
-
-Conscients de leurs acquis et de leur situation favorable, les citoyens vont rechercher un système plus stable,
-d’apparence plus protecteur et dans le même temps, se montrer de plus en plus à l’écoute des critiques contre le
-capitalisme.
-
-Cette tendance sera d’autant plus forte que le capitalisme encourage la liberté de pensée, ce qui va favoriser
-l’émergence de groupe d’individus dont la fonction est justement de conduire le réquisitoire anticapitaliste. Ces
-individus, que Schumpeter nomme "intellectuels" ou "professionnels de l’agitation sociale", ne sont pas intégrés dans la
-sphère économique. Ils peuvent donc la critiquer à loisir. Leur rôle est de stimuler, activer, exprimer et organiser les
-sujets de mécontentement. Leur rang se renforce en outre du fait de l’accroissement de la taille de l’administration
-publique. En effet, la "fonctionnarisation" engendre "l’esprit de caste" et dans le même temps stimule l’aversion pour
-le mouvement inhérent au capitalisme.

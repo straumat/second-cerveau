@@ -17,6 +17,9 @@ On peut aussi citer Paul R. Ehrlich et son fameux livre "La bombe P" qui expliqu
 of any crash programs embarked upon now. At this late date nothing can prevent a substantial increase in the world death
 rate"
 
+Les prévisions d'effondrement dues à la croissance démographique, à la surconsommation, à l'épuisement des ressources et
+à la pollution, remontant au révérend Thomas Malthus au XVIIIe siècle, ne se sont jamais réalisées.
+
 La vraie question pour la croissance future n'est pas celle de l'épuisement des ressources utilisées aujourd'hui; c'est
 la faillite de l'imagination de sociétés tellement nombrilistes qu'elles n'imaginent pas que l'avenir puisse être
 autrement que le présent.
