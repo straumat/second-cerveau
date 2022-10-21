@@ -72,6 +72,7 @@ semblé convaincre.
 Et il y en a bien d’autres. De même les smartphones ont remplacé des multitudes d’appareils électroniques pas plus
 pérennes et à fort impact (appareils photos compacts, GPS auto, lecteurs MP3, etc). Le marché des appareils photo s’est
 littéralement écroulé!
+![giec découplage c02 économie](decouplage_co2.jpeg)
 
 ## Articles utilisés
 
