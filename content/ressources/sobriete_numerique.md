@@ -46,9 +46,9 @@ On voit d’abord qu’aucun des éléments discutés, du serveur de données à
 particulière aux volumes de données échangés. Limiter les données n'a donc aucun sens, comme de limiter le nombre de
 kilometres que vous pourriez faire en transport en commun.
 
-## La vision du shit project
+## La vision du shift project
 
-Dans les travaux du Shit Project il existe des biais tellement évidents qu'ils décrédibilisent largement leur étude.
+Dans les travaux du Shift Project il existe des biais tellement évidents qu'ils décrédibilisent largement leur étude.
 Ainsi, sur le poids du streaming : 80% de la consommation des réseaux est fixe et ne dépend pas de la charge du
 réseau... Cela fausse tout leur raisonnement.
 
