@@ -24,6 +24,9 @@ La vraie question pour la croissance future n'est pas celle de l'épuisement des
 la faillite de l'imagination de sociétés tellement nombrilistes qu'elles n'imaginent pas que l'avenir puisse être
 autrement que le présent.
 
+["Des scientifiques qui s'appuient sur les dernières recherches et utilisent des computers perfectionnés prévoient des
+difficultés sinon la fin du monde pour l'an 2000" affirmaient les médias en 1972](https://twitter.com/JL7508/status/1314967415214792704)
+
 ## La vision de Julian Simon
 
 L'idée de Simon est les humains innoveraient pour sortir des pénuries de ressources. Il croyait que les gens étaient

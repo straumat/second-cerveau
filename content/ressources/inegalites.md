@@ -41,3 +41,11 @@ Il n'y a jamais eu autant de riches. Mais il n'y a jamais eu aussi peu de pauvre
 A priori, je n'ai pas vu de système plus efficace que celui d'aujourd'hui pour réduire la pauvreté, mais l’élimination
 de la misère implique aussi que certains entrepreneurs puissent devenir super-riches, au grand désarroi d’associations
 comme Oxfam.
+
+## Inégalités hommes/femmes
+
+Plusieurs choses intéressantes sur le fond du problème :
+
+- [Une étude suédoise suggère que la discrimination à l'embauche est principalement un problème pour les hommes dans les professions à prédominance féminine](https://www.psypost.org/2021/05/swedish-study-suggests-hiring-discrimination-is-primarily-a-problem-for-men-in-female-dominated-occupations-60699)
+- [L’écart salarial HF à job égal et temps de travail égal serait de 5,3%. Et pas de 28% qui est l’écart brut moyen](https://twitter.com/fmomboisse/status/1457411093970800646)
+- [Différence homme femme avant la naissance](https://www.psychologytoday.com/intl/blog/sax-sex/201903/new-study-blows-old-ideas-about-girls-and-boys?fbclid=IwAR2Y6ymgpW9qw-XcrhYLUikt3EzXzmqVUNfqaKvayplmbcFhYx7K82K33uk)

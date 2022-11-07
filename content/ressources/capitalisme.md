@@ -83,6 +83,10 @@ avec par exemple :
 - Non prise en compte de la taille du groupe (il y a de plus en plus de milliardaires).
 - Choix des dates (Comparaison entre un moment où la bourse était basse avec un moment où elle est haute).
 
+D'ailleurs, en choisissant d'autres dates, on peut facilement prouver l'inverse : "[Elon Musk, Jeff Bezos… Les 20
+milliardaires les plus riches de la tech ont perdu 500 milliards de dollars en 2022](https://www.sudouest.fr/economie/reseaux-sociaux/elon-musk-jeff-bezos-les-20-milliardaires-les-plus-riches-de-la-tech-ont-perdu-500-milliards-de-dollars-en-2022-12843977.php)"
+.
+
 ## Mesures de contrôle du capitalisme
 
 ### Contrôle des prix
