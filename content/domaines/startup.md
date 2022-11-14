@@ -170,3 +170,6 @@ Pour la forme, vous pouvez choisir entre
 le [Pitch Deck à la ycombinator](https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck)
 ou le [Pitch à la Stripe](https://stripe.com/fr/atlas/guides/pitching)
 
+## Ressources
+
+- [Solutions gratuites pour les développeurs](https://free-for.dev/#/)

@@ -78,4 +78,12 @@ du pouvoir d'achat) à l'échelle mondiale.
 ![ l'utilisation d'énergie (en kg d'équivalent pétrole) pour $1,000 de PIB ($ constants de 2011 à parité
 du pouvoir d'achat) à l'échelle mondiale](croissance_et_petrole.png)
 
+## Exemple de substitution
+
+Un fil très intéressant sur la pénurie de cobalt (pour les batteries), dont on nous prédisait les pires conséquences ("
+c'est fini les batteries", etc). Résolue par substitution. Ne jamais oublier l'inventivité humaine :
+[https://twitter.com/colinmckerrache/status/1562029813744926720](https://twitter.com/colinmckerrache/status/1562029813744926720)
+
+Un article détaille ce qui s'est passé
+ici : [https://www.bloomberg.com/news/articles/2022-08-23/electric-car-battery-bottlenecks-have-a-way-of-being-worked-out](https://www.bloomberg.com/news/articles/2022-08-23/electric-car-battery-bottlenecks-have-a-way-of-being-worked-out)
 

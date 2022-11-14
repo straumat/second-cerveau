@@ -24,6 +24,10 @@ Grâce au nucléaire, la France est le seul grand pays européen ayant déjà d�
 dans son mix.
 ![Mix énergétique 0 carbon europe france](objectif_electricite_0_carbon.jpeg)
 
+Les émissions de CO₂ fossiles par personne ont probablement atteint leur maximum :
+![Mix énergétique 0 carbon europe france](pic_emission_c02_par_personne.jpeg)
+
+
 ## Échec Allemand
 
 L'Allemagne

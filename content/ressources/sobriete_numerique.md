@@ -46,6 +46,12 @@ On voit d’abord qu’aucun des éléments discutés, du serveur de données à
 particulière aux volumes de données échangés. Limiter les données n'a donc aucun sens, comme de limiter le nombre de
 kilometres que vous pourriez faire en transport en commun.
 
+## 3G, 4G, 5G...
+
+Le développement de la 4G et 5G a permis au groupe Orange d'augmenter de 40% par an, depuis 2019, le trafic sur le
+mobile, sans accroître sa consommation d'énergie. Et depuis 2014, l'énergie requise pour transporter 1 Go de data a été
+divisée par 10. Voir [l'article du Figaro](https://www.lefigaro.fr/secteur/high-tech/orange-s-organise-pour-faire-face-aux-coupures-d-electricite-20221109). 
+
 ## La vision du shift project
 
 Dans les travaux du Shift Project il existe des biais tellement évidents qu'ils décrédibilisent largement leur étude.
