@@ -114,8 +114,8 @@ Voici un résumé des points importants :
   cancers de la thyroïde dans la préfecture de Fukushima (Ohira et al. 2020)."
 - "Terres inhabitables" : Il faut 50.000 heures (5ans 9mois) pour prendre autant de radiation qu'un scanner thoracique.
 - Sur l'eau contaminée, excellent thread [ici](https://twitter.com/GillardVautier/status/1486714030047723531).
-- Le retour au Charbon : VRAI ! D'ailleurs outre l'aspect climatique, les fumées du charbon, et la hausse du prix de
-  l'électricité japonaises, ont chacun fait plus de morts que l'évacuation (2000).
+- Le retour au Charbon : VRAI ! D'ailleurs outre l'aspect climatique, les fumées du charbon et la hausse du prix de
+  l'électricité japonaise, ont chacun fait plus de morts que l'évacuation (2000).
 
 **Déchêts**
 
@@ -147,8 +147,5 @@ France) est à un stade avancé de son démantèlement.
 
 ## Scénarios
 
-**Négawatt**
-
-[Bonne explication du scénario Négawatt](https://twitter.com/PartiPirate/status/1185511759521767424) avec quelques
-éléments importants:
+- [Bonne explication du scénario Négawatt](https://twitter.com/PartiPirate/status/1185511759521767424).
 

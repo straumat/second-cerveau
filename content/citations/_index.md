@@ -26,6 +26,10 @@ pre: "<i class='fa-solid fa-quote-left'></i> "
   qu'il est presque impossible de le faire sans erreurs. Par conséquent, des personnes qui n'apportent rien à la
   société, à part leurs critiques constantes, peuvent se sentir intellectuellement et moralement supérieures.
 
+### Travail
+
+- Les grands esprits créatifs pensent comme des artistes, mais travaillent comme des comptables.
+
 ### La routine & les habitudes
 
 - Je ne crois pas aux objectifs spécifiques, établissez des systèmes, pas des objectifs.
