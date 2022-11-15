@@ -1,6 +1,6 @@
 ---
 title: Création d'une startup - Comment bien penser le projet ?
-menuTitle: Startup
+menuTitle: Entreprise - Startup
 ---
 
 ## Première étape : trouver un problème !

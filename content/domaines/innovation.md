@@ -1,6 +1,6 @@
 ---
 title: Comment structurer un processus d'innovation
-menuTitle: Innovation
+menuTitle: Entreprise - Innovation
 ---
 
 ## Trois types d'innovations

@@ -1,6 +1,6 @@
 ---
 title: Le Copywriting, l'art de vendre avec les mots
-menuTitle: Copywriting
+menuTitle: Compétence - Copywriting
 ---
 
 Ceci est un résumé que j'ai écrit à partir du
