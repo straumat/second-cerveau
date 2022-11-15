@@ -1,5 +1,10 @@
 Titre
 
+
+Lire cela : https://blog.samaltman.com/productivity
+
+Comment je gère mon agenda? "If you take care of the minutes, the years will take care of themselves."
+
 I think the best way to prepare for the future 20 years is find something you love to do, to have a shot at being one of
 the best people in the world at it. Build an independent brand around it, with your name
 
@@ -15,3 +20,5 @@ et comment agir.
 Ce que vous souhaitez : "La tranquillité, la liberté et le calme".
 
 Les objectifs que vous vous fixez doivent être des objectifs “internes” et de ne doivent pas dépendre de tiers.
+
+Bloquer les notifications/applications/site avec la solution free

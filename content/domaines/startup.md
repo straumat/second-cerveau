@@ -3,15 +3,11 @@ title: Création d'une startup - Comment bien penser le projet ?
 menuTitle: Startup
 ---
 
-## Quel est le problème ?
-
-### Introduction
+## Première étape : trouver un problème !
 
 La première chose est de bien comprendre qu'une startup est un business, pas un produit. Il ne faut donc pas commencer
-par construire la bonne solution, mais par trouver le bon problème.
-
-Une fois que le problème sera bien identifié et compris, construire la solution qui permettra de créer un bon business
-sera plus simple.
+par construire la bonne solution, mais par trouver le bon problème. Une fois que le problème sera bien identifié et
+compris, construire la solution qui permettra de créer un bon business sera plus simple.
 
 ### L'énoncé du problème
 
@@ -24,26 +20,9 @@ On peut regrouper tout cela dans un "Problem Statement Canvas".
 Le modèle de canvas peut être
 téléchargé [ici](https://docs.google.com/spreadsheets/d/1PSVtth0kZXQ9doPAU3l5ZKZ6w14ekxRAa0x0WLn_sBE/edit#gid=0)
 
-#### Clients
+### Être sûr d'avoir d'avoir identifié le vrai problème ?
 
-C'est toujours difficile de se fermer des portes, mais vous devez être le plus "focus" possible : il vaut mieux cibler
-les 10% de gens pour qui le problème est un vrai problème et les 90% restants pour qui ce problème est une petite
-nuisance.
-
-Vous devez connaître ces clients types : qui sont ils ? Où vivent ils ? Quels sont leurs revenus ?... vous devez être
-capable d'être précis "Jeunes femmes entre 25 et 35 ans, avec des revenus confortables et qui vivent en centre-ville".
-
-_Facebook a réussi à devenir un produit de masse, mais il n'a pas commencé en visant tout le monde, il a commencé par
-cibler les problèmes des étudiants d'Harvard._
-
-#### Contexte
-
-La plupart des problèmes ne sont pas permanents et comprendre ce qui les déclenche vous aidera à comprendre la racine du
-problème. Ceci vous permettra aussi de réfléchir à quand et comment votre solution doit "apparaître".
-
-#### Le problème
-
-Vous devez maintenant identifier le problème à la source et pas les symptômes.
+Vous devez maintenant être sûr d'avoir identifié le problème à la source et pas les symptômes.
 
 Pour ce faire, vous pouvez utiliser la technique "[Root cause analysis](http://www.designkit.org/methods/66)" qui
 consiste, si je simplifie, à creuser en demandant cinq fois d'affilée "Pourquoi ?".
@@ -56,10 +35,10 @@ Exemple pour une voiture ne démarre pas :
 - Quatrième pourquoi ? "L'alternateur avait dépassé sa durée de vie et n'a pas été réparé"
 - Cinquième pourquoi ? "Le véhicule n'a pas été contrôlé dans les délais comme elle aurait dû l'être"
 
-Autre exemple, on peut passer d'un problème simplement décrit comme "Coincé dans les embouteillages" à "Pourrait faire
-des choses plus intéressantes que d'être simplement coincé en voiture".
+On peut ainsi passer d'un problème simplement décrit comme "Coincé dans les embouteillages" à "Pourrait faire des choses
+plus intéressantes que d'être simplement coincé en voiture".
 
-Exemples:
+Voici d'autres exemples:
 
 - Dropbox : “People want to share files and are dependent on their pen drives”
 - Uber : “Peoples loose time in traffic instead of doing something useful”
@@ -69,7 +48,7 @@ Exemples:
 - Coinbase : "Bitcoin usage is growing quickly among early adopters, but it’s complicated to buy and store it"
 - SpaceX : "As insurance against humanity’s existential risk, we need to develop rockets that can help us colonize Mars"
 
-#### Impact émotionnel
+### Impact émotionnel
 
 Comprendre l'impact émotionnel vous aidera à vous mettre à la place du client et comprendre son comportement. Plus
 l'impact émotionnel est important, plus la personne peut être poussée à utiliser votre solution.
@@ -91,6 +70,60 @@ succès. La liste la plus pertinente que nous ayons trouvée est celle proposée
 - Avoir une très bonne équipe. Pour réussir, il faut tout simplement avoir les meilleurs à ses côtés. L’équipe est
   souvent l’un des éléments du business plan le plus examiné.
 - Rester agile. C’est cet avantage clé qui permet de réussir face aux grandes entreprises.
+
+## Clients
+
+C'est toujours difficile de se fermer des portes, mais vous devez être le plus "focus" possible : il vaut mieux cibler
+les 10% de gens pour qui le problème est un vrai problème et les 90% restants pour qui ce problème est une petite
+nuisance.
+
+Vous devez connaître ces clients types : qui sont ils ? Où vivent ils ? Quels sont leurs revenus ?... vous devez être
+capable d'être précis "Jeunes femmes entre 25 et 35 ans, avec des revenus confortables et qui vivent en centre-ville".
+
+_Facebook a réussi à devenir un produit de masse, mais il n'a pas commencé en visant tout le monde, il a commencé par
+cibler les problèmes des étudiants d'Harvard._
+
+## Votre mission
+
+L'énoncé de la mission de votre entreprise est le moyen de communiquer la raison d'être de votre activité au monde.
+
+**Votre mission définit à la fois ce que vous êtes et ce que vous faites.**
+
+Il doit :
+
+- Faire ressortir les activités de votre entreprise, en indiquant les marchés qu'elle sert, les zones géographiques
+  qu'elle couvre, ainsi que les produits/services qu'elle offre.
+- Souligner les choses que fait votre entreprise et qui la distingue des autres entreprises.
+- Mentionner les aspirations auxquelles vous aspirez au cours des années à venir.
+- Être claire, concise, dense, intéressante.
+
+Voici les questions que vous pouvez vous poser :
+
+- Quels clients votre entreprise a l'intention de servir.
+- Quels produits ou services votre entreprise a-t-elle l'intention de fournir ?
+- A quels besoins répondez-vous ?
+- En quoi êtes-vous différents de la concurrence ?
+
+Voici quelques exemples :
+
+- LVMH : notre mission est d'être l'ambassadeur de l'art de vivre occidental en ce qu'il a de plus raffiné. Nous voulons
+  apporter du rêve dans la vie par nos produits et par la culture qu'ils représentent.
+- Capgemini : nous concevons et mettons en œuvre les solutions business et technologiques qui correspondent à vos
+  besoins et vous apportent les résultats que vous attendez.
+- 1001menus : Notre mission est d'aider les restaurateurs à gérer simplement leur communication sur internet dans le but
+  de gagner de nouveaux clients.
+
+**Présentez vos buts et objectifs**
+Les buts décrivent la démarche qui vous permettent d'accomplir votre mission. Vous pouvez définir des buts comme "
+Devenir leader du marché" ou "Être le fournisseur préféré des entreprises du numérique".
+
+Vous ne pouvez pas contenter de buts, vous devez prévoir comment les atteindre et c'est à cela que servent les
+objectifs.
+
+Concrètement :
+
+- Les buts sont des résultats généraux que votre entreprise s'engage absolument à obtenir.
+- Les objectifs sont des énoncés spécifiques liés à un but et qui détaillent ce qui doit être fait et quand.
 
 ## Quelques questions à se poser pour finaliser son idée
 
@@ -130,46 +163,24 @@ succès. La liste la plus pertinente que nous ayons trouvée est celle proposée
 - Votre position sur le marché sera-t-elle défendable dans 10 et 20 ans ?
 - Avez-vous identifié une opportunité unique que les autres ne voient pas ?
 
-## Votre mission
-L'énoncé de la mission de votre entreprise est le moyen de communiquer la raison d'être de votre activité au monde.
-
-**Votre mission définit à la fois ce que vous êtes et ce que vous faites.**
-
-Il doit :
-- Faire ressortir les activités de votre entreprise, en indiquant les marchés qu'elle sert, les zones géographiques qu'elle couvre, ainsi que les produits/services qu'elle offre.
-- Souligner les choses que fait votre entreprise et qui la distingue des autres entreprises.
-- Mentionner les aspirations auxquelles vous aspirez au cours des années à venir.
-- Être claire, concise, dense, intéressante.
-
-Voici les questions que vous pouvez vous poser :
-- Quels clients votre entreprise a l'intention de servir.
-- Quels produits ou services votre entreprise a-t-elle l'intention de fournir ?
-- A quels besoins répondez-vous ?
-- En quoi êtes-vous différents de la concurrence ?
-
-Voici quelques exemples :
-- LVMH : notre mission est d'être l'ambassadeur de l'art de vivre occidental en ce qu'il a de plus raffiné. Nous voulons apporter du rêve dans la vie par nos produits et par la culture qu'ils représentent.
-- Capgemini : nous concevons et mettons en œuvre les solutions business et technologiques qui correspondent à vos besoins et vous apportent les résultats que vous attendez.
-- 1001menus : Notre mission est d'aider les restaurateurs à gérer simplement leur communication sur internet dans le but de gagner de nouveaux clients.
-
-**Présentez vos buts et objectifs**
-Les buts décrivent la démarche qui vous permettent d'accomplir votre mission. Vous pouvez définir des buts comme "Devenir leader du marché" ou "Être le fournisseur préféré des entreprises du numérique".
-
-Vous ne pouvez pas contenter de buts, vous devez prévoir comment les atteindre et c'est à cela que servent les objectifs.
-
-Concrètement :
-- Les buts sont des résultats généraux que votre entreprise s'engage absolument à obtenir.
-- Les objectifs sont des énoncés spécifiques liés à un but et qui détaillent ce qui doit être fait et quand.
-
 ## Bâtir un pitch
 
 [Pitchez votre startup à la Pixar](https://startuppitch.substack.com/p/nail-your-startup-pitch-use-pixars) est à mon
-avis une des meilleures façons de présenter son projet.
+avis une des meilleures façons de présenter son projet, mais vous devez aussi raconter une histoire comme le propose
+ce [Framework de storytelling](https://trueventures.com/blog/storytelling-for-startups).
 
 Pour la forme, vous pouvez choisir entre
 le [Pitch Deck à la ycombinator](https://www.ycombinator.com/library/2u-how-to-build-your-seed-round-pitch-deck)
 ou le [Pitch à la Stripe](https://stripe.com/fr/atlas/guides/pitching)
 
-## Ressources
+## Ressources utiles
 
 - [Solutions gratuites pour les développeurs](https://free-for.dev/#/)
+- [Illustrations open source](https://undraw.co/illustrations)
+- [Templates de sites web gratuits](https://html5up.net/)
+- [Modèles de pages landing gratuits](https://cruip.com/free-templates/)
+- [Images gratuites](https://unsplash.com/)
+- [Icônes représentant les technologies](https://devicon.dev/)
+- [Outil pour faire les logos](https://www.canva.com/fr_fr/)
+- [Modèles de présentation pour faire des pitchs](https://theslidequest.com/)
+- [Génération de contenu via IA](https://www.peppertype.ai/)
