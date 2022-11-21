@@ -83,6 +83,9 @@ pesticides ». Et
 pourtant, [personne ne semble vouloir venir travailler dans les champs](https://rmc.bfmtv.com/actualites/sciences-nature/personne-n-est-venu-le-desarroi-de-ces-agriculteurs-qui-ne-trouvent-pas-de-main-d-oeuvre-en-france_AV-202012090597.html)
 .
 
+Pour info, ce robot peut traiter 500 000 plantes par heure avec 95 % de produits chimiques en moins
+[https://www.youtube.com/watch?v=sV0cR_Nhac0](https://www.youtube.com/watch?v=sV0cR_Nhac0)
+
 ## Permaculture
 
 Pour l'instant, il est difficile de voir la différence avec la permaculture, [l'expérience du Bec Hellouin est loin
