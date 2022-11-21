@@ -1,59 +1,63 @@
 {{ define "main" }}
 <section class="section container-fluid mt-n3 pb-3">
-  <div class="row justify-content-center">
-    <div class="col-lg-12 text-center">
-      <h1 class="mt-0">{{ .Title }}</h1>
+    <div class="row justify-content-center">
+        <div class="col-lg-12 text-center">
+            <h1 class="mt-0">{{ .Title }}</h1>
+        </div>
+        <div class="col-lg-12 text-center">
+            <p class="lead">
+                Début 2021, je me suis mis comme objectif de lire un livre par semaine ce qui a été l’une des meilleures
+                décisions de ma vie. Cependant, cela représente beaucoup d’information et comme le dit David Allen
+                “Votre esprit est fait pour avoir des idées, pas pour les retenir.”<br>
+                <br>
+                J’ai donc créé ce site suite à la lecture du livre <a href="https://amzn.to/3LQCulw"
+                                                                      target="second brain">Building a Second Brain</a>
+                qui décrit une méthode à la fois simple & élégante de se créer une base de connaissance. L’idée est
+                d’avoir à portée de main une collection d'idées, de connaissances, d'articles et de résumés qui
+                pourraient vous être utiles.<br>
+                <br>
+                La prise de note que l’on nous a appris à l’école considérait l’apprentissage comme essentiellement
+                jetable. Alors que traitée correctement, une note est un “bloc de connaissances” interprétée à travers
+                votre point de vue unique et stockée en dehors de votre tête pour être utilisée plus tard.
+            </p>
+            <a class="btn btn-primary btn-lg px-4 mb-2" href="https://github.com/straumat" role="button">Stéphane
+                Traumat</a>
+        </div>
     </div>
-    <div class="col-lg-9 col-xl-8 text-center">
-      <p class="lead">{{ .Params.lead | safeHTML }}</p>
-      <a class="btn btn-primary btn-lg px-4 mb-2" href="/docs/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}prologue/introduction/" role="button">Get Started</a>
-      <p class="meta">Open-source MIT Licensed. <a href="https://github.com/h-enk/doks">GitHub v{{ $data := getJSON "/package.json" }}{{ $data.version }}</a></p>
-    </div>
-  </div>
 </section>
 {{ end }}
 
 {{ define "sidebar-prefooter" }}
 <section class="section section-sm">
-  <div class="container">
-    <div class="row justify-content-center text-center">
-      <div class="col-lg-5">
-        <h2 class="h4">Security aware</h2>
-        <p>Get A+ scores on <a href="https://observatory.mozilla.org/analyze/doks-child-theme.netlify.app">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs.</p>
-      </div>
-      <div class="col-lg-5">
-        <h2 class="h4">Fast by default ⚡️</h2>
-        <p>Get 100 scores on <a href="https://googlechrome.github.io/lighthouse/viewer/?gist=59aafe464a68f8bc30b8e9a636d5b053">Google Lighthouse</a> by default. Doks removes unused css, prefetches links, and lazy loads images.</p>
-      </div>
-      <div class="col-lg-5">
-        <h2 class="h4">SEO-ready</h2>
-        <p>Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO settings to your liking.</p>
-      </div>
+    <div class="container">
+        <div class="row justify-content-center text-center">
+            <div class="col-lg-4">
+                <h2 class="h4"><i class='fa-solid fa-bars-progress'></i> Projets</h2>
+                <p>Ce sur quoi je suis en train de travailler en ce moment</p>
+            </div>
+            <div class="col-lg-4">
+                <h2 class="h4"><i class='fa-solid fa-brain'></i> Domaines</h2>
+                <p>Choses que je dois maitriser sur le long terme</p>
+            </div>
+            <div class="col-lg-4">
+                <h2 class="h4"><i class='fa-solid fa-lightbulb'></i> Ressources</h2>
+                <p>Tout ce qui n’est pas un projet ou un domaine, mais qui est un sujet qui m’intéresse</p>
+            </div>
+            <div class="col-lg-4">
+                <h2 class="h4"><i class='fa-solid fa-book'></i> Livres</h2>
+                <p>Résumé des livres les plus intéressants que j’ai lu</p>
+            </div>
+        </div>
     </div>
-    <div class="row justify-content-center text-center">
-      <div class="col-lg-5">
-        <h2 class="h4">Full text search</h2>
-        <p>Search your Doks site with FlexSearch. Easily customize index settings and search options to your liking.</p>
-      </div>
-      <div class="col-lg-5">
-        <h2 class="h4">Page layouts</h2>
-        <p>Build pages with a landing page, blog, or documentation layout. Add custom sections and components to suit your needs.</p>
-      </div>
-      <div class="col-lg-5">
-        <h2 class="h4">Dark mode</h2>
-        <p>Switch to a low-light UI with the click of a button. Change colors with variables to match your branding.</p>
-      </div>
-    </div>
-  </div>
 </section>
 {{ end }}
 
 {{ define "sidebar-footer" }}
 <section class="section section-sm container-fluid">
-  <div class="row justify-content-center text-center">
-    <div class="col-lg-9">
-      {{- .Content -}}
+    <div class="row justify-content-center text-center">
+        <div class="col-lg-9">
+            {{- .Content -}}
+        </div>
     </div>
-  </div>
 </section>
 {{ end }}
