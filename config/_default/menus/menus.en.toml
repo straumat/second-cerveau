@@ -21,7 +21,7 @@ weight = 3
 
 [[main]]
 name = "Livres"
-url = "/livres/"
+url = "/livres/philosophie/resume_l_ego_est_l_ennemi"
 identifier = "livres"
 weight = 4
 

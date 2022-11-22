@@ -1,6 +1,17 @@
 ---
-title: Résumé de "Hard Things, entreprendre dans l'incertitude" par Ben Horowitz
-menuTitle: Hard Things
+title: "Hard Things"
+description: "Résumé de Hard Things, entreprendre dans l'incertitude par Ben Horowitz"
+date: 2022-11-22T22:00:40+01:00
+lastmod: 2022-11-22T22:00:40+01:00
+draft: false
+images: []
+type: docs
+menu:
+domaines:
+parent: "entreprenariat"
+identifier: "entreprenariat-hard-things"
+weight: 2
+toc: true
 ---
 
 [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](http://amzn.to/2iJJWoo) est tout

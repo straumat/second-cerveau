@@ -1,6 +1,17 @@
 ---
-title: Résumé de "The Power of A Positive No" par William Ury
-menuTitle: Savoir dire non
+title: "Savoir dire non"
+description: "Résumé de The Power of A Positive No par William Ury"
+date: 2022-11-22T22:05:05+01:00
+lastmod: 2022-11-22T22:05:05+01:00
+draft: false
+images: []
+type: docs
+menu:
+domaines:
+parent: "competences"
+identifier: "competences-savoir-dire-non"
+weight: 2
+toc: true
 ---
 
 <a href="https://www.amazon.fr/gp/product/B00713L2OW?&linkCode=li2&tag=blog-straumat-21&linkId=58065e720e042ef110f74a378a8d3fa3&language=fr_FR&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00713L2OW&Format=_SL160_&ID=AsinImage&MarketPlace=FR&ServiceVersion=20070822&WS=1&tag=blog-straumat-21&language=fr_FR" ></a><img src="https://ir-fr.amazon-adsystem.com/e/ir?t=blog-straumat-21&language=fr_FR&l=li2&o=8&a=B00713L2OW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -119,5 +130,3 @@ c’est difficile de ne pas céder dans ses moments. L'énervement et les attaqu
 l’objectif: vos intérêts et vos besoins.
 
 La solution, c’est de se concentrer sur ce qui compte, vos besoins et vos intérêts.
-
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=blog-straumat-21&language=fr_FR&marketplace=amazon&region=FR&placement=B00713L2OW&asins=B00713L2OW&linkId=8156dc89b69319a70b965b178b250a25&show_border=true&link_opens_in_new_window=true"></iframe>

@@ -1,6 +1,17 @@
 ---
-title: Résumé "Second brain" par Tiago Forte
-menuTitle: Second brain
+title: "Second cerveau"
+description: "Résumé Second brain par Tiago Forte"
+date: 2022-11-22T22:05:05+01:00
+lastmod: 2022-11-22T22:05:05+01:00
+draft: false
+images: []
+type: docs
+menu:
+domaines:
+parent: "competences"
+identifier: "competences-savoir-dire-non"
+weight: 2
+toc: true
 ---
 
 <a href="https://www.amazon.fr/dp/B09MDNDYYF?&linkCode=li2&tag=blog-straumat-21&linkId=10d5fbc7befd628292d2f1dd34638b24&language=fr_FR&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09MDNDYYF&Format=_SL160_&ID=AsinImage&MarketPlace=FR&ServiceVersion=20070822&WS=1&tag=blog-straumat-21&language=fr_FR" ></a><img src="https://ir-fr.amazon-adsystem.com/e/ir?t=blog-straumat-21&language=fr_FR&l=li2&o=8&a=B09MDNDYYF" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -33,7 +44,7 @@ vie en général.
   libérer des limites du moment présent et puiser dans des semaines, des mois, voire des années d'imagination accumulée.
 - **Aiguisez nos perspectives** : à force de raffiner et de relire, vous pourrez vous bâtir votre propre vision.
 
-### La méthode CODE : les quatre étapes pour se souvenir de ce qui compte
+## La méthode CODE : les quatre étapes pour se souvenir de ce qui compte
 
 - **C**apture : Ne conservez que ce qui résonne en vous.
 - **O**rganize : Organisez vos notes pour qu'elles puissent servir à l'action.
@@ -150,5 +161,3 @@ Hemingway finissait une session d'écriture seulement quand il savait ce qu'il a
 toute son énergie, avant de s'arrêter, il écrivait quelle serait la prochaine étape de son travail. De cette façon,
 quand il se remettait au travail un peu plus tard, il savait exactement où reprendre et ne perdait pas de temps à se
 poser la question. Il passait directement à l'action.
-
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=blog-straumat-21&language=fr_FR&marketplace=amazon&region=FR&placement=B09MDNDYYF&asins=B09MDNDYYF&linkId=c3c5596c97afb1e75b8feae6ff19eaca&show_border=true&link_opens_in_new_window=true"></iframe>

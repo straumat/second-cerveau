@@ -1,6 +1,17 @@
 ---
-title: Résumé de "Le grand art de la petite conversation" par Debra Fine
-menuTitle: L'art de la conversation
+title: "L'art de la conversation"
+description: "Résumé de Le grand art de la petite conversation par Debra Fine"
+date: 2022-11-22T22:05:05+01:00
+lastmod: 2022-11-22T22:05:05+01:00
+draft: false
+images: []
+type: docs
+menu:
+domaines:
+parent: "competences"
+identifier: "competences-savoir-dire-non"
+weight: 2
+toc: true
 ---
 
 <a href="https://www.amazon.fr/grand-art-petite-conversation-occasions-ebook/dp/B07GPV3TRQ?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3619O18C0TPFL&keywords=Le+grand+art+de+la+petite+conversation&qid=1666690343&qu=eyJxc2MiOiIwLjk2IiwicXNhIjoiMC44NSIsInFzcCI6IjAuNzUifQ%3D%3D&sprefix=le+grand+art+de+la+petite+conversation%2Caps%2C66&sr=8-2&linkCode=li2&tag=blog-straumat-21&linkId=3b97475cff4c609aad7991e1651a6147&language=fr_FR&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07GPV3TRQ&Format=_SL160_&ID=AsinImage&MarketPlace=FR&ServiceVersion=20070822&WS=1&tag=blog-straumat-21&language=fr_FR" ></a><img src="https://ir-fr.amazon-adsystem.com/e/ir?t=blog-straumat-21&language=fr_FR&l=li2&o=8&a=B07GPV3TRQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -49,5 +60,3 @@ Quand vous devez partir :
 - J'aimerais voir s'il y a des concurrents ici.
 - Je dois parler avec la responsable avant qu’elle parte.
 - J'aimerais aller saluer toutes les personnes présentes à la soirée.
-
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=blog-straumat-21&language=fr_FR&marketplace=amazon&region=FR&placement=B07GPV3TRQ&asins=B07GPV3TRQ&linkId=611c62591bd70447320b9a1148c3bc81&show_border=true&link_opens_in_new_window=true"></iframe>

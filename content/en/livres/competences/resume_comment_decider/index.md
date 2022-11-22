@@ -1,6 +1,17 @@
 ---
-title: Résumé de "How to decide, Simple Tools for Making Better Choices"
-menuTitle: Comment décider ?
+title: "Comment décider ?"
+description: "Résumé de How to decide, Simple Tools for Making Better Choices par Annie Duke"
+date: 2022-11-22T22:05:05+01:00
+lastmod: 2022-11-22T22:05:05+01:00
+draft: false
+images: []
+type: docs
+menu:
+domaines:
+parent: "competences"
+identifier: "competences-savoir-dire-non"
+weight: 2
+toc: true
 ---
 
 <a href="https://www.amazon.fr/gp/product/B07TRJB3S3?ie=UTF8&psc=1&linkCode=li2&tag=blog-straumat-21&linkId=7010323f604b82b737ac8fb36e7dd27c&language=fr_FR&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07TRJB3S3&Format=_SL160_&ID=AsinImage&MarketPlace=FR&ServiceVersion=20070822&WS=1&tag=blog-straumat-21&language=fr_FR" ></a><img src="https://ir-fr.amazon-adsystem.com/e/ir?t=blog-straumat-21&language=fr_FR&l=li2&o=8&a=B07TRJB3S3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -16,7 +27,7 @@ précision à quoi le monde pourrait ressembler si vous deviez choisir l'une des
 **Premier biais** : le biais de résultat où vous utilisez la qualité d'un résultat pour déterminer la qualité d'une
 décision. Vous pouvez griller un feu rouge et traverser l'intersection sans soucis. Vous pouvez griller un feu vert et
 avoir un accident. Cela signifie que travailler à rebours à partir de la qualité d'un seul résultat pour déterminer si
-une décision était bonne ou mauvaise vous conduira à de mauvaises conclusions.
+une décision était bonne ou mauvaise vous conduirait à de mauvaises conclusions.
 
 Même lorsque vous prenez une bonne décision, cela ne signifie pas que c'était la meilleure décision. En fait, c'est
 rarement le cas. S'efforcer de s'améliorer signifie être prêt à lutter contre la complaisance qui peut découler d'une
@@ -45,7 +56,7 @@ expériences individuelles interfèrent souvent avec l'apprentissage, car ce son
 Voici les six étapes à suivre pour prendre une bonne décision:
 - Étape 1 : Identifier l'ensemble raisonnable de résultats possibles.
 - Étape 2 : Identifiez votre préférence en utilisant le gain pour chaque résultat—dans quelle mesure aimez-vous ou
-n'aimez-vous pas chaque résultat, compte tenu de vos valeurs ?
+  n'aimez-vous pas chaque résultat, compte tenu de vos valeurs ?
 - Étape 3 : Estimez la probabilité que chaque résultat se produise.
 - Étape 4 : Évaluez la probabilité relative des résultats que vous aimez et que vous n'aimez pas pour l'option envisagée.
 - Étape 5 : Répétez les étapes 1 à 4 pour les autres options envisagées.
@@ -53,5 +64,3 @@ n'aimez-vous pas chaque résultat, compte tenu de vos valeurs ?
 
 **Vous pouvez identifier les décisions à faible impact avec le “test du bonheur”, en vous demandant si le résultat de
 votre décision aura probablement un effet sur votre bonheur dans une semaine, un mois ou un an.**
-
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=blog-straumat-21&language=fr_FR&marketplace=amazon&region=FR&placement=B07TRJB3S3&asins=B07TRJB3S3&linkId=4dd628236144c350c967a9fdcde75dbd&show_border=true&link_opens_in_new_window=true"></iframe>

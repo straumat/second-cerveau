@@ -1,6 +1,17 @@
 ---
-title: Résumé "A Guide to the Good Life" par William B. Irvine
-menuTitle: Guide pour une bonne vie
+title: "Un guide pour une bonne vie"
+description: "Résumé A Guide to the Good Life par William B. Irvine"
+date: 2022-11-22T21:49:53+01:00
+lastmod: 2022-11-22T21:49:53+01:00
+draft: false
+images: []
+type: docs
+menu:
+domaines:
+parent: "philosophie"
+identifier: "philosophie-guide-pour-une-bonne-vie"
+weight: 2
+toc: true
 ---
 
 <a href="https://www.amazon.fr/gp/product/B0040JHNQG?ie=UTF8&psc=1&linkCode=li2&tag=blog-straumat-21&linkId=fac6e234a19d74d2d58738d5464f8701&language=fr_FR&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0040JHNQG&Format=_SL160_&ID=AsinImage&MarketPlace=FR&ServiceVersion=20070822&WS=1&tag=blog-straumat-21&language=fr_FR" ></a><img src="https://ir-fr.amazon-adsystem.com/e/ir?t=blog-straumat-21&language=fr_FR&l=li2&o=8&a=B0040JHNQG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -43,7 +54,7 @@ tranquillité, la liberté et le calme ». Les objectifs que vous vous fixez doi
 doivent pas dépendre de tiers.
 
 **Le désir est un contrat que vous passez avec vous-même dans lequel vous écrivez "Je refuse d'être heureux tant que je
-ne possède pas l'objet de mon désir.**
+ne possède pas l'objet de mon désir".**
 
 ## Le problème, votre représentation des choses
 
@@ -82,10 +93,8 @@ Musonius suggère que nous serions mieux lotis:
 - Si au lieu de nous assommer en essayant de devenir populaires, nous travaillions à maintenir et à améliorer nos
   relations avec ceux que nous savions être de vrais amis.
 
-### Arrêtez de vous projeter
+## Arrêtez de vous projeter
 
 **Ne te trouble pas toi-même en te représentant à l’avance la totalité de ta vie. Ne cherche pas à additionner
 mentalement, dans leur intensité et leur nombre, toutes les difficultés pénibles qui pourraient vraisemblablement
 survenir.**
-
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=FR&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=blog-straumat-21&language=fr_FR&marketplace=amazon&region=FR&placement=B0040JHNQG&asins=B0040JHNQG&linkId=2baaf97635757488d03b263c713bf282&show_border=true&link_opens_in_new_window=true"></iframe>
