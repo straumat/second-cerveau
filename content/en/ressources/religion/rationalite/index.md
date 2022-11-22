@@ -1,5 +1,16 @@
 ---
-title: Les religions
+title: "Religion & rationalité"
+description: ""
+date: 2022-11-22T17:24:26+01:00
+lastmod: 2022-11-22T17:24:26+01:00
+draft: false
+images: []
+type: docs
+menu:
+ressources:
+parent: "religion"
+identifier: "religion-rationalite"
+weight: 2
 ---
 
 ## Le point de vue d'Isaac Asimov
@@ -15,10 +26,4 @@ On peut donc avoir des arguments convaincants qui font qu'avec le bon résonneme
 accord avec moi peuvent changer d'avis après qu'ils ont étudié les preuves que j'ai fournies. Dès que l'on abandonne le
 raisonnement pour la foi, on perd tout cela. Même si vous rencontrez dieu, comment convaincre les autres ?
 
-## Religion & Science :
-
-## Sources
-
-- 
-- 
- 
+[Asimov and Religion](https://www.youtube.com/watch?v=zhA8TXdCg4M)
