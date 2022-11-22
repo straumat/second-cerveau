@@ -15,7 +15,7 @@ weight = 2
 
 [[main]]
 name = "Ressources"
-url = "/ressources/"
+url = "/ressources/agriculture/introduction"
 identifier = "ressources"
 weight = 3
 
