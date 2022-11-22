@@ -1,4 +1,4 @@
-baseurl = "https://straumat.github.io/second-cerveau/"
+baseurl = "https://straumat.github.io/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
