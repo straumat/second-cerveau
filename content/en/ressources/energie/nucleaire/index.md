@@ -1,62 +1,21 @@
 ---
-title: Énergie
-menuTitle: Énergie
+title: "Nucléaire"
+description: ""
+date: 2022-11-22T16:23:44+01:00
+lastmod: 2022-11-22T16:23:44+01:00
+draft: false
+images: []
+type: docs
+menu:
+ressources:
+parent: "energie"
+identifier: "energie-nucleaire"
+weight: 3
 ---
 
-## On ne peut pas comparer éolien/solaire et nucléaire
+Voici quelques mythes:
 
-Le gros problème de l'éolien et du solaire et qu'ils ne sont pas pilotables ce qui fait qu'un soit d'hiver où il n'y a
-pas de vent, vous vous retrouvez sans rien... et vous devez donc démarrer une source d'électricité pilotable : Nucléaire
-en france, Charbon & gaz en Allemagne.
-
-La question de remplacer les sources nucléaires ou fossiles par l'éolien et du nucléaire n'a donc aucun sens, au moins
-tant qu'on ne sera pas stocké efficacement de l'électricité dans des quantités énormes.
-
-Cela peut se voir par exemple quand on regarde [les capacités installées et productions réelles du nucléaire, du solaire
-et de l'éolien en Allemagne de 2015 à 2021](allemagne_solaire_nucleaire_eolien.mp4).
-
-Voici un graphique pour comparer les notions d'intermitence entre nucléaire et solaire :
-![comparaison intermitencenucelaire solaire](comparaison_intermitence_nucelaire_solaire.png)
-
-## Énergie & CO2
-
-Grâce au nucléaire, la France est le seul grand pays européen ayant déjà dépassé le seuil des 90% d'électricité verte
-dans son mix.
-![Mix énergétique 0 carbon europe france](objectif_electricite_0_carbon.jpeg)
-
-Les émissions de CO₂ fossiles par personne ont probablement atteint leur maximum :
-![Mix énergétique 0 carbon europe france](pic_emission_c02_par_personne.jpeg)
-
-
-## Échec Allemand
-
-L'Allemagne
-pourrait [réactiver 15 de ses centrales mises en veille dans le cadre de sa politique environnementale](https://twitter.com/bfmbusiness/status/1529406893235613697)
-or pour rappel, une seule centrale à charbon en Allemagne émet plus de CO2 que tout l’aérien français, intérieur et
-international réunis. L’Allemagne compte DÉJÀ plus de 80 centrales à charbon....
-
-En 2011, l’Allemagne décide d’arrêter le nucléaire en 10 ans, et lance la transition énergétique. Au 1er semestre 2021,
-[“la 1ère source d’électricité en Allemagne est le charbon”](https://www.dw.com/en/germany-coal-tops-wind-as-primary-electricity-source/a-59168105)
-...
-
-## Le gaz
-
-Les gens pensent que l'Europe dépend de la Russie pour l'énergie parce qu'elle n'a pas la sienne, mais il y a 15 ans,
-l'Europe exportait plus de gaz naturel que la Russie aujourd'hui. Aujourd'hui, la Russie exporte 3 fois plus de gaz que
-l'Europe n'en produit. Pourquoi? tout simplement parce que des militants pour le climat, en partie financés par la
-Russie, ont bloqué la fracturation hydraulique.
-
-![Production gaz europe versus russie](production_gaz_europe.jpeg)
-
-## Charbon
-
-L'utilisation du charbon pour l'électricité au Royaume-Uni s'est effondrée de 93 % depuis 2015 et ne représente plus que
-2 % de la production d'électricité...
-![Charbon électricité UK](charbon_consommation_uk.png)
-
-## Nucléaire
-
-**Les centrales nucléaires, notamment EPR, coûtent très cher**
+## Les centrales nucléaires, notamment EPR, coûtent très cher
 
 Si l'on regarde les prix, on peut se dire:
 
@@ -66,7 +25,7 @@ Si l'on regarde les prix, on peut se dire:
 En effet, aux prix de 2022, une centrale nucléaire de 1,6 GW en France générera des revenus de 9,2 milliards d'euros
 rien qu'en 2023. C'est assez proche du coût du nouvel EPR de Flamanville 3.
 
-**Est-ce que l'achat d'uranium est une problématique du même type que l'achat de pétrole ou de gaz ?**
+## Est-ce que l'achat d'uranium est une problématique du même type que l'achat de pétrole ou de gaz ? 
 
 Le prix de l’uranium ne représente que 5 % du coût total de l’électricité produite. Le marché de l’uranium est différent
 de ceux des autres matières premières, car les risques géopolitiques sont faibles.
@@ -85,7 +44,7 @@ Dans le nucléaire, la France n’est tributaire d’aucun savoir-faire extérie
 De plus, contrairement à ce qu'annonce Yannick Jadot, nous avons diversifié nos sources d'approvisionnements:
 ![france approvisionnement nucléaire](france_approvisionnement_nucleaire.png)
 
-**Changement climatique et eau utilisée**
+## Changement climatique et eau utilisée
 
 On entend souvent que le changement climatique va empêcher les centrales nucléaires de fonctionner, mais la plus grande
 centrale américaine est
@@ -105,12 +64,12 @@ de la ville. Economie de 23000 t de charbon par an. Baisse des émissions de CO2
 NOX) : [https://twitter.com/W_Nuclear_News/status/1329822686625796098](https://twitter.com/W_Nuclear_News/status/1329822686625796098)
 .
 
-**Fukushima**
+## Fukushima
 
 [Les conséquences de Fukushima sont détaillées dans ce tweet](https://twitter.com/GillardVautier/status/1486714030047723531)
 Voici un résumé des points importants :
 
-- « aucun décès ou pathologie [...] dû aux effets des radiations nucléaires »
+- « aucun décès ou pathologie dû aux effets des radiations nucléaires »
 - Suite à Fukushima, on a augmenté les dépistages des cancers de la thyroïde dans plusieurs préfectures du Japon. Suite
   à ces dépistages, le nombre de cancers détectés a explosé, partout où il y avait ce dépistage. Même loin de Fukushima.
   Donc sans lien avec Fukushima Daiichi.
@@ -121,7 +80,7 @@ Voici un résumé des points importants :
 - Le retour au Charbon : VRAI ! D'ailleurs outre l'aspect climatique, les fumées du charbon et la hausse du prix de
   l'électricité japonaise, ont chacun fait plus de morts que l'évacuation (2000).
 
-**Déchêts**
+## Déchets
 
 On entend souvent dire que la France est ensevelie sous "une montagne de déchets nucléaires".
 
@@ -130,7 +89,7 @@ derrière une vraie montagne près d'Aix-en-Provence:
 
 ![Taille des déchêts nucléaires](dechets_nucleaire.jpeg)
 
-**Quelles évolutions ?**
+## Quelles évolutions ?
 
 [Avec les réacteurs à neutrons rapides, nous avons des milliers d’années de production devant nous en utilisant les
 déchets qu'elle possède](https://www.transitionsenergies.com/reacteurs-neutrons-rapides-nous-avons-milliers-annees-production-en-utilisant-des-dechets/)
@@ -138,7 +97,7 @@ déchets qu'elle possède](https://www.transitionsenergies.com/reacteurs-neutron
 maitrisent : [https://twitter.com/Syndroma3/status/1364487891443933184](https://twitter.com/Syndroma3/status/1364487891443933184)
 .
 
-**Démantèlement**
+## Démantèlement
 
 Je suis toujours un peu surpris par les politiques qui déclarent qu'on ne sait pas démanteler une centrale nucléaire
 alors que des centrales ont déjà été entièrement démantelés dans le monde. Typiquement la centrale nucléaire de [Maine
@@ -146,10 +105,4 @@ Yankee](https://fr.wikipedia.org/wiki/Centrale_nucl%C3%A9aire_de_Maine_Yankee).
 
 Même en France, le réacteur de Chooz A (technologie similaire à tous les réacteurs aujourd'hui en fonctionnement en
 France) est à un stade avancé de son démantèlement.
-
 [Source](https://twitter.com/TristanKamin/status/1436414069641203715)
-
-## Scénarios
-
-- [Bonne explication du scénario Négawatt](https://twitter.com/PartiPirate/status/1185511759521767424).
-

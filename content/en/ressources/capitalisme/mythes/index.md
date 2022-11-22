@@ -10,7 +10,7 @@ menu:
 ressources:
 parent: "capitalisme"
 identifier: "capitalisme-mythes"
-weight: 2
+weight: 1
 ---
 
 ### Incompatible avec l'écologie
