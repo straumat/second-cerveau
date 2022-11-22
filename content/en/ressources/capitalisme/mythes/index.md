@@ -1,31 +1,17 @@
 ---
-title: Capitalisme, libéralisme et croissance
-menuTitle: Capitalisme & co
+title: "Mythes"
+description: ""
+date: 2022-11-22T16:13:46+01:00
+lastmod: 2022-11-22T16:13:46+01:00
+draft: false
+images: []
+type: docs
+menu:
+ressources:
+parent: "capitalisme"
+identifier: "capitalisme-mythes"
+weight: 2
 ---
-
-## Now is the best time in human history to be alive
-
-[Now is the best time in human history to be alive](https://www.youtube.com/watch?v=nK7AbxTGDSU) est un discours d'Obama
-qui résume assez bien les choses. Peu importe qui vous êtes (âge, sexe, genre, couleur de peau, famille...), il n'y a
-pas de meilleur moment dans l'histoire pour vivre qu'aujourd'hui.
-
-Un simple graphique pour résumer les choses:
-![Est-ce que le monde va de mieux en mieux ?](Two-centuries-World-as-100-people.png)
-
-Cependant, il est difficile de faire accepter que le capitalisme améliore le sort de la société dans son ensemble à ceux
-qui sont potentiellement menacés par les effets de la concurrence et des phases récessives de l’économie.
-
-Conscients de leurs acquis et de leur situation favorable, les citoyens vont rechercher un système plus stable,
-d’apparence plus protecteur et dans le même temps, se montrer de plus en plus à l’écoute des critiques contre le
-capitalisme.
-
-Cette tendance sera d’autant plus forte que le capitalisme encourage la liberté de pensée, ce qui va favoriser
-l’émergence de groupe d’individus dont la fonction est justement de conduire le réquisitoire anticapitaliste. Ces
-individus, que Schumpeter nomme "intellectuels" ou "professionnels de l’agitation sociale", ne sont pas intégrés dans la
-sphère économique. Ils peuvent donc la critiquer à loisir. Leur rôle est de stimuler, activer, exprimer et organiser les
-sujets de mécontentement (cf. Mélenchon).
-
-## Mythes
 
 ### Incompatible avec l'écologie
 
@@ -72,7 +58,8 @@ Les familles Shoshone possédaient des nids d'aigle. Les Athabascans de Bearlake
 des sites de pêche. La possession d'arbres est particulièrement courante. Lorsqu'un homme des îles Andaman trouvait un
 arbre adapté à la fabrication de canoës, il en a parlé à ses camarades de groupe. Dès lors, c'était à lui et à lui seul.
 
-Des punitions existaient aussi : fouet chez les Ute du Colorado, ablation du lobe de l'oreille chez les Ainu du Japon.
+Des punitions existaient pour la violation de la propriété privée : fouet chez les Ute du Colorado, ablation du lobe de
+l'oreille chez les Ainu du Japon.
 
 ### Les milliardaires ont vu leur fortune augmenter de X %
 
@@ -86,35 +73,3 @@ avec par exemple :
 D'ailleurs, en choisissant d'autres dates, on peut facilement prouver l'inverse : "[Elon Musk, Jeff Bezos… Les 20
 milliardaires les plus riches de la tech ont perdu 500 milliards de dollars en 2022](https://www.sudouest.fr/economie/reseaux-sociaux/elon-musk-jeff-bezos-les-20-milliardaires-les-plus-riches-de-la-tech-ont-perdu-500-milliards-de-dollars-en-2022-12843977.php)"
 .
-
-## Mesures de contrôle du capitalisme
-
-### Contrôle des prix
-
-Le contrôle des prix ne marche jamais comme le montre l'exemple de
-la [révolution française et sa gestion de l'inflation](https://www.lesechos.fr/economie-france/budget-fiscalite/1789-la-fabuleuse-inflation-des-assignats-1778629#xtor=CS1-26)
-. En septembre 1793, les sans-culottes arrachent à Robespierre le blocage des prix. Dix mois plus tard, la pénurie ainsi
-déclenchée est effroyable...
-
-### Encadrement des loyers
-
-Le [contrôle des loyers à Berlin](https://www.bloomberg.com/opinion/articles/2021-03-02/berlin-s-rent-controls-are-proving-to-be-the-disaster-we-feared)
-est un désastre : protège les locataires existants aux dépens du reste de la population, en particulier les jeunes pour
-qui il est impossible de trouver un logement : et voici la pénurie.
-
-### L'ISF
-
-L'évaluation de la suppression partielle de l'ISF, confiée à l’IPP, sera disponible d'ici octobre 2023. En attendant,
-France Stratégie note que l'exode fiscal des assujettis à cet impôt s'est fortement réduit, et que les "retours"
-surpassent les "départs".
-
-![isf_france_strategie](isf_france_strategie.png)
-
-## Biodiversités
-
-Sans nier les problèmes qui sont nombreux, beaucoup d'exemples montrent que quand l'on veut, on peut.
-
-Quasi éradiquées par le braconnage puis par une récente épidémie, les [antilopes saïga prospèrent au-delà de toutes les
-espérances](https://www.newscientist.com/article/2333567-saiga-antelopes-have-increased-10-fold-after-mass-die-off-in-2015/) :
-130.000 en 2015, 1,3 million aujourd'hui. C'est le plus puissant et rapide rétablissement d'une espèce
-jamais réalisé.

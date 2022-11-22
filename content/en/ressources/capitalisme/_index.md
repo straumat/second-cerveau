@@ -1,5 +1,5 @@
 ---
-title: "Agriculture"
+title: "Capitalisme"
 description: ""
 lead: ""
 date: 2022-01-25T14:41:21+01:00
