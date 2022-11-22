@@ -1,7 +1,7 @@
 # Meta Data for SEO
 
 ## Homepage
-title = ""
+title = "Accueil"
 titleSeparator = "-"
 titleAddition = "Mon second cerveau"
 description = "Base de connaissance de Stéphane Traumat - Une collection de souvenirs, d'idées, de connaissances, de résumés, et d'articles utiles pour le travail, le business et la vie en général."
@@ -16,8 +16,8 @@ domainTLD = "doks.netlify.app"
 titleHome = "Mon second cerveau"
 
 ## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+twitterSite = "@straumat"
+twitterCreator = "@straumat"
 
 ## JSON-LD
 # schemaType = "Person"

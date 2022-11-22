@@ -1,5 +1,5 @@
-baseurl = "https://straumat.github.io/"
-canonifyURLs = false
+baseurl = "https://straumat.github.io/second-cerveau"
+canonifyURLs = true
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
