@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://straumat.github.io/second-cerveau/sitemap.xml
