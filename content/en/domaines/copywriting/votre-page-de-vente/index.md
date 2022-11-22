@@ -1,82 +1,19 @@
 ---
-title: Le Copywriting, l'art de vendre avec les mots
-menuTitle: Compétence - Copywriting
+title: "Structurez votre page de vente"
+description: ""
+lead: ""
+date: 2022-01-25T14:41:39+01:00
+lastmod: 2022-01-25T14:41:39+01:00
+draft: false
+images: []
+type: docs
+menu:
+domaines:
+parent: "copywriting"
+identifier: "copywriting-votre-page-de-vente"
+weight: 4
+toc: true
 ---
-
-Ceci est un résumé que j'ai écrit à partir du
-livre [Le guide du copywriting: Pages de vente, newsletters, sites web, réseaux sociaux... 50 techniques pour vendre en ligne](https://amzn.to/3Gau0oJ)
-
-## Pourquoi le consommateur achète t'il ?
-
-### Les principaux désirs
-
-"Pourquoi un inconnu est-il susceptible de dire oui à votre offre ?"
-Les achats se classent en deux catégories : les besoins et les envies.
-
-Selon Drew Whitman, il existe 8 désirs:
-
-- Maximiser notre survie, profiter de la vie, chercher à prolonger notre vie.
-- Pouvoir nous nourrir et boire.
-- Vivre sans peur, sans douleur et sans danger.
-- Avoir une vie sexuelle épanouie, trouver quelqu'un avec qui partager notre vie.
-- Avoir des conditions de vie satisfaisantes.
-- Être supérieur, gagner, pouvoir faire jeu égal avec nos voisins.
-- Offrir à nos proches la protection et les soins nécessaires.
-- Obtenir l'approbation des autres, la validation sociale.
-
-Il existe aussi des désirs secondaires:
-
-- Le désir d'être informé.
-- La curiosité.
-- La propreté de notre corps et de notre environnement.
-- L'efficacité.
-- Le côté pratique.
-- Des produits fiables.
-- L'expression de la beauté et du style.
-- Le désir de faire des économies, le désir de nous enrichir.
-- L'envie de faire de bonnes affaires.
-
-### Les 10 raisons d'acheter votre produit
-
-- Gagner de l'argent.
-- Economiser de l'argent.
-- Gagner du temps.
-- Eviter les efforts.
-- Réduire ou éviter la douleur physique.
-- Être plus à l'aise.
-- Meilleure santé.
-- Obtenir la validation sociale.
-- Nous sentir aimé.
-- Améliorer notre popularité.
-
-## Pour qui écrivez-vous ?
-
-Ceci est la question la plus importante à vous poser avant de démarrer l'écriture. Vous devez créer un avatar qui vous
-permette de vous mettre à sa place.
-
-Voici une liste d'éléments pour le décrire:
-
-- Critères sociaux.
-    - Sexe.
-    - Tranche d'âge.
-    - Composition familliale.
-- Critères géographique.
-    - Pays.
-    - Type de ville.
-- Critères démographiques.
-    - Niveau d'études.
-    - Profession.
-    - CSP.
-
-## Où trouver le vocabulaire pour parler à votre prospect ?
-
-Voici les meilleures sources:
-
-- Vos clients, faites les parler et utilisez leurs mots - Reprenez leurs expressions.
-- Vos concurrents, ne réinventez pas la roue, analysez le vocabulaire des sites de vos concurrents.
-- Les forums internet et les réseaux sociaux - Faites des recherches sur les hashtags.
-
-## Structurez votre page de vente
 
 AIDA est une structure classique pour présenter votre offre.
 
