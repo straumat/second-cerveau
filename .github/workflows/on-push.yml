@@ -18,7 +18,7 @@ jobs:
       - name: Hugo setup
         uses: peaceiris/actions-hugo@v2.6.0
         with:
-          hugo-version: '0.92.2'
+          hugo-version: '0.106.0'
           extended: true
 
       # ================================================================================================================
@@ -33,7 +33,7 @@ jobs:
 
       # ================================================================================================================
       - name: Build Hugo website in the beta directory
-        run: hugo --minify --gc
+        run: hugo --minify --gc --baseURL=https://straumat.github.io/second-cerveau/
 
       # ================================================================================================================
       - name: Deploy the website to github pages
