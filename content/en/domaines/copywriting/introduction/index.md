@@ -23,3 +23,6 @@ mots passent à l’action.
 
 Le résumé qui suit a été réalisé notamment suite à la lecture du
 livre [Le guide du copywriting: Pages de vente, newsletters, sites web, réseaux sociaux... 50 techniques pour vendre en ligne](https://amzn.to/3Gau0oJ)
+
+
+[![guide_du_copywriting](guide_du_copywriting.jpg)](https://amzn.to/3Gau0oJ)
