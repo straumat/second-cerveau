@@ -1,22 +1,29 @@
 # ======================================================================================================================
-# Projets.
+# Menu principal.
 
 [[main]]
-name = "Docs"
-url = "/docs/prologue/introduction/"
-weight = 10
+name = "Projets"
+url = "/projets/royllo/introduction"
+identifier = "projets"
+weight = 1
 
-[[docs]]
-name = "Test 1"
-weight = 10
-identifier = "prologue"
-url = "/docs/prologue/"
+[[main]]
+name = "Domaines"
+url = "/domaines/entreprise-creation/introduction"
+identifier = "domaines"
+weight = 2
 
-[[docs]]
-name = "Test 2"
-weight = 60
-identifier = "help"
-url = "/docs/help/"
+[[main]]
+name = "Ressources"
+url = "/ressources/agriculture/introduction"
+identifier = "ressources"
+weight = 3
+
+[[main]]
+name = "Livres"
+url = "/livres/philosophie/resume_l_ego_est_l_ennemi"
+identifier = "livres"
+weight = 4
 
 # ======================================================================================================================
 # Liens sociaux.
