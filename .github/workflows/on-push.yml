@@ -35,7 +35,7 @@ jobs:
       - name: Build Hugo website in the beta directory
         run: |
           hugo version
-          hugo --minify --gc --baseURL=https://straumat.github.io/second-cerveau/
+          hugo --minify --gc 
 
       # ================================================================================================================
       - name: Deploy the website to github pages
