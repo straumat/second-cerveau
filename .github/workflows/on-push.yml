@@ -19,6 +19,7 @@ jobs:
         uses: peaceiris/actions-hugo@v2.6.0
         with:
           hugo-version: '0.106.0'
+          extended: true
 
       # ================================================================================================================
       - name: Node setup
