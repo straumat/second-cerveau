@@ -1,7 +1,7 @@
-[en]
+[fr]
   languageName = "English"
-  contentDir = "content/en"
+  contentDir = "content/fr"
   weight = 10
-  [en.params]
-    languageISO = "EN"
-    languageTag = "en-US"
+  [fr.params]
+    languageISO = "FR"
+    languageTag = "fr-FR"
