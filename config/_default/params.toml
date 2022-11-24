@@ -1,16 +1,16 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Accueil"
+title = "Second cerveau"
 titleSeparator = "-"
 titleAddition = "Mon second cerveau"
-description = "Base de connaissance de Stéphane Traumat - Une collection de souvenirs, d'idées, de connaissances, de résumés, et d'articles utiles pour le travail, le business et la vie en général."
+description = "Base de connaissance de Stéphane Traumat - Une collection d'idées, de connaissances, de résumés, et d'articles utiles pour le travail, le business et la vie en général."
 
 ## Documentation
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["doks.png"]
+images = ["banner.png"]
 ogLocale = "fr_FR"
 domainTLD = "doks.netlify.app"
 titleHome = "Mon second cerveau"
