@@ -51,7 +51,9 @@ vie en général.
 - **D**istill : Trouver l'essence dans les notes que vous avez prises. "Comment rendre utile pour mon futur moi ?"
 - **E**xpress : Montrez votre travail, car le savoir ne sert qu'à une chose : passer à l'action.
 
-#### Capture : Ne conservez que ce qui résonne en vous.
+### Capture
+
+Ne conservez que ce qui résonne en vous.
 
 L'information est la nourriture du cerveau, ce n'est pas un luxe, c'est la chose qui vous permet de survivre.
 
@@ -76,7 +78,7 @@ Voici ensuite les critères pour choisi quoi capturer :
 
 En moyenne, je capture deux ou trois idées par jour.
 
-#### Organize
+### Organize
 
 Lorsque vous avez un projet, vous devez créer un dossier, un peu comme si vous achetiez une boite et que vous colliez le
 nom du projet dessus. Cela vous permettra de vous sentir organisé, d'avoir un endroit où vous allez décharger votre
@@ -113,7 +115,7 @@ des quatre dossiers avec un processus très simple:
 - Sinon, est-ce que cela parle d'une ressource ?
 - Sinon, archive.
 
-#### Distill
+### Distill
 
 Pour distiller les notes et en tirer le meilleur parti, le mieux est de revenir plusieurs fois sur les notes et les
 améliorer en faisant trois choses :
@@ -125,7 +127,7 @@ améliorer en faisant trois choses :
 Améliorer une note peut se faire quand vous n'avez plus l'énergie d'avancer sur un sujet, vous prenez alors l'une de vos
 notes et vous travaillez à l'améliorer.
 
-#### Express
+### Express
 
 L'auteur qui s'assoie devant son ordinateur face à une page blanche est un mythe. Les créatifs utilisent en permanence
 des sources d'inspiration (leurs expériences, observations, idées, discussions...). Vous devez faire attention à ne pas
