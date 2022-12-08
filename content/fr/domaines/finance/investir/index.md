@@ -8,10 +8,10 @@ images: []
 type: docs
 menu:
 domaines:
-parent: "vente"
-identifier: "vente-acheteur"
+parent: "finance"
+identifier: "finance-investir"
 weight: 1
-toc: false
+toc: true
 ---
 
 ## Introduction
@@ -104,3 +104,19 @@ choc pétrolier, les épidémies... le dow jones est passé en un siècle 77 à 
 pouvez attendre que cela baisse avant mais la réalité, c'est que ça risque surtout de monter avant que vous ne preniez
 votre décision.
 
+Donc, investissez autant que vous pouvez, aussi vite que vous pouvez, sans attendre l'hypothétique "meilleur prix".
+
+Après avoir analysé le rendement des marchés de 39 pays entre 1841 et 2019, la probabilité de ne pas battre l'inflation
+est de seulement de 12%.
+
+## Quand vendre ?
+
+Comme les marchés ont tendance à monter, le meilleur moment pour vendre est le plus tard possible :) Vendre au fur et à
+mesure est plus intéressant que de vendre tout, tout de suite.
+
+Une des bonnes raisons de vendre est de rééquilibrer son portefeuille. En effet, comme les actions grimpent plus vite
+que les obligations, si vous êtes partis avec un portefeuille 60% actions / 40 % obligations, au bout de quelques
+années, vous risquez de vous retrouver avec un portefeuille dont la valeur sera de 80% actions / 20 % obligations.
+
+Ce n'est pas forcément une mauvaise chose, mais vous devez comprendre que cela signifie prendre plus de risque. Il est
+conseillé, une fois par an, de rééquilibrer son portefeuille. 
