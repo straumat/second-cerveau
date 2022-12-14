@@ -10,7 +10,7 @@ menu:
 domaines:
 parent: "philosophie"
 identifier: "philosophie-guide-pour-une-bonne-vie"
-weight: 2
+weight: 1
 toc: true
 ---
 
