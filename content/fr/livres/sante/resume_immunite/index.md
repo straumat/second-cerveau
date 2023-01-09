@@ -90,7 +90,7 @@ venir les neutrophiles!
 ### Neutrophiles
 
 Les neutrophiles constituent la classe de globules blancs la plus abondante. Ce sont de véritables tueurs qui vont
-chasser et dévorer les bactéries. ?on seulement les neutrophiles mangent des ennemis vivants, mais ils peuvent aussi
+chasser et dévorer les bactéries. Non seulement les neutrophiles mangent des ennemis vivants, mais ils peuvent aussi
 projeter de l’acide sur leurs ennemis et se tuer eux-mêmes pour créer des pièges mortels.
 
 Les neutrophiles sont tellement dangereux qu'ils ne vivent que quelques jours lorsque l'organisme n'a pas besoin d'eux.
@@ -101,7 +101,16 @@ milliards d’autres naissent, prêts à se battre pour vous si cela est nécess
 
 Cette cellule fonctionne comme une sorte d'espion, elles vont collecter des échantillons du champ de bataille. Comme les
 macrophages, elles ont de longs bras qui vont attraper les envahisseurs, mais pas pour les dévorer! Elle va collecter
-des échantillons des intrus morts pour les ramener au système immunitaire adaptatif!
+des échantillons des intrus morts pour les ramener au système immunitaire adaptatif.
+
+Ce sont elles qui vont prendre la décision d'activer ou non la prochaine étape de vos défenses: vos cellules
+immunitaires adaptatives, vos armes lourdes et spécialisées qui doivent intervenir si votre système immunitaire inné
+risque d’être submergé.
+
+La cellule dendritique va en permanence échantillonner ce qu'elle trouve à la recherche de certaines "odeurs" :
+bactéries, virus, cellules mortes, cytokines... Si elle goûte quelque chose qui est un danger, elle ne va pas essayer de
+les digérer comme le ferait un macrophage. Lorsqu'elle dispose de toutes les informations dont elle a besoin, elle se
+met en mouvement pour rejoindre un ganglion lymphatique.
 
 ### L'inflammation
 
@@ -121,6 +130,43 @@ spéciales, inonde les espaces entre les cellules, si vite que des tissus gonfle
   ralentit et les stresse.
 - Vos cellules chargées des réparations aiment beaucoup la chaleur, car cela accélère leur métabolisme et permet à votre
   plaie de cicatriser plus vite.
+
+### Le système du complément
+
+Le système du complément est une armée de plus de trente protéines (et non pas des cellules!) différentes qui
+travaillent ensemble dans les fluides de votre corps et qui sont exclusivement guidées par voie chimique.
+
+Elles mutilent et transpercent les ennemis, mais sont aussi capables d'activer les cellules immunitaires et les guider.
+
+### Le système lymphatique
+
+Votre réseau de vaisseaux lymphatiques mesure des kilomètres de long et couvre la totalité de votre corps. C’est en
+quelque sorte un système partenaire de vos vaisseaux sanguins et de votre sang. Il ne possède pas d’organe central géant
+tel que votre foie, mais des centaines d’organes minuscules. Il draine en quelque sorte constamment votre corps et vos
+tissus de l’excès de liquide et renvoie ce dernier dans le sang où il peut à nouveau circuler.
+
+Le liquide transporté par le système lymphatique est appelé lymphe, il est composé de toutes sortes de détritus et de
+déchets: des cellules endommagées et détruites, des bactéries ou d’autres envahisseurs morts ou parfois même vivants, et
+toutes sortes de signaux chimiques et de choses qui traînent.
+
+La lymphe est de servir de super autoroute aux cellules immunitaires.
+
+Les ganglions lymphatiques sont des endroits où se rencontrent le système immunitaire adaptatif et le système
+immunitaire inné. C'est ici que les cellules dendritiques arrive depuis le champs de bataille.
+
+### Anticorps
+
+Les anticorps sont des protéines, ils se comportent un peu comme des snipers. Ils vont s'attacher aux bactéries et les
+rendre plus visibles, et plus savoureuses pour votre système immunitaire.
+
+### Le système immunitaire adaptatif
+
+Tous les êtres vivants sur Terre sont constitués principalement de protéines. Les protéines peuvent avoir d’innombrables
+formes différentes, que l’on peut imaginer comme des pièces de puzzle en 3D. Pour identifier une bactérie et l’attraper,
+vos cellules immunitaires doivent se connecter aux pièces du puzzle protéique des bactéries.
+
+Un morceau de protéine reconnu par le système immunitaire s'appelle un antigène. Bien entendu, votre système immunitaire
+inné ne les connait pas tous. Il existe des millions d'antigènes possibles.
 
 ## Comment les cellules savent où aller et quoi chercher ?
 
@@ -149,8 +195,8 @@ flagelle, elle sait que ce quelque chose est 100 % autre et doit être tué. Vos
 des récepteurs capables de reconnaître les formes du puzzle protéique qui composent les flagelles, et qui permettront
 aux cellules immunitaires de les éliminer.
 
-Votre système immunitaire inné peut identifier une grande variété de protéines grâce à quelques récepteurs. A noter que
-cela permet au système de détruire des bactéries qu'ils n'ont encore jamais rencontrés.
+Votre système immunitaire inné peut identifier une grande variété de protéines grâce à quelques récepteurs. À noter que
+cela permet au système de détruire des bactéries qu'ils n'ont encore jamais rencontrées.
 
 
 
