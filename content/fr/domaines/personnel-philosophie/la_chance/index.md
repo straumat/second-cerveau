@@ -9,7 +9,7 @@ type: docs
 menu:
 domaines:
 parent: "personnel-philosophie"
-identifier: "personnel-philosophie"
+identifier: "personnel-la-chance"
 weight: 1
 toc: false
 ---
