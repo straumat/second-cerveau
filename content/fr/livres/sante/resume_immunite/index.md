@@ -166,9 +166,38 @@ formes différentes, que l’on peut imaginer comme des pièces de puzzle en 3D.
 vos cellules immunitaires doivent se connecter aux pièces du puzzle protéique des bactéries.
 
 Un morceau de protéine reconnu par le système immunitaire s'appelle un antigène. Bien entendu, votre système immunitaire
-inné ne les connait pas tous. Il existe des millions d'antigènes possibles.
+inné ne les connait pas tous. Il existe des millions de protéines et d'antigènes possibles!
 
-## Comment les cellules savent où aller et quoi chercher ?
+Alors comment faire ? Eh bien votre système immunitaire adaptatif a une solution! Il y a toujours, dans votre corps, au
+moins une cellule immunitaire qui possède un récepteur capable de reconnaître l'un des millions d'antigènes qui peuvent
+exister dans l'univers. Et oui, votre corps produit quasiment toutes les possibilités existantes.
+
+Vos cellules immunitaires prennent des segments de gènes et les combinent au hasard, puis elles recommencent, pour créer
+des milliards de récepteurs différents. Votre système immunitaire se prépare ainsi à reconnaître tout ce qui existe !
+
+### Lymphocytes T
+
+Le thymus est un organe peu connu, mais c'est un organe primordial, c'est là où sont créés les cellules immunitaires
+adaptatives les plus puissantes et les plus essentielles : les lymphocytes T.
+
+On l'a vu, le système immunitaire adaptatif mélange des segments de gènes pour produire une incroyable variété de
+récepteurs différents, capables de se connecter à toutes les protéines possibles dans l’univers. Cela signifie que
+chaque lymphocyte T individuel est né avec UN type spécifique de récepteur, capable de reconnaître UN antigène
+spécifique. Le problème, c'est qu'un grand nombre de ces lymphocytes T vont avoir des récepteurs capables de se
+connecter aux protéines de vos propres cellules et les détruire !
+
+Par exempleUn lymphocyte T sachant se connecter aux cellules de votre peau essaierait tout simplement de tuer ces
+cellules !
+
+C'est ce que l'on appelle une maladie auto-immune... quand votre système immunitaire adaptatif croit que vos propres
+cellules sont des intrus. Pour éviter cela, le Thymus a des cellules qui vont tester les lymphocytes créés !
+Ces cellules peuvent fabriquer toutes sortes de protéines présentes dans votre corps et les montrer aux lymphocytes T,
+si ceux-ci attaquent les protéines, alors ils sont éliminés... Environ 10 à 20 millions de lymphocytes T quittent votre
+Thymus chaque jour.
+
+## Questions diverses
+
+### Comment les cellules savent où aller et quoi chercher ?
 
 Les cytokines sont de très petites protéines qui servent à transmettre des informations.
 
