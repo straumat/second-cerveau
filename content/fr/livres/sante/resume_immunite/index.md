@@ -186,7 +186,7 @@ chaque lymphocyte T individuel est né avec UN type spécifique de récepteur, c
 spécifique. Le problème, c'est qu'un grand nombre de ces lymphocytes T vont avoir des récepteurs capables de se
 connecter aux protéines de vos propres cellules et les détruire !
 
-Par exempleUn lymphocyte T sachant se connecter aux cellules de votre peau essaierait tout simplement de tuer ces
+Par exemple, un lymphocyte T sachant se connecter aux cellules de votre peau essaierait tout simplement de tuer ces
 cellules !
 
 C'est ce que l'on appelle une maladie auto-immune... quand votre système immunitaire adaptatif croit que vos propres
@@ -194,6 +194,48 @@ cellules sont des intrus. Pour éviter cela, le Thymus a des cellules qui vont t
 Ces cellules peuvent fabriquer toutes sortes de protéines présentes dans votre corps et les montrer aux lymphocytes T,
 si ceux-ci attaquent les protéines, alors ils sont éliminés... Environ 10 à 20 millions de lymphocytes T quittent votre
 Thymus chaque jour.
+
+Mais votre système immunitaire adaptatif ne décide pas vraiment qui combattre ni quand il est temps de s’activer: c’est
+le travail du système immunitaire inné, et c’est là qu’entre en jeu la cellule dendritique! En effet, lorsqu’une
+infection survient, celle-ci se recouvre d’une sélection d’antigènes de l’ennemi et essaie de trouver un lymphocyte T
+auxiliaire capable de reconnaître l’un de ces antigènes avec ses récepteurs spécifiques.
+Quand un lymphocyte T qui possède le bon récepteur rencontre la cellule dendritique, celui-ci va s'activer et sa
+première tâche sera de se dupliquer...
+
+Les lymphocytes T auxiliaires vont libérer de la cytokine qui vont faire venir des renforts, augmenter inflammation et
+doper les macrophages - Ils vont même les empêcher de se suicider afin de poursuivre le combat! Certains lymphocytes T
+auxiliaires deviennent des lymphocytes T auxiliaires à mémoire. C'est grâce à eux que vous pouvez être immunisé contre
+une maladie.
+
+### Lymphocytes B
+
+Produits dans la moelle osseuse Les puissants lymphocytes B, qui sont des usines qui produisent l’arme la plus puissante
+et la plus spécialisée dont dispose votre système immunitaire: les anticorps. Une fois activé, il va produire des
+milliers de ses anticorps et les envoyer combattre.
+
+Contrairement aux lymphocytes T, les lymphocytes B n’ont pas besoin d’une molécule du CMH, ni d’obtenir une présentation
+par une celle dendritique. Les lymphocytes B peuvent prélever de gros morceaux d’antigènes directement dans la lymphe
+qui circule dans vos ganglions lymphatiques.
+
+Son activation se fera via les lymphocytes T auxiliaires.
+
+### Les anticorps
+
+Ce sont des faisceaux de protéines qui peuvent adhérent à des antigènes, ils ressemblent à de petits crabes. Leur
+objectif est de s'accrocher aux ennemis qu'ils ciblent. Ils vont ainsi faire plusieurs choses : attirer vos cellules
+soldats, mutiler la bactérie, l'empêcher de bouger et, dans le cas des virus, les empêcher d'infecter de nouvelles
+cellules. Elles peuvent même attirer le système du complément.
+
+Il y en a quatre types :
+
+- Les anticorps IgM constituent la majorité des anticorps produits par les lymphocytes B lorsqu’ils sont activés.
+- Les anticorps IgG sont comme un complément: très efficace pour opsoniser une cible et la couvrir, ce qui rend plus
+  difficile pour une bactérie de faire son travail et de fonctionner correctement.
+- L’IgA est l’anticorps le plus abondant dans votre corps et sa fonction principale est de servir de mécanisme de
+  nettoyage de vos muqueuses. La force des IgA est leur capacité à attaquer plusieurs cibles et à les regrouper en blocs
+  de bactéries vraiment malchanceuses, qui sont ensuite évacuées par la morve, le mucus ou les selles.
+- Les anticorps IgE sont là pour vous protéger contre les infections par d’énormes ennemis: les parasites. En
+  particulier les vers.
 
 ## Questions diverses
 
