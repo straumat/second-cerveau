@@ -70,6 +70,27 @@ effrayantes comme la peste noire, la lèpre ou la syphilis.
 
 On peut les combattre avec des antibiotiques.
 
+### Les virus
+
+Un virus n'est qu'une coque remplie de quelques lignes de code génétique et de quelques protéines. Il dépend totalement
+d'êtres vivants pour rester en vie. Ils n'ont pas de métabolisme, ne réagissent pas aux stimuli et ne peuvent pas se
+multiplier seuls. On ne peut même pas vraiment dire qu'ils sont "vivants".
+
+Ils flottent en attendant de rencontrer une victime, car ils ont besoin de cellules qui leur permettront de se
+dupliquer. Leur principal travail est de pénétrer à l'intérieur des cellules grâce aux récepteurs, ces éléments de
+reconnaissance des protéines qui servent aussi à transporter des choses de l'intérieur vers l'extérieur et vice versa.
+
+La coque des virus est hérissée de protéines spéciales pour se connecter aux cellules puis, dans la plupart des cas, le
+virus transfère son matériel génétique et force la cellule à produire des copies du virus.
+
+Il est différent des bactéries :
+
+- Il est beaucoup plus petit donc plus difficile à détecter.
+- Il n'a pas de métabolisme et donc ne génère pas de déchets.
+- Il vit à l'intérieur des cellules et s'y cache.
+- Il peut muter beaucoup plus que les bactéries le font, car il se moque des erreurs lors des reproductions.
+- Ils peuvent se multiplier de manière exponentielle, contrairement aux bactéries qui ne font que se dupliquer.
+
 ## Quelles sont nos défenses ?
 
 ### Macrophages
@@ -207,6 +228,32 @@ doper les macrophages - Ils vont même les empêcher de se suicider afin de pour
 auxiliaires deviennent des lymphocytes T auxiliaires à mémoire. C'est grâce à eux que vous pouvez être immunisé contre
 une maladie.
 
+### CMH de classe 1
+
+Vos propres cellules peuvent être corrompues :
+
+- Un virus peut être en train de les utiliser pour se reproduire.
+- Des bactéries comme Tuberculosis peuvent se cacher à l'intérieur.
+- Les cellules peuvent être cancereuses
+- ...
+
+Vos cellules immunitaires doivent donc savoir ce que les cellules sont en train de faire afin de savoir s'il faut les
+détruire. Il existe pour cela une molécule qui fonctionne un peu comme une fenêtre d'affichage qui permet, de
+l'extérieur, de voir ce qui est produit à l'intérieur : la molécule du complexe majeur d'histocompatibilité de classe 1.
+
+Celle-ci est présente sur chaque cellule à noyau de votre corps, elle permet de montrer à l'extérieur de la cellule des
+protéines aléatoires situées à l'intérieur de la cellule. Ceci permet de prouver au système immunitaire qu'elle va bien.
+
+### Lymphocytes T cytotoxiques.
+
+Ils sont de la même famille que les lymphocytes T auxiliaires, mais leur travail est très différent. Le lymphocyte T
+cytotoxique est également appelé lymphocyte T « tueur » car c'est ce qu'il fait.
+
+Ils sont activés par les cellules dendritiques. Lorsqu'il est activé, il se multiplie à vitesse grand V et rejoint le
+champs de bataille. Ils vont se déplacer ensuite d'une cellule à l'autre pour les scanner. S'ils tombent sur une
+cellule qui a un antigène viral dans sa fenêtre d'affichage (CMH de classe 1), il envoie un ordre à la cellule qui
+l'oblige à se suicider.
+
 ### Lymphocytes B
 
 Produits dans la moelle osseuse Les puissants lymphocytes B, qui sont des usines qui produisent l’arme la plus puissante
@@ -236,6 +283,29 @@ Il y en a quatre types :
   de bactéries vraiment malchanceuses, qui sont ensuite évacuées par la morve, le mucus ou les selles.
 - Les anticorps IgE sont là pour vous protéger contre les infections par d’énormes ennemis: les parasites. En
   particulier les vers.
+
+### La fièvre
+
+Si vos cellules combattantes se rendent compte qu'elles ont besoin de renforts, elles vont libérer des cytokines
+appelées pyrogènes qui vont déclencher la fièvre (qui est désagréable pour les agents pathogènes et motivante pour vos
+cellules immunitaires).
+
+Votre cerveau fait monter la température de deux manières principales:
+
+- Il peut générer davantage de chaleur en provoquant des frissons, c’est-à-dire des contractions rapides de vos muscles,
+  ce qui génère de la chaleur.
+- En rendant plus difficile l’évacuation de cette chaleur par la constriction des vaisseaux sanguins situés près de la
+  surface de votre corps, ce qui réduit la quantité de chaleur qui peut s’échapper par votre peau.
+
+## Cellule tueuse naturelle
+
+Elles sont apparentées aux lymphocytes T, mais rapidement rejoignent le système immunitaire inné pour s'attaquer aux
+cellules infectées par des virus et aux cellules cancéreuses. Elles n’ont aucun moyen de voir les molécules du CMH de
+classe I dans les fenêtres d’affichage... elles ne font qu'une chose : elles vérifient si une cellule contient des
+molécules du CMH de classe I.
+
+Et oui, car une des tactiques des virus et des cellules cancéreuses est bien sûr de ne plus produire de molécules du CMH
+de classe I afin de cacher ce qui se passe réellement...
 
 ## Questions diverses
 
@@ -269,6 +339,12 @@ aux cellules immunitaires de les éliminer.
 Votre système immunitaire inné peut identifier une grande variété de protéines grâce à quelques récepteurs. À noter que
 cela permet au système de détruire des bactéries qu'ils n'ont encore jamais rencontrées.
 
+### C'est quoi l'immunité ?
+
+L’une des compétences les plus importantes de votre système immunitaire est celle de se souvenir des ennemis qu’il a
+combattus dans le passé grâce aux cellules à mémoire. 
+
+Ce sont certains de lymphocytes B qui vont se transformer en cellules à mémoire. 
 
 
 
