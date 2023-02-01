@@ -342,9 +342,66 @@ cela permet au système de détruire des bactéries qu'ils n'ont encore jamais r
 ### C'est quoi l'immunité ?
 
 L’une des compétences les plus importantes de votre système immunitaire est celle de se souvenir des ennemis qu’il a
-combattus dans le passé grâce aux cellules à mémoire. 
+combattus dans le passé grâce aux cellules à mémoire.
 
-Ce sont certains de lymphocytes B qui vont se transformer en cellules à mémoire. 
+Ce sont certains de lymphocytes B qui vont se transformer en cellules à mémoire. Elles vont trouver un endroit où elles
+resteront pendant des années. De là, elles produisent constamment une quantité modérée d’anticorps. Leur mission
+consiste donc à s’assurer que des anticorps spécifiques contre les ennemis que vous avez combattus dans le passé sont
+toujours présents dans votre corps.
+
+Il existe des maladies capables de détruire votre mémoire immunologique comme la rougeole.
+
+### Le cancer
+
+Le cancer survient lorsque les cellules d’une certaine partie du corps commencent à se développer et à se multiplier de
+manière incontrôlable.
+
+Il y a essentiellement deux grandes catégories:
+
+- Lorsque des cellules cancéreuses se forment dans les tissus solides tels que les poumons, les muscles, le cerveau, les
+  os ou les organes sexuels, elles forment des tumeurs.
+- Lorsque les cancers « liquides » affectent le sang, la moelle osseuse, la lymphe et le système lymphatique. Ils
+  commencent souvent dans la moelle osseuse et ce qui se passe essentiellement en pareil cas est que les autoroutes des
+  systèmes vasculaire et lymphatique sont submergées et encombrées par des cellules cancéreuses inutiles.
+
+Comme vous êtes composé de nombreux types de cellules différentes, il n’y a pas vraiment un seul type de cancer, mais
+des centaines de types différents. Chacun d’entre eux est particulier et comporte des difficultés qui lui sont propres.
+
+Il faut savoir que l’ADN est endommagé et modifié constamment, chaque seconde de la vie. Le code génétique d’une cellule
+moyenne est endommagé des dizaines de milliers de fois par jour, ce qui signifie qu’au total, un individu subit des
+milliers de milliards de minuscules mutations chaque jour.
+
+Pour devenir cancéreuse, une cellule doit muter d’une certaine manière pour acquérir des corruptions spécifiques dans
+trois systèmes importants :
+
+- Elle n’est plus capable de surveiller et de réparer son code génétique.
+- Elle ne peut plus se suicider.
+- Elle a perdu toute retenue et commence à se multiplier rapidement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
