@@ -30,8 +30,8 @@ vivants sur cette planète. Les cellules les utilisent pour tout, de l’envoi d
 et de structures simples, en passant par des micromachines complexes!
 
 Comment vos cellules savent-elles dans quel ordre disposer les acides aminés pour fabriquer les protéines dont elles ont
-besoin ? En fait, tout ceci est écrit dans votre ADN. Et oui, l'ADN est essentiellement un manuel d’instructions pour
-de construction de protéines.
+besoin ? En fait, tout ceci est écrit dans votre ADN qui est essentiellement un manuel d’instructions pour de
+construction de protéines.
 
 ## Qu'est-ce que le système immunitaire ?
 
@@ -39,8 +39,8 @@ Par essence, le système immunitaire est un outil destiné à distinguer l’aut
 passe immédiatement à l’action.
 
 Pendant un combat, le système immunitaire inné recueille des informations puis prend les décisions. S'il estime qu’une
-attaque est suffisamment grave, il a le pouvoir d’activer et d’appeler la seconde ligne de défense. Le système
-immunitaire adaptatif contient des supercellules spécialisées qui coordonnent et soutiennent votre première ligne de
+attaque est suffisamment grave, il a le pouvoir d’activer et d’appeler la seconde ligne de défense: Le système
+immunitaire adaptatif qio contient des supercellules spécialisées qui coordonnent et soutiennent votre première ligne de
 défense.
 
 Le système immunitaire adaptatif a une réponse spécifique pour chaque micro-organisme qui existe sur cette planète en ce
@@ -297,7 +297,7 @@ Votre cerveau fait monter la température de deux manières principales:
 - En rendant plus difficile l’évacuation de cette chaleur par la constriction des vaisseaux sanguins situés près de la
   surface de votre corps, ce qui réduit la quantité de chaleur qui peut s’échapper par votre peau.
 
-## Cellule tueuse naturelle
+### Cellule tueuse naturelle
 
 Elles sont apparentées aux lymphocytes T, mais rapidement rejoignent le système immunitaire inné pour s'attaquer aux
 cellules infectées par des virus et aux cellules cancéreuses. Elles n’ont aucun moyen de voir les molécules du CMH de

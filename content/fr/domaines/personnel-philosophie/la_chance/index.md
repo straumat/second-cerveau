@@ -14,7 +14,7 @@ weight: 1
 toc: false
 ---
 
-La chance, ce n’est pas que du hasard.
+**La chance, ce n’est pas que du hasard.**
 
 Lorsque l’on veut entreprendre quelque chose, quoi que ce soit, on compte toujours un peu sur la chance. Je ne connais
 personne qui ne lui doive rien.

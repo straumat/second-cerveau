@@ -13,6 +13,7 @@ identifier: "personnel-la-satisfaction"
 weight: 1
 toc: false
 ---
+**La satisfaction diffère du plaisir et de la joie par le fait qu’elle nécessite que l'on agisse.**
 
 Ce n’est pas toujours facile à accepter, mais nos émotions et nos actions sont dictées par des réactions chimiques qui
 se produisent dans notre cerveau et qui sont le résultat de milliers d’années d’évolutions, transmises, de générations
@@ -68,7 +69,6 @@ hédonique”. Nous sommes condamnés à chercher de nouvelles sources de récom
 subjectif. Une vie sans plaisir n’a pas d’intérêt, mais cela explique aussi pourquoi la recherche du plaisir juste pour
 le plaisir mène aussi à la misère, car cela ne suffit pas au cerveau.
 
-**La satisfaction diffère du plaisir et de la joie par le fait qu’elle intègre la notion d’action.**
 
 
 
