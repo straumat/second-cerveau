@@ -8,7 +8,7 @@ images: []
 type: docs
 menu:
 domaines:
-parent: "personnel-envie"
+parent: "personnel-philosophie"
 identifier: "personnel-l-envie"
 weight: 1
 toc: false
