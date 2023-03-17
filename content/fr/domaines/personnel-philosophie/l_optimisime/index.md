@@ -14,8 +14,6 @@ weight: 1
 toc: false
 ---
 
-**L'optimisme**
-
 J'aime beaucoup cette phrase de Nat Friedman : "Les pessimistes ont l'air intelligents. Les optimistes gagnent de
 l'argent."
 
