@@ -121,7 +121,52 @@ En général un data mart ne dépasse pas les 100 giga octets.
 
 ### Types de base de données
 
-Il existe 3 types de base de données :
+Il existe 2 types de base de données avec quelques sous types :
 
-- Base de données relationelles : elles sont structurées en tables et sont très performantes pour les requêtes
-  complexes.
+- Base de données relationnelle : elles sont structurées en tables et sont très performantes pour les requêtes
+  complexes. Il faut les utiliser dès que vous avez besoin de transactions ou de faire des jointures complexes.
+- Base de données NoSQL : elles peuvent stocker les données sous différentes formes (clé/valeur, graphes, documents,
+  etc.) et sont très performantes pour les requêtes simples, souvent parce que leurs données peuvent être distribuées.
+    - Clé/valeur : elles sont très performantes pour les requêtes simples et sont très utilisées pour les caches.
+    - Documents : elles sont très performantes pour stocker et requêter un document (JSON, XML...). Idéal pour stocker
+      des flux dont les formats peuvent rapidement changer (ex : Facebook, Linkedin, Twitter, etc...) ou pour créer des
+      moteurs de recherche comme ElasticSearch.
+    - Graphes : elles sont très performantes pour stocker et requêter des données structurées en graphes.
+    - Colonne: ce sont des technologies type BigTable qui sont très performantes pour les requêtes simples et les
+      requêtes de type "scan" (AUTRE ex : HBase, Cassandra, etc...). On peut absorber des volumes de données très
+      importants de données tout en gardant de bonnes performances.
+
+## ETL : Extraction, Transformation, Load
+
+Nous utilisons ce type de solutions pour charger les données depuis nos sources vers le data wharehouse.
+
+- La première question à se poser : quelle vélocité pour nos données ? Afin de savoir si on est sur un traitement temps
+  réel ou un traitement batch.
+- La deuxième question à se poser : Est-ce que le volume de données est conséquent ? Si on travaille avec plusieurs Tera
+  octets de données, on va devoir utiliser des outils spécialisés type Big Data.
+- La troisième question à se poser : Est-ce que les données sont structurées ? Si oui, on utilise une base de données
+  relationnelle si non, on doit les stocker dans une base NoSQL.
+
+La solution qui semble la plus "industrialisable" est Spring Batch. Les scripts Talend ou Kettle sont beaucoup moins
+facilement testables.
+
+Si l'on avait besoin de traitement Big Data, on pourrait utiliser Apache Spark et notamment avec la couche AWS EMR
+couplé avec AWS Lambda.
+
+Si l'on avait besoin de traitement temps réels, on partirait plus sur du Kafka.
+
+TODO : Voir les différents patterns, notamment les architectures Lambda qui permettent de faire du traitement batch et
+du traitement temps réel.
+
+## Gouvernance des données
+
+La solution qui parait la plus cohérente est Datahub qui permet de gérer les métadonnées et de les rendre accessibles.
+
+Principaux avantages de Datahub :
+
+- Gestion des métadonnées : permet de gérer les métadonnées de manière centralisée et de les rendre accessibles
+  aux utilisateurs.
+- Gestion des droits : permet de gérer les droits d'accès aux données.
+- Gestion des flux : permet de voir les flux de données entre les différents systèmes.
+
+
