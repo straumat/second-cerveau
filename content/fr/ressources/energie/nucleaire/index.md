@@ -4,7 +4,7 @@ description: ""
 date: 2022-11-22T16:23:44+01:00
 lastmod: 2022-11-22T16:23:44+01:00
 draft: false
-images: []
+images: [ ]
 type: docs
 menu:
 ressources:
@@ -25,7 +25,7 @@ Si l'on regarde les prix, on peut se dire:
 En effet, aux prix de 2022, une centrale nucléaire de 1,6 GW en France générera des revenus de 9,2 milliards d'euros
 rien qu'en 2023. C'est assez proche du coût du nouvel EPR de Flamanville 3.
 
-## Est-ce que l'achat d'uranium est une problématique du même type que l'achat de pétrole ou de gaz ? 
+## Est-ce que l'achat d'uranium est une problématique du même type que l'achat de pétrole ou de gaz ?
 
 Le prix de l’uranium ne représente que 5 % du coût total de l’électricité produite. Le marché de l’uranium est différent
 de ceux des autres matières premières, car les risques géopolitiques sont faibles.
@@ -88,6 +88,9 @@ Voici une mise à l'échelle de TOUS les déchets nucléaires français produits
 derrière une vraie montagne près d'Aix-en-Provence:
 
 ![Taille des déchêts nucléaires](dechets_nucleaire.jpeg)
+
+Pour info, Si les stocks européens de combustible nucléaire étaient utilisés dans les futurs réacteurs, ils pourraient
+[générer assez d'électricité bas carbone pour toute l'Europe pendant 600 à 1000 ans, à consommation constante](https://world-nuclear-news.org/Articles/Extract-energy-from-used-nuclear-fuel,-says-enviro).
 
 ## Quelles évolutions ?
 

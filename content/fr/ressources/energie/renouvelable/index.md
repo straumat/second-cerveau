@@ -4,7 +4,7 @@ description: ""
 date: 2022-11-22T16:23:44+01:00
 lastmod: 2022-11-22T16:23:44+01:00
 draft: false
-images: []
+images: [ ]
 type: docs
 menu:
 ressources:
@@ -27,6 +27,10 @@ Voici un graphique pour comparer les notions d'intermittence entre nucléaire et
 ![comparaison intermitencenucelaire solaire](comparaison_intermitence_nucelaire_solaire.png)
 
 C'est pour cela que l'Allemagne a complètement échoué.
+
+Et en france, malgré 10,5% de puissance éolienne installée en plus en 2022, leur production électrique totale n'a
+augmenté que de
+2,7%. [Le facteur de charge reste très faible à 21,6%](https://analysesetdonnees.rte-france.com/bilan-electrique-synthese).
 
 L'Allemagne
 pourrait [réactiver 15 de ses centrales mises en veille dans le cadre de sa politique environnementale](https://twitter.com/bfmbusiness/status/1529406893235613697)

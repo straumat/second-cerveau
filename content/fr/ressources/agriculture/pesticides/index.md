@@ -4,7 +4,7 @@ description: ""
 date: 2022-11-22T15:50:18+01:00
 lastmod: 2022-11-22T15:50:18+01:00
 draft: false
-images: []
+images: [ ]
 type: docs
 menu:
 ressources:
@@ -39,3 +39,6 @@ travail des pesticides, sans chimie comme celui
 de [Carbon Robotics](https://twitter.com/Rainmaker1973/status/1528367575146475522). D'autres utilisations de la
 technologie permettent d'utiliser moins de pesticides comme dans cet exemple où l'on a [une division par 15
 de la quantité de matière active employée](https://twitter.com/rodmess/status/1413272816003141635).
+
+Et Le découplage des pays riches ne concerne pas que le CO2, mais aussi les engrais. Le Royaume-Uni produit 84% de plus
+qu'en 1961, avec la même quantité de fertilisants. Aux Pays-Bas, la production a plus que doublé, avec 20% de moins.

@@ -4,7 +4,7 @@ description: ""
 date: 2022-11-22T17:32:57+01:00
 lastmod: 2022-11-22T17:32:57+01:00
 draft: false
-images: []
+images: [ ]
 type: docs
 menu:
 ressources:
@@ -45,3 +45,13 @@ bonbons et que vous l'avalez d'un seul coup.
 
 ## Pourquoi pense-t-on ce que l'on pense ?
 
+## A intégrer:
+
+Dès qu’un individu sur terre a une envie, une lubie, une croyance… on en fait un portrait victimaire inclusif, on
+dénonce le tabou autour de ce micro-sujet, on culpabilise la terre entière et le "manque d’éducation à ce sujet", bref
+le wokisme, c'est 8 milliards de sujets à venir
+
+https://www.dailysignal.com/2023/04/03/racist-left-screams-quiet-part-out-loud/
+https://twitter.com/wesyang/status/1643468689302233089
+https://twitter.com/DrDavidLey/status/1637147850059444225
+https://twitter.com/realchrisrufo/status/1625932143737044997

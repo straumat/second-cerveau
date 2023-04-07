@@ -4,7 +4,7 @@ description: ""
 date: 2022-11-22T16:13:46+01:00
 lastmod: 2022-11-22T16:13:46+01:00
 draft: false
-images: []
+images: [ ]
 type: docs
 menu:
   ressources:
@@ -26,6 +26,8 @@ Le [contrôle des loyers à Berlin](https://www.bloomberg.com/opinion/articles/2
 est un désastre : protège les locataires existants aux dépens du reste de la population, en particulier les jeunes pour
 qui il est impossible de trouver un logement : et voici la pénurie.
 
+[L'encadrement des loyers mise en place en suède est aussi un échec.](https://twitter.com/MoneyRadar_FR/status/1643138859088093191)
+
 ## L'ISF
 
 L'évaluation de la suppression partielle de l'ISF, confiée à l’IPP, sera disponible d'ici octobre 2023. En attendant,
@@ -42,3 +44,9 @@ Quasi éradiquées par le braconnage puis par une récente épidémie, les [anti
 espérances](https://www.newscientist.com/article/2333567-saiga-antelopes-have-increased-10-fold-after-mass-die-off-in-2015/) :
 130.000 en 2015, 1,3 million aujourd'hui. C'est le plus puissant et rapide rétablissement d'une espèce
 jamais réalisé.
+
+## Redistribution
+
+Selon Eurostat, la France est n°2 en Europe du partage de la valeur ajoutée dans l'entreprise. Les salariés captent
+82,5% des revenus générés lors du processus de production. La part des profits distribués aux actionnaires demeure
+inférieure à presque tous les pays de l'UE : 8%.

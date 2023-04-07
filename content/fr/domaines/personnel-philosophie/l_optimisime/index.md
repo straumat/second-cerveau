@@ -4,7 +4,7 @@ description: ""
 date: 2023-02-02T09:52:18+01:00
 lastmod: 2023-02-02T09:52:18+01:00
 draft: false
-images: []
+images: [ ]
 type: docs
 menu:
 domaines:
@@ -38,7 +38,18 @@ Une des choses qui différencie le plus les optimistes des pessimistes, c'est qu
 un milliard d'humains sur terre ? très peu de gens... et je ne parle même pas du fait que personne ne se rend compte des
 améliorations spectaculaires en ce qui concerne la mortalité infantile, l'accès à l'éducation ou l'extrême pauvreté...
 
-Sources:
+On oppose généralement cela au "techno-solutionisme" mais les exemples de technologies qui règlent les problèmes sont
+nombreux:
+
+- [L'adoption de la Clean Air Act, qui exigeait que toutes les voitures après 1975 aient un pot catalytique](https://twitter.com/scienceisstrat1/status/1594806958086823945).
+
+À noter que les pessimistes ont souvent tort:
+
+- ["But the end of the Maldives... could come sooner if drinking water supplies dry up by 1992, as predicted. The Canberra Times, 1988](https://twitter.com/AlexEpstein/status/1643599653638635523)
+- [La banquise arctique pourrait complement disparaitre d'ici 2016]()
+- [Prévisions de Paul Ehrlich en 1970](https://www.youtube.com/watch?v=GZmVLpfunzE&feature=youtu.be)
+
+- Sources:
 
 - [https://rootsofprogress.org/why-pessimism-sounds-smart](https://rootsofprogress.org/why-pessimism-sounds-smart)
 - [https://bigthink.com/progress/pessimism-is-a-barrier-to-progress/](https://bigthink.com/progress/pessimism-is-a-barrier-to-progress/)
