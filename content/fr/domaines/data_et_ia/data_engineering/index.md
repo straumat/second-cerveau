@@ -14,7 +14,7 @@ weight: 10
 toc: true
 ---
 
-Le Data Engineer définit, développe, met en place et maintient les outils et infrastructures scalable nécessaires à
+Le Data Engineer définit, développe, met en place et maintient les outils et infrastructures scalables nécessaires à
 l'analyse de données. Le but de ce chapitre est de présenter les différents outils et technologies qui permettent de
 mettre en place ce genre d'architecture.
 
@@ -24,8 +24,8 @@ On peut analyser de la donnée sous 4 angles différents :
 
 - **Volume** : la quantité de données.
 - **Vélocité** : la vitesse à laquelle les données sont produites.
-- **Variété** : la diversité des formatés des données (structurées, non structurées, semi structurées).
-- **Véracité** : la fiabilité des données, à quel point on peut lui faire confiance.
+- **Variété** : la diversité des formats des données (structurées, non structurées, semi-structurées).
+- **Véracité** : la fiabilité des données, à quel point on peut leur faire confiance.
 
 ## Types de problèmes
 
@@ -37,7 +37,7 @@ Il y a 3 types de traitement :
 
 - Les traitements temps réel qui sont généralement traités comme un flux de données auquel on réagit (de quelques
   secondes à 5 minutes). On utilise habituellement des bus de données ou d'évènements, car la capacité du consommateur
-  doit être supérieur à la capacité du producteur d'évènement (Pub Sub framework).
+  doit être supérieure à la capacité du producteur d'évènement (Pub Sub framework).
 - Les traitements en quasi-temps réel (de quelques minutes à une heure).
 - Les traitements batchs qui sont des imports ou des générations de rapports (plus d'une heure). Au-dessus de 10 tera
   octets, on parle de Big Data.
@@ -52,7 +52,7 @@ Il y a 3 types de publication :
 - Les rapports qui sont des exports de données (tableaux de bord, rapports, etc.) qu'on peut réaliser avec
   elasticsearch+kibana ou Superset.
 - Les API qui sont des interfaces de programmation qui permettent d'accéder aux données.
-- Les référentiels de données de trois types : Data lake, Data wharehouse et Data mart.
+- Les référentiels de données de trois types : Data lake, Data warehouse et Data mart.
 
 ## Stockage de données
 
@@ -65,7 +65,7 @@ Apache Avro est un système de sérialisation de données open source qui permet
 entre différents systèmes et langages de programmation de manière efficace. Voici quelques raisons pour lesquelles vous
 pourriez vouloir utiliser Apache Avro :
 
-- **Performance** : Avro est conçu pour être extrêmement rapide et efficace en termes de traitement des données. Il peut
+- **Performance** : Avro est conçu pour être extrêmement rapide et efficace en terme de traitement des données. Il peut
   gérer des volumes de données importants sans sacrifier les performances.
 - **Portabilité** : Avro est conçu pour être utilisé avec une variété de langages de programmation. Cela signifie que
   vous pouvez facilement transférer des données entre différentes applications, même si elles sont écrites dans des
@@ -95,7 +95,7 @@ Il existe trois types de stockage de données :
 #### Data lake
 
 Les data lake vont contenir les données provenant de diverses sources (applications, sites web, réseaux sociaux, base de
-données, exports...) Ils vont servir de sources pour créer le data wharehouse et vont pouvoir aussi servir pour le
+données, exports...) Ils vont servir de sources pour créer le data warehouse et vont pouvoir aussi servir pour le
 reporting, la data science ou le machine learning.
 
 On peut y créer plusieurs zones :
@@ -108,20 +108,20 @@ On peut y créer plusieurs zones :
 
 #### Data warehouse
 
-Les data wharehouse qui sont des bases de données qui contiennent des données consolidées et structurées utilisées pour
-le reporting, l'analyse de données et la BI. En général un data wharehouse fait entre 100 giga octets et plusieurs tera
+Les data warehouse qui sont des bases de données qui contiennent des données consolidées et structurées utilisées pour
+le reporting, l'analyse de données et la BI. En général un data warehouse fait entre 100 giga octets et plusieurs tera
 octets.
 
 #### Data mart
 
-Les data mart sont des bases de données qui contiennent des parties du data wharehouse qui concernent certains métiers.
+Les data mart sont des bases de données qui contiennent des parties du data warehouse qui concernent certains métiers.
 En général un data mart ne dépasse pas les 100 giga octets.
 
 ## Base de données
 
 ### Types de base de données
 
-Il existe 2 types de base de données avec quelques sous types :
+Il existe 2 types de base de données avec quelques sous-types :
 
 - Base de données relationnelle : elles sont structurées en tables et sont très performantes pour les requêtes
   complexes. Il faut les utiliser dès que vous avez besoin de transactions ou de faire des jointures complexes.
@@ -138,7 +138,7 @@ Il existe 2 types de base de données avec quelques sous types :
 
 ## ETL : Extraction, Transformation, Load
 
-Nous utilisons ce type de solutions pour charger les données depuis nos sources vers le data wharehouse.
+Nous utilisons ce type de solutions pour charger les données depuis nos sources vers le data warehouse.
 
 - La première question à se poser : quelle vélocité pour nos données ? Afin de savoir si on est sur un traitement temps
   réel ou un traitement batch.
