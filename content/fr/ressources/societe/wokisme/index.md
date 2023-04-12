@@ -45,6 +45,64 @@ bonbons et que vous l'avalez d'un seul coup.
 
 ## Pourquoi pense-t-on ce que l'on pense ?
 
+Votre esprit supérieur sait que l'esprit humain est parfois délirant et il ne veut pas que vous le soyez. Au fur et à
+mesure que vous apprenez des choses, il est tout à fait capable de faire évoluer vos croyances. Votre esprit primitif ne
+pense pas la même chose, ce qui est important pour lui, c'est de garder les croyances qui semblent les plus utiles pour
+vous aider à survivre.
+
+Ces croyances-là, l'esprit primitif va les considérer comme une partie fondamentale votre identité et elles vont pour
+lui être la clé pour que vous restiez intégré aux groupes/communautés dont vous faites parties. Il cherche la
+**confirmation** de vos croyances existantes là où votre esprit supérieur cherche la **vérité**.
+
+### Quand on pense comme un scientifique
+
+Vous partez d'un point A et vous suivez les preuves jusque-là où elles vous mènent :
+
+- Vous récoltez l'information sachant que la plupart des informations que nous utilisons est indirecte. C'est du savoir
+  accumulé par d'autres que nous "injections" dans notre cerveau.
+- Vous la vérifiez et vous devez là savoir quand vous devez "faire confiance". Généralement, on évalue la qualité d'une
+  source en fonction de la qualité de ses prédictions passées.
+- On formule des hypothèses.
+
+Ensuite, on passe au test des hypothèses, et cela peut mal se passer, car il peut avoir complètement tort. Ce n'est pas
+grave, l'idée ici étant d'arriver au fur et à mesure la vérité. On intègre les erreurs/critiques et on recommence le
+process.
+
+### Quand on pense comme un fan de sport
+
+La plupart des fans de sports veulent regarder un match "juste". Ils ne veulent pas d'arbitres corrompus même si cela
+ferait gagner leur équipe. Ils ne veulent pas de joueurs dopés même si cela ferait gagner leur équipe. Mais ils ne font
+pas non plus "que" regarder un match, ils ont un parti pris pour leur équipe, ils sont choisi un camp.
+
+Dans ce cas-là, votre esprit primitif a corrompu votre esprit supérieur en y insérant le biais de confirmation, ce biais
+qui va vous pousser à confirmer vos croyances. Vous allez donc chercher des preuves bien sûr, mais surtout celles qui
+confirment vos croyances.
+
+### Quand vous pensez comme un avocat
+
+Un avocat va penser un peu comme un fan de sport, mais un fan de sport peut changer d'avis. Un avocat ne cherche pas la
+vérité, il est dans une équipe, un point c'est tout. Quand vous êtes un avocat, vous ne commencez pas votre réflexion
+comme un scientifique, vous partez de votre conclusion et vous remontez le fil.
+
+Quand vous êtes comme cela, vous n'arrivez quasiment plus à apprendre de nouvelles choses et vous pouvez arriver à
+croire n'importe quoi.
+
+### Quand vous pensez comme un fanatique
+
+Les fanatiques pensent que leurs idées sont sacrées, qu'elles sont fragiles, précieuses et qu'elles ne doivent jamais
+être remises en cause. Quand vous débattez avec un fanatique, les choses deviennent très vite tendues parce que ces gens
+s'identifient à leurs idées et challenger leurs idées revient à les insulter.
+
+## Cultures
+
+Une définition de la culture que l'on peut donner est "**comment nous faisons les choses ici**". Chaque humain baigne
+dans plusieurs cultures (le fait de devoir vivre dans plusieurs cultures fait partie des choses qui rendent la vie des
+humains compliqués).
+
+La culture d'un groupe influence ces membres avec un système d'incitation. Ceux qui respectent les règles de la culture
+seront récompensés en étant accepté, respecté et aimé. Ceux qui ne respectent pas les règles de la culture seront
+ridiculisés, rejetés, punis.
+
 ## A intégrer:
 
 Dès qu’un individu sur terre a une envie, une lubie, une croyance… on en fait un portrait victimaire inclusif, on

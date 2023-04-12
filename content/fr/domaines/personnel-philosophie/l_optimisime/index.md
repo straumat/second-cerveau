@@ -42,12 +42,15 @@ On oppose généralement cela au "techno-solutionisme" mais les exemples de tech
 nombreux:
 
 - [L'adoption de la Clean Air Act, qui exigeait que toutes les voitures après 1975 aient un pot catalytique](https://twitter.com/scienceisstrat1/status/1594806958086823945).
+- [La couche d'ozone qui protège la planète des rayons ultraviolets sera a priori entièrement récupérée dans la majeure
+  partie du monde d'ici à 2040. Cela prendra un petit peu plus de temps pour l'Arctique (2045) et l'Antarctique (2066)](https://www.theguardian.com/environment/2023/jan/09/ozone-layer-healed-within-decades-un-report).
 
-À noter que les pessimistes ont souvent tort:
+- À noter que les pessimistes ont souvent tort:
 
 - ["But the end of the Maldives... could come sooner if drinking water supplies dry up by 1992, as predicted. The Canberra Times, 1988](https://twitter.com/AlexEpstein/status/1643599653638635523)
 - [La banquise arctique pourrait complement disparaitre d'ici 2016]()
 - [Prévisions de Paul Ehrlich en 1970](https://www.youtube.com/watch?v=GZmVLpfunzE&feature=youtu.be)
+
 
 - Sources:
 

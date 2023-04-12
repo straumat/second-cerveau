@@ -4,7 +4,7 @@ description: ""
 date: 2022-11-22T17:32:57+01:00
 lastmod: 2022-11-22T17:32:57+01:00
 draft: false
-images: []
+images: [ ]
 type: docs
 menu:
 ressources:
@@ -30,7 +30,8 @@ comparaisons:
   téléphone
   mobile ne pourrait éclairer une ampoule que pendant 1 heure.
 - **Le réseau
-  mobile** : [Une étude finlandaise](https://www.researchgate.net/publication/326470455_Evaluating_the_Energy_Consumption_of_Mobile_Data_Transfer-From_Technology_Development_to_Consumer_Behaviour_and_Life_Cycle_Thinking)
+  mobile
+  ** : [Une étude finlandaise](https://www.researchgate.net/publication/326470455_Evaluating_the_Energy_Consumption_of_Mobile_Data_Transfer-From_Technology_Development_to_Consumer_Behaviour_and_Life_Cycle_Thinking)
   citée montre que la consommation électrique des opérateurs finlandais est restée à peu près stable pendant la décennie
   2010, malgré une légère croissance tendancielle (Alors que la croissance du volume explose). Le rapport ARCEP cité
   propose également une évaluation en termes de gaz à effet de serre montre une baisse progressive de l’empreinte des
@@ -57,6 +58,14 @@ qui s’est révélé vraiment violent avec des erreurs d’appréciation allant
 
 Il est tout simplement délirant d'envisager de multiplier par presque 3 l'empreinte des réseaux en 10 ans ; cela ne
 tient pas compte du décommissionnement progressif de la 3 et 4G qui consomment beaucoup plus que la 5G.
+
+Trouvé sur Twitter:
+
+- Ohla, les datacenters ça consomme beaucoup d'eau...
+- Google... bof, l'équivalent de 29 parcours de golf au niveau mondial, pour les nôtres.
+  Sinon, il y a 38000 parcours de golf dans le monde...
+
+Les échelles, toujours les échelles.
 
 **Sources**
 
