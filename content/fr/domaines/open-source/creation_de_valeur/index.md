@@ -48,7 +48,7 @@ Comme le code, la valeur d'une infrastructure dépend de son utilisation et pas 
 maintenance. C'est le cas par exemple d'une route qui peut être très utile, car très utilisé, même si c'est la route qui
 a couté le moins cher à construire.
 
-En fait, on se trouve dans une situation connue comme la "tragégie des communs". Si un parc est libre d'accès, les gens
+En fait, on se trouve dans une situation connue comme la "tragédie des communs". Si un parc est libre d'accès, les gens
 l'utiliseront sans payer la maintenance qu'il nécessite. Plus il y a de gens qui vont utiliser ce parc, plus sa qualité
 va diminuer. Pour résoudre ce problème, soit on fait payer l'entrée, soit ces biens sont fournis par l'état grâce aux
 impôts.
