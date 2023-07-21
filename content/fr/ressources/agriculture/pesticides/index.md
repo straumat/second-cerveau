@@ -42,3 +42,6 @@ de la quantité de matière active employée](https://twitter.com/rodmess/status
 
 Et Le découplage des pays riches ne concerne pas que le CO2, mais aussi les engrais. Le Royaume-Uni produit 84% de plus
 qu'en 1961, avec la même quantité de fertilisants. Aux Pays-Bas, la production a plus que doublé, avec 20% de moins.
+
+[L'utilisation d'herbicides par hectare a été divisée par 32 entre les années 50 et les années 2000.
+Celle d'insecticides par 42 et celle de fongicides par 12](https://croplife.org/wp-content/uploads/2018/11/Phillips-McDougall-Evolution-of-the-Crop-Protection-Industry-since-1960-FINAL.pdf).

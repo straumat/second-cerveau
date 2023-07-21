@@ -28,3 +28,10 @@ On en arrive à des raisonnements ahurissants:
   2016), vous faîtes déjà partis des 2,2% les plus riches du monde.
 - Si on prend le patrimoine, avec un patrimoine de 75 000 euros en France, vous faîtes déjà partis des 10% les plus
   riches la planète (note, le patrimoine médian en France c'est un peu plus de 110 000 euros).
+
+Les inégalités mondiales diminuent, et sont au plus bas depuis + de 100 ans. L'écart de revenu entre tous les citoyens
+du monde, ajusté des différences de prix entre pays, n'a pas été aussi faible depuis les années 1890:
+
+![Inégalités mondiales](inegalites_mondiales.png)
+
+[https://www.foreignaffairs.com/world/great-convergence-equality-branko-milanovic](https://www.foreignaffairs.com/world/great-convergence-equality-branko-milanovic)

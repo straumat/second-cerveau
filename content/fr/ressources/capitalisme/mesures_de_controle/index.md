@@ -20,6 +20,10 @@ la [révolution française et sa gestion de l'inflation](https://www.lesechos.fr
 . En septembre 1793, les sans-culottes arrachent à Robespierre le blocage des prix. Dix mois plus tard, la pénurie ainsi
 déclenchée est effroyable...
 
+Florilège des plus grands échecs du contrôle des prix à travers l'histoire : [https://twitter.com/Cobra_FX_/status/1644237810566676480](https://twitter.com/Cobra_FX_/status/1644237810566676480)
+
+Il y a aussi le cas de la [Hongrie](https://www.lesechos.fr/monde/europe/en-hongrie-le-gel-des-prix-alimentaires-ne-fait-quaccentuer-linflation-1914728?s=09).
+
 ## Encadrement des loyers
 
 Le [contrôle des loyers à Berlin](https://www.bloomberg.com/opinion/articles/2021-03-02/berlin-s-rent-controls-are-proving-to-be-the-disaster-we-feared)
@@ -35,6 +39,9 @@ France Stratégie note que l'exode fiscal des assujettis à cet impôt s'est for
 surpassent les "départs".
 
 ![isf_france_strategie](isf_france_strategie.png)
+
+La Norvège a voulu grandement augmenter ce type d'impôts et cela a été une catastrophe : 
+[https://twitter.com/DellAnnaLuca/status/1662111839977893888](https://twitter.com/DellAnnaLuca/status/1662111839977893888)
 
 ## Biodiversité
 

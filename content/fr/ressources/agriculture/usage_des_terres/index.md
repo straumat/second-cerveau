@@ -27,6 +27,9 @@ sur terre et la surface nécessaire pour les nourrir:
 Et voici un graphique sur l'évolution des terres agricoles par pays:
 ![évolution terres agricoles de 1800 à 2000](evolution_agriculture_1800_a_2000.jpeg)
 
+Voici aussi un schéma qui représente bien le changement:
+![evolution de l'agriculture](evolution_agriculture.jpeg)
+
 Une étude suédoise conclut que le passage de l'agriculture conventionnelle à l'agriculture biologique nécessiterait
 jusqu'à 130 % de terres agricoles en plus pour maintenir
 les [rendements](https://www.sciencedirect.com/science/article/abs/pii/S0308521X22000403).

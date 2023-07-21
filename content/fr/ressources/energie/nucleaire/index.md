@@ -109,3 +109,7 @@ Yankee](https://fr.wikipedia.org/wiki/Centrale_nucl%C3%A9aire_de_Maine_Yankee).
 Même en France, le réacteur de Chooz A (technologie similaire à tous les réacteurs aujourd'hui en fonctionnement en
 France) est à un stade avancé de son démantèlement.
 [Source](https://twitter.com/TristanKamin/status/1436414069641203715)
+
+## Avis de divers responsables
+
+[Avis du GIEC sur le nucléaire par Valérie Masson-Delmotte](https://twitter.com/valmasdel/status/1679492071839916039)

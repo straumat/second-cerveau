@@ -105,7 +105,7 @@ ridiculisés, rejetés, punis.
 
 ## A intégrer:
 
-Dès qu’un individu sur terre a une envie, une lubie, une croyance… on en fait un portrait victimaire inclusif, on
+Dès qu’un individu sur terre a une envie, une lubie, une croyance... on en fait un portrait victimaire inclusif, on
 dénonce le tabou autour de ce micro-sujet, on culpabilise la terre entière et le "manque d’éducation à ce sujet", bref
 le wokisme, c'est 8 milliards de sujets à venir
 
@@ -113,3 +113,7 @@ https://www.dailysignal.com/2023/04/03/racist-left-screams-quiet-part-out-loud/
 https://twitter.com/wesyang/status/1643468689302233089
 https://twitter.com/DrDavidLey/status/1637147850059444225
 https://twitter.com/realchrisrufo/status/1625932143737044997
+https://twitter.com/RichardHanania/status/1679970523013615618
+https://twitter.com/monitoringbias/status/1661367696917942273
+https://twitter.com/paulg/status/1650383234511908865
+https://twitter.com/OuranosMK/status/1673249072902201347
