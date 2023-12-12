@@ -103,6 +103,60 @@ La culture d'un groupe influence ces membres avec un système d'incitation. Ceux
 seront récompensés en étant accepté, respecté et aimé. Ceux qui ne respectent pas les règles de la culture seront
 ridiculisés, rejetés, punis.
 
+Il existe deux façons de traiter les idées :
+- Ideal lab : on part du principe que les personnes et les idées sont deux choses séparées. Les personnes doivent être respectées, mais les idées peuvent être challengées.
+- Chambre d'échos : penser comme le groupe est la seule façon d'être accepté. Les idées sont sacrées et ne doivent jamais être remises en cause, dire "je ne sais pas" est un signe de faiblesse et la personne et son idée sont une seule et même chose.
+
+La chambre d'écho créée ce que l'auteur appelle des golems, des monstres idiots et dangereux.
+Le génie humain est un produit de la collaboration humaine. 
+Les golems sont ce qui se passe quand les humains se comportent comme des fourmis : conformité stricte avec la colonie et haine de ceux qui sont différents.
+
+### Le système libéral
+
+Construire sur le principe des idées a démarré dans l'occident (depuis la Grèce antique) avec des idées comme les droits de l'homme, l'égalité devant la loi, la tolérance et la liberté.
+
+On peut dire que la nature humaine est constante, ce qu'elle produit dépend de quel environnement on la place d'où l'importance d'avoir des droits fondamentaux à la vie, la propriété et la liberté.
+
+Dans le système libéral, une innovation clé est qu'un individu ne peut pas utiliser la force physique pour obtenir ce qu'il veut. Il doit convaincre les autres de lui donner ce qu'il veut. Cela a créé un système où les gens doivent se convaincre les uns les autres et où les idées sont challengées.
+
+Un système libéral évolue avec deux forces : 
+
+- Les "progressistes" : ils veulent faire progresser la société en changeant le status-quo. C'est un peu la pédale d'accélérateur.
+- Les "conservateurs" : ils veulent garder ce qui marchent et éviter l'érosion des qualités de la société. C'est la pédale de frein.
+
+Les progressistes sont aussi ceux qui génèrent de nouvelles idées, non testées auparavant, et qui seront pour certaines très mauvaises.
+
+## La spirale
+
+Les golems sont de plus en plus puissants et de plus en plus nombreux.
+
+### De plus en plus de tribalisme
+
+Il y a un dicton "moi contre mes frères, mes frères et moi contre mes cousins, mes cousins et moi contre les étrangers...". 
+Un Golem doit toujours être dans un conflit "Nous contre eux" et ce qui permet à deux golems de fusionner, c'est d'avoir un ennemi commun.
+
+A la base, ce n'est pas une mauvaise chose, car cela permet de créer des liens forts entre les membres d'un groupe. Mais quand on est dans une chambre d'écho, cela peut devenir très dangereux.
+
+Dans les années 50, 60, 70 et 80, il y avait des ennemis communs (Nazis, communistes...) qui permettait de maintenir une unité. Avec la perte de ces ennemis communs, les golems se sont mis à chercher des ennemis à l'intérieur de chaque pays.
+Même dans les partis politiques, on a commencé à voir des conflits internes de plus en plus violents, avec une disparition de la pluralité idéologique pour aller vers la pureté idéologique.
+
+Désormais, on déteste et on ne fait pas confiance aux autres parties politiques au lieu de ne simplement pas voter pour eux.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## A intégrer:
 
 Dès qu’un individu sur terre a une envie, une lubie, une croyance... on en fait un portrait victimaire inclusif, on

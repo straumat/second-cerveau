@@ -51,7 +51,6 @@ nombreux:
 - [La banquise arctique pourrait complement disparaitre d'ici 2016]()
 - [Prévisions de Paul Ehrlich en 1970](https://www.youtube.com/watch?v=GZmVLpfunzE&feature=youtu.be)
 
-
 - Sources:
 
 - [https://rootsofprogress.org/why-pessimism-sounds-smart](https://rootsofprogress.org/why-pessimism-sounds-smart)
