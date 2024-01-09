@@ -67,6 +67,10 @@ Trouvé sur Twitter:
 
 Les échelles, toujours les échelles.
 
+Il y a 3 ans, au moment de lancer la #5G, certains alertaient sur un risque de renouvellement accéléré des smartphones.
+Cela ne s’est pas passé.
+https://www.lesechos.fr/tech-medias/hightech/le-marche-des-smartphones-senfonce-vers-la-pire-annee-de-la-decennie-1970741
+
 **Sources**
 
 - [La sobriété numérique, oui mais pour quoi faire ?](https://signal.eu.org/blog/2020/07/15/la-sobriete-numerique-oui-mais-pour-quoi-faire/)

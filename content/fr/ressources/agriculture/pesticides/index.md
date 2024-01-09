@@ -45,3 +45,6 @@ qu'en 1961, avec la même quantité de fertilisants. Aux Pays-Bas, la production
 
 [L'utilisation d'herbicides par hectare a été divisée par 32 entre les années 50 et les années 2000.
 Celle d'insecticides par 42 et celle de fongicides par 12](https://croplife.org/wp-content/uploads/2018/11/Phillips-McDougall-Evolution-of-the-Crop-Protection-Industry-since-1960-FINAL.pdf).
+
+L'agriculture bio peut d'ailleurs être dévastée ar le mildiou.
+[https://twitter.com/foodevo_lefilm/status/1423257811342041088](https://twitter.com/foodevo_lefilm/status/1423257811342041088)

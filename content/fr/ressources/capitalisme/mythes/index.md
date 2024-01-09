@@ -4,7 +4,7 @@ description: ""
 date: 2022-11-22T16:13:46+01:00
 lastmod: 2022-11-22T16:13:46+01:00
 draft: false
-images: []
+images: [ ]
 type: docs
 menu:
 ressources:
@@ -22,6 +22,10 @@ est [ici](https://report.ipcc.ch/ar6wg3/pdf/IPCC_AR6_WGIII_FAQ_Chapter_02.pdf).
 
 Voici l'exemple français
 ![decouplage co2 france](decouplage_france.jpeg)
+
+Les émissions de SO2 (pluies acides), sont l’illustration de la courbe environnementale de Kuznets : il faut un certain
+niveau de richesse pour concilier développement et environnement.
+![Les émissions de SO2](so2.png)
 
 ### Les sociétés primitives étaient écologistes
 

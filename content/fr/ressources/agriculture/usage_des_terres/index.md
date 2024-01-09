@@ -4,7 +4,7 @@ description: ""
 date: 2022-11-22T15:50:18+01:00
 lastmod: 2022-11-22T15:50:18+01:00
 draft: false
-images: []
+images: [ ]
 type: docs
 menu:
 ressources:
@@ -33,3 +33,8 @@ Voici aussi un schéma qui représente bien le changement:
 Une étude suédoise conclut que le passage de l'agriculture conventionnelle à l'agriculture biologique nécessiterait
 jusqu'à 130 % de terres agricoles en plus pour maintenir
 les [rendements](https://www.sciencedirect.com/science/article/abs/pii/S0308521X22000403).
+
+Une étude réalisée de 2018 à 2022 montre que l'agriculture bio française a des rendements très inférieurs à l'
+agriculture conventionnelle : en moyenne -55% pour le blé, -42% à -49% pour l'orge, -30% à -37% pour le maïs, -28% pour
+le tournesol, -24% pour le soja.
+[Rendemends bio](https://agreste.agriculture.gouv.fr/agreste-web/download/publication/publie/Pri2308/Primeur2023-8_RendementsGdesCultures.pdf)

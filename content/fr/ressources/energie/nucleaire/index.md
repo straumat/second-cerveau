@@ -113,3 +113,7 @@ France) est à un stade avancé de son démantèlement.
 ## Avis de divers responsables
 
 [Avis du GIEC sur le nucléaire par Valérie Masson-Delmotte](https://twitter.com/valmasdel/status/1679492071839916039)
+
+## C'est trop long...
+
+Dans les années 1970, les Français ont construit 56 réacteurs en 15 ans, et les Canadiens 23 réacteurs en 22 ans.

@@ -4,7 +4,7 @@ description: ""
 date: 2022-11-22T16:39:08+01:00
 lastmod: 2022-11-22T16:39:08+01:00
 draft: false
-images: []
+images: [ ]
 type: docs
 menu:
 ressources:
@@ -31,7 +31,11 @@ Les prévisions d'effondrement dues à la croissance démographique, à la surco
 
 La vraie question pour la croissance future n'est pas celle de l'épuisement des ressources utilisées aujourd'hui; c'est
 la faillite de l'imagination de sociétés tellement nombrilistes qu'elles n'imaginent pas que l'avenir puisse être
-autrement que le présent.
+autrement que le présent. La lumière électrique, le premier moteur à combustion interne fiable et la transmission sans
+fil ont tous été inventés au cours de la même période de trois mois, fin 1879.
 
 ["Des scientifiques qui s'appuient sur les dernières recherches et utilisent des computers perfectionnés prévoient des
 difficultés sinon la fin du monde pour l'an 2000" affirmaient les médias en 1972](https://twitter.com/JL7508/status/1314967415214792704)
+
+D'ailleurs la théorie du jour du dépassement a été démonté plusieurs fois:
+[https://twitter.com/EVANVAERENBERGH/status/1686802613692493827](https://twitter.com/EVANVAERENBERGH/status/1686802613692493827)
