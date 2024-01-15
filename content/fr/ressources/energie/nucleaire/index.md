@@ -58,6 +58,7 @@ récentes en France, est aussi la plus performante du parc en termes de refroidi
 pour les futurs EPR construits le long de fleuves et rivières. Les centrales à cycle fermé, dotées des grandes tours
 aéroréfrigérantes reconnaissables, évitent de rejeter leurs eaux du circuit tertiaire dans le cours d'eau avoisinant et
 donc de le réchauffer.
+[Comment la centrale nucléaire de Civaux fait-elle face à la canicule ?](https://www.youtube.com/watch?v=2egJpgnfSCM)
 
 On peut même utiliser cette chaleur : La centrale nucléaire de Haiyang en Chine alimente désormais le chauffage urbain
 de la ville. Economie de 23000 t de charbon par an. Baisse des émissions de CO2 (60000t) et de polluants (suie, SOX,
