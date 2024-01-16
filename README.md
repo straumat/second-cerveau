@@ -5,9 +5,14 @@ Idées, inspirations, résumés de livres et d'articles sur différents sujets q
 ## Commandes principales
 
 - Premier démarrage : `npm install`
-- Lancer le site web : `hugo serve`
 - Ajouter un menu `npm run create -- --kind docs projets`.
 - Ajouter une page `npm run create domaines/innovation/introduction/index.md`.
+
+- Lancer le site web en local :
+
+```bash
+hugo serve
+```
 
 ## Livres à résumer
 
