@@ -4,7 +4,7 @@ description: ""
 date: 2022-11-22T09:52:18+01:00
 lastmod: 2022-11-22T09:52:18+01:00
 draft: false
-images: []
+images: [ ]
 type: docs
 menu:
 domaines:
@@ -14,11 +14,11 @@ weight: 1
 toc: true
 ---
 
+[![image](couverture_livre.jpg)](https://amzn.to/3HADeKu)
+
 ## Introduction
 
 Ce résumé a été réalisé, notamment, grâce au livre [Just Keep Buying](https://amzn.to/3VyIsf4) de Nick Maggiulli.
-
-<a href="https://www.amazon.fr/Just-Keep-Buying-Proven-Wealth/dp/0857199250?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1DL4HN783NSPP&keywords=just+keep+buying&qid=1670235937&sprefix=just+keep+buying%2Caps%2C71&sr=8-1&linkCode=li2&tag=blog-straumat-21&linkId=aa0ef3b7e1bf046c5cae314a4721fcb5&language=fr_FR&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0857199250&Format=_SL160_&ID=AsinImage&MarketPlace=FR&ServiceVersion=20070822&WS=1&tag=blog-straumat-21&language=fr_FR" ></a><img src="https://ir-fr.amazon-adsystem.com/e/ir?t=blog-straumat-21&language=fr_FR&l=li2&o=8&a=0857199250" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## Pourquoi investir ?
 

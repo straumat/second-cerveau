@@ -4,7 +4,7 @@ description: "Résumé Second brain par Tiago Forte"
 date: 2022-11-22T22:05:05+01:00
 lastmod: 2022-11-22T22:05:05+01:00
 draft: false
-images: []
+images: [ ]
 type: docs
 menu:
 domaines:
@@ -14,7 +14,7 @@ weight: 2
 toc: true
 ---
 
-<a href="https://www.amazon.fr/dp/B09MDNDYYF?&linkCode=li2&tag=blog-straumat-21&linkId=10d5fbc7befd628292d2f1dd34638b24&language=fr_FR&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09MDNDYYF&Format=_SL160_&ID=AsinImage&MarketPlace=FR&ServiceVersion=20070822&WS=1&tag=blog-straumat-21&language=fr_FR" ></a><img src="https://ir-fr.amazon-adsystem.com/e/ir?t=blog-straumat-21&language=fr_FR&l=li2&o=8&a=B09MDNDYYF" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+[![image](couverture_livre.jpg)](https://amzn.to/42dwKdL)
 
 ## Construire un second cerveau ? Quel est le but ?
 

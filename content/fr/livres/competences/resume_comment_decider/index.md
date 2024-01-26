@@ -4,7 +4,7 @@ description: "Résumé de How to decide, Simple Tools for Making Better Choices 
 date: 2022-11-22T22:05:05+01:00
 lastmod: 2022-11-22T22:05:05+01:00
 draft: false
-images: []
+images: [ ]
 type: docs
 menu:
 domaines:
@@ -14,7 +14,7 @@ weight: 2
 toc: true
 ---
 
-<a href="https://www.amazon.fr/gp/product/B07TRJB3S3?ie=UTF8&psc=1&linkCode=li2&tag=blog-straumat-21&linkId=7010323f604b82b737ac8fb36e7dd27c&language=fr_FR&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07TRJB3S3&Format=_SL160_&ID=AsinImage&MarketPlace=FR&ServiceVersion=20070822&WS=1&tag=blog-straumat-21&language=fr_FR" ></a><img src="https://ir-fr.amazon-adsystem.com/e/ir?t=blog-straumat-21&language=fr_FR&l=li2&o=8&a=B07TRJB3S3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+[![image](couverture_livre.jpg)](https://amzn.to/48IQ59c)
 
 Un bon outil de décision cherche à **réduire le rôle des biais cognitifs** (tels que l'excès de confiance, le biais
 rétrospectif ou le biais de confirmation) et utiliser une simple liste pour/contre tend à amplifier le rôle du biais.
@@ -54,11 +54,13 @@ précisément que possible.
 expériences individuelles interfèrent souvent avec l'apprentissage, car ce sont des cas particuliers
 
 Voici les six étapes à suivre pour prendre une bonne décision:
+
 - Étape 1 : Identifier l'ensemble raisonnable de résultats possibles.
 - Étape 2 : Identifiez votre préférence en utilisant le gain pour chaque résultat—dans quelle mesure aimez-vous ou
   n'aimez-vous pas chaque résultat, compte tenu de vos valeurs ?
 - Étape 3 : Estimez la probabilité que chaque résultat se produise.
-- Étape 4 : Évaluez la probabilité relative des résultats que vous aimez et que vous n'aimez pas pour l'option envisagée.
+- Étape 4 : Évaluez la probabilité relative des résultats que vous aimez et que vous n'aimez pas pour l'option
+  envisagée.
 - Étape 5 : Répétez les étapes 1 à 4 pour les autres options envisagées.
 - Étape 6 : Comparez les options entre elles.
 

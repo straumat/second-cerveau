@@ -14,9 +14,7 @@ weight: 1
 toc: true
 ---
 
-<a href="https://www.amazon.fr/gp/product/B09QD25C42?ie=UTF8&psc=1&linkCode=li2&tag=blog-straumat-21&linkId=5222f70b6523a0504f791f18466a9529&language=fr_FR&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09QD25C42&Format=_SL160_&ID=AsinImage&MarketPlace=FR&ServiceVersion=20070822&WS=1&tag=blog-straumat-21&language=fr_FR" ></a><img src="https://ir-fr.amazon-adsystem.com/e/ir?t=blog-straumat-21&language=fr_FR&l=li2&o=8&a=B09QD25C42" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-[Pourquoi sommes nous malade ?](https://areomagazine.com/2023/08/23/why-do-we-get-sick-the-new-science-of-evolutionary-medicine/)
+[![image](couverture_livre.jpg)](https://amzn.to/3OilAif)
 
 ## Qu'est-ce qu'une cellule ?
 
@@ -380,75 +378,4 @@ trois systèmes importants :
 - Elle ne peut plus se suicider.
 - Elle a perdu toute retenue et commence à se multiplier rapidement.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[Pourquoi sommes-nous malade ?](https://areomagazine.com/2023/08/23/why-do-we-get-sick-the-new-science-of-evolutionary-medicine/)

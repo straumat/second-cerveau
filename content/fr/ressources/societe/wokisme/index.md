@@ -13,10 +13,7 @@ identifier: "societe-wokisme"
 weight: 1
 ---
 
-Ce texte est globalement un résumé de l'excellent
-livre [What's Our Problem?: A Self-Help Book for Societies](https://amzn.to/3LKnFmt).
-
-<a href="https://www.amazon.fr/Whats-Our-Problem-Self-Help-Societies-ebook/dp/B0BTJCTR58?keywords=what%27s+our+problem&qid=1679566459&sprefix=what%27%2Caps%2C121&sr=8-1&linkCode=li2&tag=blog-straumat-21&linkId=41fc61519cdb2d3518c9325377e5ad64&language=fr_FR&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0BTJCTR58&Format=_SL160_&ID=AsinImage&MarketPlace=FR&ServiceVersion=20070822&WS=1&tag=blog-straumat-21&language=fr_FR" ></a><img src="https://ir-fr.amazon-adsystem.com/e/ir?t=blog-straumat-21&language=fr_FR&l=li2&o=8&a=B0BTJCTR58" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+[![image](couverture_livre.jpg)](https://amzn.to/3OdxZDV)
 
 ## Esprit primitif et esprit supérieur
 
@@ -130,7 +127,7 @@ convaincre les uns les autres et où les idées sont challengées.
 
 Un système libéral évolue avec deux forces :
 
-- Les "progressistes" : ils veulent faire progresser la société en changeant le status-quo. C'est un peu la pédale d'
+- Les "progressistes" : ils veulent faire progresser la société en changeant le statu quo. C'est un peu la pédale d'
   accélérateur.
 - Les "conservateurs" : ils veulent garder ce qui marchent et éviter l'érosion des qualités de la société. C'est la
   pédale de frein.
@@ -138,18 +135,13 @@ Un système libéral évolue avec deux forces :
 Les progressistes sont aussi ceux qui génèrent de nouvelles idées, non testées auparavant, et qui seront pour certaines
 très mauvaises.
 
-## La spirale
-
-Les golems sont de plus en plus puissants et de plus en plus nombreux.
-
-### De plus en plus de tribalisme
+## La spirale du tribalisme
 
 Il y a un dicton "moi contre mes frères, mes frères et moi contre mes cousins, mes cousins et moi contre les
-étrangers...".
-Un Golem doit toujours être dans un conflit "Nous contre eux" et ce qui permet à deux golems de fusionner, c'est d'avoir
-un ennemi commun.
+étrangers...". Un Golem doit toujours être dans un conflit "Nous contre eux" et ce qui permet à deux golems de
+fusionner, c'est d'avoir un ennemi commun.
 
-A la base, ce n'est pas une mauvaise chose, car cela permet de créer des liens forts entre les membres d'un groupe. Mais
+À la base, ce n'est pas une mauvaise chose, car cela permet de créer des liens forts entre les membres d'un groupe. Mais
 quand on est dans une chambre d'écho, cela peut devenir très dangereux.
 
 Dans les années 50, 60, 70 et 80, il y avait des ennemis communs (Nazis, communistes...) qui permettait de maintenir une
@@ -157,8 +149,50 @@ unité. Avec la perte de ces ennemis communs, les golems se sont mis à chercher
 Même dans les partis politiques, on a commencé à voir des conflits internes de plus en plus violents, avec une
 disparition de la pluralité idéologique pour aller vers la pureté idéologique.
 
-Désormais, on déteste et on ne fait pas confiance aux autres parties politiques au lieu de ne simplement pas voter pour
-eux.
+Désormais, **on déteste et on ne fait pas confiance aux autres parties politiques au lieu de ne simplement pas voter
+pour eux.**
+
+En 1949, la commission fédérale des communications (FCC) a mis en place la règle de l'équité (fairness doctrine) qui
+obligeait les médias à présenter les deux côtés d'un débat. Cette règle a été supprimée en 1987 et on a vu une montée en
+puissance des médias partisans. Beaucoup d'entreprises/média ont bien compris qu'il était beaucoup plus simple de vendre
+à l'esprit primitif qu'à l'esprit supérieur. Il faut simplement permettre à celui qui écoute de confirmer son identité,
+de critiquer un autre groupe que le sien et rajouter un peu de ragot.
+Idem pour les algorithmes des réseaux sociaux, regardez s'ils parlent à votre esprit supérieur ou à votre esprit
+primitif. Regardez bien à quel point ils ont envie de vous faire rejoindre un golem pour agir contre un autre.
+
+Ce tribalisme transforme les humains que nous sommes en de loyales colonies de fourmis. Dans les années 70, il était
+très courant de voter pour un parti à la présidentielle et pour un autre au congrès. Cela n'existe plus, peu importe le
+candidat. Voter contre l'idéologie de son parti n'est plus acceptable, c'est un blasphème.
+
+## L'exemple des républicains dans les années 60
+
+Dans les années 50, les modérés républicains étaient aux manettes avec un des leurs à la présidence : Eisenhower. Arthur
+Larson disait d'ailleurs : "En politique, comme aux échecs, celui qui se trouve au centre de l'échiquier a une position
+imbattable". Mais une frange plus fondamentaliste du parti républicain a commencé à se développer bien qu'ils furent
+très minoritaires au début.
+
+William Rusher et Clifton White ont alors mis en place une stratégie pour prendre le contrôle du parti républicain en
+ciblant en premier une organisation très présente sur les campus : "Young Republicans". Ils ont semé le chaos dans les
+instances de décisions puis ils se sont mis à proposer des choses très clivantes (abolition de l'impôt fédéral, sortie
+des nations unies, soutien à la ségrégation...). Ils ont réussi à prendre le contrôle du parti républicain en 1964,
+notamment en harcelant ceux qui n'étaient pas assez à droite à leur goût.
+
+Goldwater était tombé dans une forme d'extrémisme en allant jusqu'à déclarer : "L'extrémisme dans la défense de la
+liberté n'est pas un vice, la modération dans la poursuite de la justice n'est pas une vertu".
+
+## La montée du wokisme
+
+### Deux types de justice sociale
+
+Les tenants "classiques" de la justice sociale sont ceux qui pensent que le pays doit respecter les promesses qu'il fait
+à ceux qui y vivent. Ils pensent que le pays a mal fait non pas à cause de ses valeurs, mais parce qu'il a échoué.
+L'idée est que le pays fait beaucoup pour améliorer la vie de ses citoyens, mais qu'il peut faire mieux. C'est le
+discours de Martin Luther King ou de Barack Obama.
+
+Si l'on veut représenter cela sous une forme de pyramide :
+
+- À la base, la notion que les gens peuvent savoir ce qui est "vrai" grâce à la raison et à la science.
+- Ensuite,
 
 ## A intégrer:
 

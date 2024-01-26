@@ -4,7 +4,7 @@ description: "Résumé L'ego est l'ennemi par Ryan Holiday"
 date: 2022-11-22T21:49:53+01:00
 lastmod: 2022-11-22T21:49:53+01:00
 draft: false
-images: []
+images: [ ]
 type: docs
 menu:
 domaines:
@@ -14,7 +14,7 @@ weight: 2
 toc: true
 ---
 
-<a href="https://www.amazon.fr/gp/product/2379350353?ie=UTF8&psc=1&linkCode=li2&tag=blog-straumat-21&linkId=4a94b834e7ac2624bcac07d4d5b26a8d&language=fr_FR&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-eu.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=2379350353&Format=_SL160_&ID=AsinImage&MarketPlace=FR&ServiceVersion=20070822&WS=1&tag=blog-straumat-21&language=fr_FR" ></a><img src="https://ir-fr.amazon-adsystem.com/e/ir?t=blog-straumat-21&language=fr_FR&l=li2&o=8&a=2379350353" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+[![image](couverture_livre.jpg)](https://amzn.to/3SwTCln)
 
 Les questions les plus importantes qu’on puisse se poser dans la vie sont "Qui est-ce que je souhaite devenir ?" et "
 Quel chemin vais-je donc suivre ?" Mais l'on peut mieux y répondre en se demandant **Qu’est-ce que j’ai envie de faire
