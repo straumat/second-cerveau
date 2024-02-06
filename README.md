@@ -26,3 +26,10 @@ hugo serve
 - La cité antique.
 - How the world really works.
 - La théorie des jeux démystifiée.
+
+# Exporter la liste des titres
+
+```bash
+find ./content -type f -name "_index.md" -exec grep '^title:' {} \; | sed -e 's/- [ ] \(.*\)/\1/'
+```
+
