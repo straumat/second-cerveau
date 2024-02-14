@@ -34,7 +34,9 @@ Une étude suédoise conclut que le passage de l'agriculture conventionnelle à 
 jusqu'à 130 % de terres agricoles en plus pour maintenir
 les [rendements](https://www.sciencedirect.com/science/article/abs/pii/S0308521X22000403).
 
-Une étude réalisée de 2018 à 2022 montre que l'agriculture bio française a des rendements très inférieurs à l'
-agriculture conventionnelle : en moyenne -55% pour le blé, -42% à -49% pour l'orge, -30% à -37% pour le maïs, -28% pour
-le tournesol, -24% pour le soja.
-[Rendemends bio](https://agreste.agriculture.gouv.fr/agreste-web/download/publication/publie/Pri2308/Primeur2023-8_RendementsGdesCultures.pdf)
+Une étude réalisée de 2018 à 2022 montre que l'agriculture bio française a des rendements très inférieurs à
+l'agriculture conventionnelle : en moyenne -55% pour le blé, -42% à -49% pour l'orge, -30% à -37% pour le maïs, -28%
+pour le tournesol, -24% pour le soja.
+[Rendements bio](https://agreste.agriculture.gouv.fr/agreste-web/download/publication/publie/Pri2308/Primeur2023-8_RendementsGdesCultures.pdf)
+
+[Quant à l’agriculture urbaine, elle émettrait 6 fois plus de CO2 que l'agriculture conventionnelle](https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/l-agriculture-urbaine-un-bilan-carbone-plus-lourd-que-l-agriculture-conventionnelle-7404775)

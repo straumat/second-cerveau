@@ -184,6 +184,7 @@ liberté n'est pas un vice, la modération dans la poursuite de la justice n'est
 
 ### Deux types de justice sociale
 
+**Les libéraux**
 Les tenants "classiques" de la justice sociale sont ceux qui pensent que le pays doit respecter les promesses qu'il fait
 à ceux qui y vivent. Ils pensent que le pays a mal fait non pas à cause de ses valeurs, mais parce qu'il a échoué.
 L'idée est que le pays fait beaucoup pour améliorer la vie de ses citoyens, mais qu'il peut faire mieux. C'est le
@@ -192,13 +193,160 @@ discours de Martin Luther King ou de Barack Obama.
 Si l'on veut représenter cela sous une forme de pyramide :
 
 - À la base, la notion que les gens peuvent savoir ce qui est "vrai" grâce à la raison et à la science.
-- Ensuite,
+- Ensuite, viennent des idées fondamentales comme la liberté de parole, d'entreprendre, de religion, de propriété...
+- Au-dessus, on a les lois, normes et institutions qui protègent ces idéaux.
 
-## A intégrer:
+**Les fondamentalistes de la justice sociale**
 
-Dès qu’un individu sur terre a une envie, une lubie, une croyance... on en fait un portrait victimaire inclusif, on
-dénonce le tabou autour de ce micro-sujet, on culpabilise la terre entière et le "manque d’éducation à ce sujet", bref
-le wokisme, c'est 8 milliards de sujets à venir
+Le mouvement woke est ancré dans des idées et des philosophies très différentes.
+
+Tout d'abord, une de ses racines est le marxisme qui considère que les choses que les libéraux considèrent comme les
+fondations d'une bonne société doivent être démantelés. Ils pensent que la raison et la science sont des outils
+d'oppression qui ne servent qu'à exploiter.
+
+Les théories marxistes (après autant d'échecs) ont été mises à jour pour créer la théorie critique (voir notamment
+Herbert Marcuse). Cette théorie dit que ce que les libéraux ont mis en place ne servent qu'à exploiter (science,
+culture, éducation ou institutions...). Ernesto Laclau et Chantal Mouffe ont proposé un nouveau modèle de lutte des
+classes : la lutte des identités, car la lutte des classes était devenue obsolète.
+
+Alors que les libéraux voient des exemples d'oppressions comme des exceptions, les fondamentalistes de la justice
+sociale pensent que les exemples d'oppression sont des révélations de la vraie nature de la société.
+
+Après la théorie critique, nous avons la notion de privilège. Les fondamentalistes de la justice sociale pensent que les
+gens qui ont des privilèges ne peuvent pas comprendre les gens qui n'en ont pas. C'est l'idée de "fausse conscience"
+qui fait qu'une personne née dans un environnement le considère comme normal. Ceci permet de transformer "classe
+dirigeante" et "classe ouvrière" en "privilégiés" et "opprimés".
+
+Puis, on rajoute l'intersectionnalité qui dit que les gens sont oppressés de plusieurs façons à la fois. Cela permet de
+créer une hiérarchie des opprimés.
+
+Pour finir, voici le postmodernisme (merci Michel Foucault) qui explique que la vérité n'existe pas, que tout est une
+question de pouvoir. Pour eux, politique, religion ou science ne sont que des outils pour maintenir le pouvoir.
+Tout devient une construction sociale : le genre, les faits, l'histoire, les mathématiques... qui ne sert qu'à
+opprimer. L'objectivité est un mythe.
+
+Quand vous mélangez tout cela, vous obtenez un mouvement "Critical Social Justice" qui prend pour principe que la
+suprématie blanche, le patriarcat et l'hétéronormativité sont les forces les plus puissantes de l'histoire et
+qu'elles ont tout imprégné: connaissance, langage, culture, institutions, science, raisonnements... jusqu'à la
+réalité elle-même.
+
+Et cela ne s'arrête jamais, tous les concepts comme le travail, la planification, la logique, la propriété ou même
+la politesse sont tous des outils d'oppression.
+
+**Caractéristiques**
+
+Contre la science : avec ce mouvement, on ne se demande pas si une situation est raciste, on se demande à quel point
+une situation est raciste. C'est l'inverse de la méthode scientifique, on part de la conclusion et on remonte le fil.
+Toute complexité est balayée d'un revers de main et devient : blanc versus noir, homme versus femme, hétéro versus
+homo, colonisateur / colonisé. Di Angelo explique même que c'est une force omniprésente - rien n'est vérifiable,
+rien n'est discutable. Kendi explique lui que "Nier l'existence du moindre racisme est raciste".
+
+Toute différence est raciste : avec ce mouvement, toute différence est une injustice. On est plus sur une égalité
+des chances, mais sur une égalité des résultats.
+
+L'égalité n'est plus un but : comme le dit Kendi "le seul remède aux discriminations racistes sont les
+discriminations antiracistes". Pour eux, tout est un jeu à somme nulle, la seule façon de faire progresser des gens
+est de faire descendre ceux qui sont au-dessus d'eux.
+
+**Une chambre d'écho**
+
+Être woke, c'est croire, ceux qui ne pensent pas pareil sont immédiatement traités de raciste, misogynes ou transphobes.
+
+D'ailleurs, la théorie du point de vue est utilisée pour expliquer que chaque groupe n'a pas accès aux mêmes
+connaissances et permet de facilement réprimander un membre récalcitrant avec un "Stay in your lane". Si tu n'es pas
+blanc, tu n'as par exemple pas l'authoritée pour parler de race. Grâce à ce raisonnement, même une personne qui dit
+quelque chose de pertinent peut être simplement réduite au silence.
+
+Pour l'anecdote, une des tenantes du mouvement (Robin DiAngelo) blanche a fait une liste de points qui ne devaient
+pas être autorisé durant des cours de justice sociale. Elle y explique que si un étudiant noir dit qu'il n'est pas
+victime de racisme, il est tout à fait normal de ne pas le laisser dire cela et de ne pas accepter sa perspective.
+Clairement, on est obligé d'écouter la voix des opprimés, mais seulement si elle dit ce que l'on veut entendre ce
+qui peut se résumer en "si tu es noir, et que tu penses que ton expérience est différente de celle que j'énonce, tu
+ne penses pas par toi-même" (ce qui est profondément raciste et arrogant).
+
+**Inconsistance morale**
+
+Pour les SJF, le racisme = préjudice + pouvoir et le pouvoir ne peut s'exercer que dans un sens, du haut vers le bas.
+Ceci autorise toutes les pires généralités comme cet article du New York Times qui explique qu'une femme noire et
+une femme blanche ne peuvent pas être amies" ou cet autre article où une libraire qui n'accepte pas qu'un couple de
+blanc puisse entrer dans son magasin.
+
+Cette libération de paroles racistes basées sur la couleur de peau va de pair avec un abaissement de ce qui est
+autorisé de dire pour ceux en position de pouvoir. Des questions/phrases anodines comme "d'où viens-tu?" ou "je ne
+suis pas raciste", "il n'y a qu'une race" ou demander de l'aide en mathématique à une personne asiatique sont devenues
+racistes.
+
+Dans son livre "Nice racism", DiAngelo critique le fait même pour un blanc de sourire considérant que "trop sourire
+permet aux blancs de masquer leur haine des noirs".
+
+**Innocence et culpabilité**
+
+Pour les SJF, la culpabilité et la présomption d'innocence sont des outils de pouvoir. On le voit aux USA que l'on
+passe de "Believe women" à "Believe all women" puis "Automatically believe all women".
+
+## Comment conquérir une société
+
+### Étape 1 : Contrôler de la parole
+
+Les histoires présentées dans le livre présentent systématique le même processus:
+
+- L'incident : quelqu'un écrit ou dit quelque chose de "normal" pour la société pour la plupart des gens, mais qui
+  est jugé être un blasphème par les SJF.
+- Le contrecoup : des manifestations sont organisés dans les institutions et sur les réseaux sociaux pour demander
+  des excuses, des démissions, des changements de politiques... bref une punition exemplaire.
+- Le moment de vérité : les leaders dans les institutions doivent soit se positionner avec les SJF, soit contre eux
+  en promouvant la liberté d'expression et la liberté académique.
+- Ils cèdent : dans la plupart des cas, ils défendent la liberté d'expression, mais ils cèdent quand même. Ils
+  s'excusent, ils changent des politiques, ils licencient des gens... et cela ne suffit jamais.
+- Les institutions doivent prêter allégeance : elles doivent se plier à leurs demandes et les promouvoir.
+
+Ces petits groupes arrivent à utiliser des institutions comme le New York Times, Google ou des universités pour
+faire punir ceux qui ne pensent pas comme eux. Dans son étude de 2020, le Cato Institute a montré qu'à part à
+l'extrême gauche, la plupart des gens se sentent empêchés de dire ce qu'ils pensent par peur des représailles.
+
+Ceci nous amène au paradoxe de Popper : « pour maintenir une société tolérante, la société doit être intolérante à
+l'intolérance. » Mais qui décide de ce qui est intolérant? C'est complexe, mais l'idée de Popper est de surtout
+combattre ceux qui refusent le débat rationnel et qui utilisent à la place l'intimidation comme réponse à la
+critique de leurs idées.
+Les critiques attaquent les idées, ce qui est ce qui est insupportable avec la cancel culture, c'est qu'elle attaque
+les gens et empêche les discussions.
+
+### Étape 2 : Forcer les gens à écouter
+
+Depuis 2020, les employés de Disney ont été forcés de suivre des formations sur la "justice sociale" et la
+"diversité". On les a forcés à accepter certains concepts : "Vous devez vous éduquer sur les privilèges que vous
+avez", "l'équité ne suffit pas", "vous ne pouvez pas ne pas être raciste si vous êtes blancs", "il y a forcément de
+la politique au travail"... American express a forcé ses employés à écrire leur race, leur orientation sexuelle,
+leur âge, leur genre... Des institutions ont aussi expliqué aux employés qu'ils ne devaient pas croire "qu'on ne
+puisse pas 'voir les couleurs', ou que la mérite est un mythe.
+
+Pourtant, les études, comme celle d'Al-Gharbi, montrent que ces études n'ont aucun effet sur le racisme. On se
+retrouve donc à forcer des employés à accepter des idées qui ne sont pas prouvées et qui sont même parfois
+controversées. Cela ne fait que renforcer le tribalisme et la polarisation.
+
+Et dans les écoles, il y a la même logique. Les écoles de Seattle ont mis en place des cours de mathématiques
+"ethniques" avec des questions comme "qui détient le pouvoir dans un cours de mathématique ?" ou "Est-ce vraiment
+important que les calculs soient justes".
+
+### Étape 3 : Forcer les gens à parler
+
+"Le silence est violence" est un des derniers slogans des SJF. Cela veut dire que si vous ne parlez pas, vous êtes
+complice. On force donc des entreprises et des salariés à prendre position publiquement sur des sujets politiques.
+Si ce n'est pas fait, la personne sera accusée de racisme, de sexisme ou de transphobie.
+
+Ceci a notamment été théorisée par Di Angelo dans son livre "Is everyone really equal?" où elle explique que "le
+manque d'intérêt pour les questions de justice sociale est un signe de racisme" ou "ne pas être engagé dans des
+actions anti racistes" est raciste. Kendi va encore plus loin en déclarant "Dire qu'on est neutre et donc non
+raciste est un masque pour racisme". De toute façon, pour lui, le capitalisme est raciste et on ne peut être non
+raciste si l'on n'est pas anti capitaliste.
+
+## La solution
+
+La leçon principale de ce livre est que les gens qui se sont faits attaquer n'ont reçu que très peu de soutien, il
+faut donc du courage. C'est d'arrêter de dire des choses auxquelles vous ne croyez pas. Comme le disait Marc Aurel, "Si
+ce n'est pas vrai, ne le dis pas".
+
+### A intégrer:
 
 https://www.dailysignal.com/2023/04/03/racist-left-screams-quiet-part-out-loud/
 https://twitter.com/wesyang/status/1643468689302233089
