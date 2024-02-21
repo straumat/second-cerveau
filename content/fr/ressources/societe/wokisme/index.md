@@ -254,7 +254,7 @@ est de faire descendre ceux qui sont au-dessus d'eux.
 
 D'ailleurs, la théorie du point de vue est utilisée pour expliquer que chaque groupe n'a pas accès aux mêmes
 connaissances et permet de facilement réprimander un membre récalcitrant avec un "Stay in your lane". Si tu n'es pas
-blanc, tu n'as par exemple pas l'authoritée pour parler de race. Grâce à ce raisonnement, même une personne qui dit
+blanc, tu n'as par exemple pas l'authorité pour parler de race. Grâce à ce raisonnement, même une personne qui dit
 quelque chose de pertinent peut être simplement réduite au silence.
 
 Pour l'anecdote, une des tenantes du mouvement (Robin DiAngelo) blanche a fait une liste de points qui ne devaient
