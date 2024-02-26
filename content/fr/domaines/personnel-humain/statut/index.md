@@ -48,7 +48,7 @@ compliqué (Par contre, plus vous avez un haut statut, plus vous voudrez monter.
 C'est une des raisons que les gens détestent ceux qui grimpent vite l'échelle sociale... Ils rappellent à tout le
 monde qu'il y a une échelle à grimper!
 
-Et il y a une main invisible qui existe entre statut et culture, en cherchant du statut, les individus vont se
+Et il y a une main invisible qui existe entre statut et culture. En cherchant du statut, les individus vont se
 concentrer sur des comportements (traditions, coutumes, mode, goût, art...) que nous appelons culture.
 
 Thorstein Velben a écrit sur la consommation ostentatoire et explique que les gens riches achètent des choses chères
@@ -86,13 +86,15 @@ chaque groupe a des objectifs et il y a toujours des membres qui peuvent contrib
 à tuer un lion ou à résoudre un problème mathématique fera que les autres leur donneront de l'estime.
 Ceci sert d'incitation à reproduire ces "exploits" pour le groupe et à en recevoir les bénéfices en contrepartie.
 
+Dernière chose : Tout individu qui demande ou obtient un statut sans répondre aux critères requis sera forcément haï.
+
 ### Notre besoin fondamental de statut
 
-Avoir un haut statut est un besoin humain fondamental. Un statut normal est une chose bien, mais un bien être sur le
-long terme nécessite un statut plus élevé. L'estime est la colonne vertebral des hiérarchies de statut et cette
-forme d'acceptation sociale est carrément un bénéfice en soi : on aime se sentir apprécié. Cette estime peut se
-manifester simplement par de gentils compliments, des sourires, des poignées de mains chaleureuses ou des faveurs
-diverses.
+Avoir un haut statut est un besoin humain fondamental. Un statut normal est une chose bien, mais accéder au bien être
+sur le long terme nécessite un statut plus élevé. L'estime des autres est la colonne vertebral des hiérarchies de
+statut et cette forme d'acceptation sociale est carrément un bénéfice en soi : on aime se sentir apprécié. Cette estime
+peut se manifester simplement par de gentils compliments, des sourires, des poignées de mains chaleureuses ou des
+faveurs diverses.
 
 Cecilia L. Ridgeway définit le fait "d'être quelqu'un" n'est pas lié à l'argent ou au pouvoir, mais au fait d'être
 vu par les autres comme étant une personne de valeur pour la communauté.
@@ -109,7 +111,7 @@ bravoure", puis quelques siècles plus tard, c'est devenu "La capacité à faire
 
 Aujourd'hui, les succès sont présents sous différentes formes de capital :
 
-- Capital politique : Accès au pouvoir tribal, être une authorité religieuse, ou gouverner. C'est moins possible
+- Capital politique : Accès au pouvoir tribal, être une autorité religieuse, ou gouverner. C'est moins possible
   dans nos sociétés actuelles.
 - Capital lié à votre éducation : Les diplômes et universités que vous avez fréquentées permettent de mesurer votre
   talent potentiel pour prendre une position sociale importante.
