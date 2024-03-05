@@ -129,13 +129,64 @@ point attracteur le plus proche.
 
 Prenons un cas très simple :
 
-![image](attracteur_image_1.png)
+![image](reseau_neurones_1.png)
 
 Si l'on nous donne un point avec des coordonnées {x, y}, notre modèle doit savoir de quel point orange, il est le
 plus proche. Le résultat doit correspondre au graphique ci-dessous:
 
-![image](attracteur_image_2.png)
+![image](reseau_neurones_2.png)
 
+Un réseau de neuronnes, ça ressemble au schéma ci-dessous. On y voit des neuronnes, organisés en couches. Chaque neurone
+est connecté à tous les neurones de la couche précédente et de la couche suivante.
 
+![image](reseau_neurones_3.png)
 
+Chaque neurone va évaluer une valeur avec une fonction mathématique. Pour utiliser le réseau, nous allons simplement
+entrer nos coordonnées {x, y} dans les deux premiers neurones du réseau et laisser chaque neurone faire son calcul
+et passer le résultat à la couche suivante. Le résultat final sera donné par le dernier neurone.
+Bien sûr, mettre en place le réseau de neuronnes n'est pas suffisant, les résultats seront aléatoires. Il va falloir
+le "calibrer" pour qu'il donne les résultats que nous attendons, c'est ce que l'on appelle l'entrainement.
+
+![image](reseau_neurones_4.png)
+
+Comme nous pouvons le voir sur le schéma, chaque neurone reçoit des valeurs de plusieurs neurones de la couche
+précédente et chaque connexion a un "poids" (positif ou négatif) qui va influencer le résultat - ceci permet de
+modifier "l'importance" de chacune des entrées. Le "calibrage" du réseau de neurones consiste à trouver les bons
+poids pour chaque connexion afin que le résultat final soit bon dans la majeure partie des cas présentés.
+
+La valeur d’un neurone donné est déterminée en multipliant les valeurs des « neurones précédents » par leurs poids
+correspondants et en les additionnant. On se retrouve donc à multiplier des matrices.
+
+Enfin, on applique une fonction de « seuil » (ou « d’activation ») qui, comme vous pouvez le voir dans les exemples
+ci-dessous, va transformer une valeur obtenue en entrée en une valeur de sortie. C’est cette fonction qui va donner
+la valeur finale du neurone.
+
+![image](reseau_neurones_5.png)
+
+Les poids des connexions entre les neurones sont les paramètres du modèle, ils vont êtres calibrés en utilisant les
+résultats que nous souhaitons obtenir.
+
+Si l'on reprend notre exemple de reconnaissance de chiffres, nous allons devoir :
+
+- Entrer une image dans le réseau de neurones.
+- Laisser le réseau de neurones faire ses calculs.
+- Comparer le résultat obtenu avec le chiffre que nous attendions.
+- Modifier les poids des connexions pour que le résultat obtenu soit plus proche de ce que nous attendions.
+- Recommencer avec une autre image.
+
+Revenons à notre exemple, avec un seul neurone, voici ce que nous pouvons générer comme résultat :
+
+![image](reseau_neurones_6.png)
+
+Comme vous le voyez, nous n'arrivons pas à générer un résultat qui ressemble à ce que nous attendons. Par contre, si
+nous rajoutons des neurones et refaisons l'entrainement, nous arrivons à cela, c'est mieux :
+
+![image](reseau_neurones_7.png)
+
+Généralement, plus le réseau est gros, plus il est capable de faire une approximation précise de la fonction que nous
+recherchons comme on peut le voir ci-dessous.
+
+![image](reseau_neurones_8.png)
+
+## L'entrainement des réseaux de neurones.
 
