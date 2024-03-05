@@ -120,7 +120,7 @@ Aujourd'hui, les succès sont présents sous différentes formes de capital :
 - Capital social : Le réseau de relations que vous entrainez avec les élites.
 
 En plus du capital, il y a les "vertus personnelles" : Intelligence, le physique, le charme, L'humour, l'intégrité...
-qui vous permettent aussi d'être estimé.
+Qui vous permettent aussi d'être estimé.
 
 Tout individu qui demande ou obtient un statut sans répondre aux critères requis sera forcément haï. Un corolaire de
 cela est que chaque individu va chercher un statut plus élevé tant que ce qu'il fait ne lui fait pas courir le
@@ -151,5 +151,66 @@ Cela détermine plusieurs logiques:
 - Intégrité : nous ne devons pas demander plus de statut que ce que nous méritons.
 - Mobilité : on peut choisir un autre groupe où ce que nous avons à apporter sera mieux valorisé.
 
-### Conventions et status.
+## Conventions et status.
+
+### La force des conventions.
+
+Nous avons vu comment les groupes offrent un haut statut aux individus avec des talents rares, des capacités
+financières, des vertus... mais un des moyens les plus élémentaires pour obtenir un statut est de simplement suivre
+les normes du groupe ! Il existe toujours un ensemble de conventions arbitraires qui définissent qu'il faut suivre
+(Comme boire de la Vodka avec des Russes!).
+
+Cet arbitraire est un élément clé de l'expérience humaine. Nous pouvons boire, manger, nous habiller, danser, jour...
+D'une manière infinie, mais nous ne le faisons pas. Nous suivons les conventions de notre groupe et à partir de là,
+ces conventions ne nous paraissent plus arbitraires, mais naturelles. Ces conventions sont les molécules qui forment
+la chimie des cultures.
+
+Pour devenir une convention d'un groupe, il faut qu'elle devienne une connaissance du groupe. Une fois internalisée, la
+convention devient une partie de notre identité et nous ne pouvons plus la changer sans changer notre identité. Pire
+que cela, notre façon d'observer le monde passera par le prisme de cette convention. Comme le disait Bourdieu, ce
+schéma de pensée fonctionne en dessous du niveau de conscience et du langage, en dessous de notre capacité
+d'introspection et ne peut être contrôlé par notre volonté.
+
+Les conventions sont les unités individuelles de la culture. Tout ce que nous appelons culture (traditions, coutumes,
+mode...) existent sous forme de conventions.
+
+### Classement des conventions et valeur du statut.
+
+E.B White disait : "Si vous lisez les publicités pour les premières voitures, vous pourriez penser que leur utilité
+première est de vous conduire vers un meilleur statut social". La stratification détermine l'espace social dans
+lequel nous vivons, il définit ce que nous possédons/souhaitons posséder, notre façon de parler, notre travail, nos
+vêtements, notre coiffure, notre lieu d'habitation et même si vous passez la tondeuse ou si vous payez quelqu'un
+pour le faire. **Votre style de vie est à la fois une nécessité liée à votre rang social et une expression de celui-ci
+**.
+
+Toutes les conventions ne se valent pas, une Cadillac n'est pas une Chevrolet.
+Et chaque convention peut être positionnée sur deux hiérarchies :
+
+- La position entre les groupes dans la hiérarchie globale. Par exemple, le fait d'aller à l'aéroport pour prendre
+  l'avion vous place dans un groupe particulier.
+- La position à l'intérieur un groupe social particulier. Par exemple, le fait d'avoir accès au salon VIP dans un
+  aéroport vous place dans la partie supérieure d'un sous groupe. Vous avez grimpé dans l'échelle.
+
+Au fur et à mesure que vous montez dans la hiérarchie, vous devez adopter des conventions portées par des gens ayant
+un statut plus élevé. Thorstein Veblen disait que ne pas consommer en quantité et qualité requises était une marque
+d'infériorité et de démérite. Les riches ne doivent pas vivre comme les pauvres et les pauvres ne doivent pas vivre
+comme des riches.
+
+Ceci nous pousse donc à imiter nos pairs, mais aussi à nous distinguer des comportements des status inférieurs ou
+rivaux. Cette imitation crée des ponts vers les gens qui ont un statut plus élevé et des barrières avec ceux qui ont un
+statut plus bas. Mais attention, si vous imitez sans en avoir les moyens, vous serez vu comme un imposteur.
+
+Les sociétés occidentales ont rajouté un critère de statut : l'originalité. Les plus hauts status, ont désormais la
+possibilité de pouvoir réaliser certains actes non conventionnels sans perdre leur statut.
+
+La pression du statut ordonne à chaque individu des demandes contradictoires :
+
+- Conformerez-vous aux normes de votre groupe (Pour conforter votre statut actuel).
+- Contre-imiter les rivaux (Pour éviter de perdre votre statut).
+- Imiter les gens ayant un statut plus élevé, mais sans en faire trop (Pour avoir un meilleur statut).
+- Soyez unique, mais pas trop (Pour avoir un des plus hauts status).
+
+Vous devez naviguer entre pure individualité et conformité totale.
+
+## Signalement et symbole de statut.
 
