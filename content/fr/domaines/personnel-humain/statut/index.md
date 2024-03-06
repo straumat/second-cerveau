@@ -31,7 +31,7 @@ par venir d'un petit groupe (issu de l'élite ou de marginaux) puis se propagent
 aussi bien vrai pour les coupes de cheveux, l'art, les voitures hybrides, les poke, le yoga ou les croyances
 spirituelles.
 
-Tout ceci s'explique par une chose : le statut!
+Tout ceci s'explique par une chose : le besoin d'un statut.
 
 ## Qu'est-ce que le statut ?
 
@@ -51,7 +51,7 @@ monde qu'il y a une échelle à grimper!
 Et il y a une main invisible qui existe entre statut et culture. En cherchant du statut, les individus vont se
 concentrer sur des comportements (traditions, coutumes, mode, goût, art...) que nous appelons culture.
 
-Thorstein Velben a écrit sur la consommation ostentatoire et explique que les gens riches achètent des choses chères
+Thorstein Veblen a écrit sur la consommation ostentatoire et explique que les gens riches achètent des choses chères
 pour révéler aux autres qu'ils peuvent acheter des choses chères. Mais c'est plus profond que cela, le statut forme
 nos aspirations et désire, définit nos standards de beauté, défini nos identités, crée nos comportements collectifs
 et agit comme le moteur des changements culturels permanents. La culture, elle, est intégrée dans les produits,

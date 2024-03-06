@@ -190,3 +190,50 @@ recherchons comme on peut le voir ci-dessous.
 
 ## L'entrainement des réseaux de neurones.
 
+L'avantage des réseaux de neurones est que l'on ne les programme pas, on ne va pas essayer de coder une fonction qui
+va chercher la barre du 7, la boucle du 8, etc. Au lieu de celà, on va juste lui montrer plein d'exemples des
+résultats que l'on souhaite obtenir, lui va "généraliser" les exemples qu'on lui fournit.
+
+L'entrainement, concrètement, c'est trouver les valeurs des poids des connexions entre les neuronnes qui vont
+permettre de reproduire les exemples qu'on lui a donnés.
+
+Prenons un exemple très simple, essayons d'apprendre à un réseau de neurones à reproduire la fonction ci-dessous :
+
+![image](entrainement_1.png)
+
+Voici le réseau de neuronnes utilisé :
+
+![image](entrainement_2.png)
+
+Si on met des poids au hasard, le réseau de neuronnes va calculer différentes fonctions qui ne sont pas du tout ce
+que l'on souhaite :
+
+![image](entrainement_3.png)
+
+Pour l'entrainer, l'idée est de fournir beaucoup d'exemples de ce que l'on souhaite obtenir et d'essayer de trouver
+les poids qui vont permettre de reproduire ces exemples.
+
+![image](entrainement_4.png)
+
+On peut voir qu'à chaque étape de l'entrainement, le réseau de neurones se rapproche de la fonction que nous
+souhaitons, mais comment sont ajustés les poids ? L'idée ici est de se demander à chaque étape "à quel point je suis
+éloigné du résultat que je souhaite ?".
+
+C'est là qu'intervient la fonction de perte ou de coût. Elle est la quantification de l'écart entre les prévisions du
+modèle et les observations réelles du jeu de donnée utilisé pendant l'entraînement. Elle nous donne la distance
+entre les valeurs que nous avons et les valeurs que nous voulons.
+
+Imaginons un instant que l'on ait deux poids w1 et w2 et que l'on ait une fonction de perte qui ressemble à cela:
+
+![image](entrainement_5.png)
+
+Nous allons donc essayer de trouver les valeurs de w1 et w2 qui vont minimiser la fonction de perte. Pour cela, nous
+allons suivre le chemin de la descente la plus raide à partir des w1 et w2 précédents que nous avons eus.
+
+![image](entrainement_6.png)
+
+Quelque part, imaginez-vous que quand on choisit un poids au hasard, on le place au hasard sur une montagne. L'objectif
+va être de trouver le chemin le plus raide pour descendre de la montagne afin d'atteindre l'altitude la plus basse
+possible. C'est ce que l'on appelle la descente de gradient!
+
+##  
