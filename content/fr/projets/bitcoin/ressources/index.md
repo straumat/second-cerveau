@@ -11,8 +11,8 @@ menu:
   projets:
     parent: "bitcoin"
     identifier: "bitcoin-ressources"
-weight: 0
+weight: 9
 toc: true
 ---
 
-Ressources
+Pas encore de ressource répertoriée ici.

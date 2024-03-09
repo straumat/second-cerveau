@@ -15,4 +15,4 @@ weight: 0
 toc: true
 ---
 
-Ressources
+Pas encore de ressource répertoriée ici.

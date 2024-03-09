@@ -16,6 +16,7 @@ toc: true
 ---
 
 Ce projet est bien sûr un projet sans fin - ce n'est donc pas un planning, mais une liste de choses à faire.
+L'objectif est d'y passer environ 4 heures par semaines.
 
 Voici la liste des livres à résumer en priorité :
 
@@ -28,7 +29,7 @@ Voici la liste des livres à résumer en priorité :
 
 Voici ceux moins prioritaires :
 
-- le labyrinthe des égarés
+- Le labyrinthe des égarés
 - Quand la machine apprend.
 - La cité antique.
 - How the world works.
