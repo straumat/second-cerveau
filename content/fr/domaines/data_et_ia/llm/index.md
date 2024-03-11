@@ -236,4 +236,58 @@ Quelque part, imaginez-vous que quand on choisit un poids au hasard, on le place
 va être de trouver le chemin le plus raide pour descendre de la montagne afin d'atteindre l'altitude la plus basse
 possible. C'est ce que l'on appelle la descente de gradient!
 
-##  
+## L'entrainement de réseaux de neurones en pratique
+
+Tout d'abord, ce n'est pas une science exacte, on suit des processus essai-erreurs-corrections avec un ensemble d'idées
+et d'astuces qui ont été développées au fil du temps.
+
+La première question à se poser, quelle taille doit avoir mon réseau de neurone pour une tâche donnée ? C'est assez
+difficile à estimer même si plus une tâche est complexe, plus le réseau de neurones semble devoir être grand.
+
+Dans l'exemple ci-dessous, il est facile de voir que si le réseau est trop petit, il est impossible de reproduire la
+fonction que nous cherchons. Attention, si le réseau est trop grand, il va reproduire la fonction que nous cherchons,
+mais aussi les "bruits" que nous avons dans nos données d'entrainement.
+
+![image](entrainement_pratique_1.png)
+
+Maintenant que nous avons choisi une architecture pour notre réseau de neuronnes, il va falloir récupérer des
+données pour l'entrainer. Pour cela, il va falloir les nettoyer, les préparer, les transformer, les augmenter, etc.
+L'autre question qui se présente est "de combien de données ai-je besoin pour entrainer mon réseau de neurones ?".
+Comme pour la taille du réseau, il est difficile de répondre à cette question.
+
+Même s'il existe des techniques pour récupérer des connaissances déjà acquises (comme le transfer learning), il va
+globalement falloir beaucoup de données avec, si possible, beaucoup de données répétitives (un peu comme les humains
+ont besoin de voir souvent la même information pour qu'elle s'inscrive dans sa mémoire).
+
+Et pour ChatGPT ? pour l'entrainer, il suffit de prendre beaucoup de textes et de masquer la fin des phrases, ceci
+lui servira d'entrées à partir de laquelle s'entraîner, la fin des phrases étant les sorties attendues.
+
+Comme nous l'avons vu, l'objectif de l'entrainement est de trouver les poids (ou paramètres) qui vont permettre
+d'obtenir les bonnes sorties pour les bonnes entrées avec la fameuse fonction de perte. L'ensemble du processus
+consiste à faire baisser cette fonction de perte.
+
+Généralement, elle va baisser puis stagner. Si elle stagne et que l'on est à un point assez bas, c'est que l'on a
+atteint un minimum local, c'est que l'on a fini l'entrainement. Si elle stagne et que l'on est à un point assez haut,
+c'est qu'il y a quelque chose qui ne va pas.
+
+## Les embeddings
+
+Nous l'avons vu, les réseaux de neuronnes sont basés sur des nombres, nous avons donc besoin de représenter les
+textes par des nombres.
+
+On pourrait choisir un nombre au hasard pour chaque mot, mais l'idée, fondamentale chez ChatGPT, est de représenter
+l'essence d'un mot comme "pomme" par un tableau de nombres - Et si ce mot est proche d'un autre mot comme "banane,
+les valeurs du tableau de nombres du mot banane seront proches de des valeurs du tableau de nombre de "pomme". C'est ce
+que l'on appelle un embedding.
+
+On peut voir cela comme une tentative de représenter un "espace de signification" dans lequel les mots sont placés
+sur une carte les uns à proximités des autres en fonction de leur signification. Si on essayait de faire une carte
+en seulement deux dimensions, cela donnerait cela :
+
+![image](embedding_1.png)
+
+Les animaux sont dans un "coin", les "fruits" dans un autre, le chien et le chat sont proches comme alligator et
+crocodile. Ceci est généré assez simplement en regardant d'énormes quantités de texte et en regardant à quel point
+des mots apparaissent dans des contextes similaires. Par exemple, "alligator" et "crocodile" vont apparaître souvent de
+manière presque interchangeable dans des phrases par ailleurs semblables, on va donc les mettre "à côté".
+
