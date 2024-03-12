@@ -214,3 +214,71 @@ Vous devez naviguer entre pure individualité et conformité totale.
 
 ## Signalement et symbole de statut.
 
+Le terme "signaling" est utilisé à la fois en économie et en biologie pour décrire le fait quand un individu
+communique ses qualités à travers des informations dans le but d'être sélectionné par l'autre partie. Par exemple,
+pour se faire recruter, une personne va indiquer l'école dans laquelle il est allé, ou pour se faire bien voir, un
+ado va citer comme musique préférée, celle d'un artiste underground et pointu.
+
+Le "signalement" est essentiel au processus d'acquisition d'un statut. Hugh Dalziel Duncan **"Le statut est une
+demande, le statut n'est jamais pris, il est donné"**. On doit vérifier le statut d'un étranger pour le traiter
+correctement et ce n'est qu'une fois que son statut est vérifié qu'une personne peut jouir des bénéfices associés.
+
+On revendique un statut auprès des autres en envoyant certains signaux, les autres évaluent ensuite votre statut en
+interprétant vos signaux. Par exemple, l'université de princeton a montré qu'on juge le niveau de richesse d'une
+personne en moins de 130 ms, comme disait Coco Chanel "Si vous voulez faire des affaires, vous devez avoir l'air riche".
+
+Mais attention, vous ne pouvez pas réclamer un statut, comme le disait Jon Elster : "Rien n'est moins impressionnant
+qu'un comportement fait pour impressionner". Plus vous avez un statut élevé, plus vous devez avoir une réputation
+assez forte pour ne pas avoir à faire de signalement de manière agressive. C'est le principe du détachement : "Les
+revendications de status les plus puissantes ne doivent jamais avoir l'air d'en être", on se contente d'indices. On peut
+signaler son statut avec notre "comportement" (étiquette, vêtements, gestuelle, intonation, vocabulaire...) peut par
+exemple être utilisé.
+
+Ceux qui ont un statut avantageux peuvent généralement signaler leur statu de manière subtile, alors que ceux qui ont un
+statut moins avantageux doivent le signaler de manière plus évidente afin de contrecarrer les indices involontaires
+qu'ils laissent. Simone de Beauvoir pensait que les femmes s'habillaient plus que les hommes, car eux pouvaient
+utiliser leur travail pour obtenir un statut.
+
+En plus des signaux et des indices, la troisième catégorie d'information utilisée pour évaluer le statut est "les
+absences significatives". Si vous êtes dans les affaires, l'absence de cravate dit quelque chose de vous!
+
+### Les symboles de statut.
+
+Un symbole un terme technique qui définit un signe qui nécessite une connaissance préexistante pour être interprétée.
+
+Les voitures, les maisons, les vêtements, les bijoux, les montres, les sacs à main, les chaussures, les téléphones
+sont aujourd'hui les symboles de status les plus efficaces. Un sac Hermès a carrément la possibilité de diffuser
+votre statut dans la rue juste en passant à côté des gens!
+
+Comme la règle est que nous ne devons pas nous vanter pour obtenir un statut, les objets de statuts les plus
+efficaces sont ceux qui ont une réelle utilité. L'enfant de Beyonce et Jay-Z porte un sac Vuitton, car elle a besoin
+de transporter des livres. Le principe de détachement, encore lui, requiert des alibis pour justifier la possession
+de quelque chose sans que cela apparaisse comme une revendication de statut.
+
+Comment choisissons-nous quels symboles de statut utiliser? Nous brandissons des symboles associés au groupe de
+statut le plus haut possible. En effet, selon le principe d'associativité d'Adam Smith, quand deux choses sont vues
+fréquemment ensemble, elles deviennent associées dans notre esprit. Par exemple, les montres suisses sont associées à la
+précision, les voitures allemandes à la qualité, les vêtements italiens à la mode... On appelle cela le "cachet".
+
+Le cachet est souvent associé au cool, rien ne peut être cool si ce n'est pas associé à un groupe particulier
+d'individus avec un haut statut (musiciens, acteurs, sportifs, ados populaires...).
+
+Pour maintenir un certain cachet, les symboles de statut doivent être exclusifs à un groupe ayant un haut statut. Tout
+le monde boit de l'eau, mais pas tout le monde boit de l'eau de source. On appelle cela en économie des "coûts de
+signalement", ce sont des barrières qui empêchent l'imitation.
+
+Il existe cinq coûts de signalement :
+
+- Bien sûr, le coût financier : Les symboles coutent cher ! monter à cheval ou posséder une montre suisse n'est pas
+  donné à tout le monde.
+- Le temps : Un doctorat signale une expérience qui a pris des années à acquérir et la validation par des pairs.
+- L'accès exclusif : Tout simplement l'accès à des évènements privés, des clubs, des écoles...
+- Le capital culturel : La connaissance de conventions obtenue après avoir passé des gens ayant un haut statut.
+- Le bris de norme : Si vous avez un haut statut, vous pouvez briser certaines règles pour avoir l'air cool!
+
+Les nouveaux riches vont par exemple se concentrer sur les coûts financiers, les sous cultures vont se concentrer
+sur l'accès exclusif ou le capital culturel. Mais ce n'est pas si simple, par exemple, dans un monde avec de plus en
+plus de millionnaires, il a fallu ériger de nouvelles barrières. Le sac Hermès Birkin est un bon exemple, il est
+vendu seulement à certaines personnes sélectionnées par les équipes de la marque !
+
+### Quand on triche !
