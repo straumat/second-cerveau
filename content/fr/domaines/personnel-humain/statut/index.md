@@ -279,6 +279,8 @@ Il existe cinq coûts de signalement :
 Les nouveaux riches vont par exemple se concentrer sur les coûts financiers, les sous cultures vont se concentrer
 sur l'accès exclusif ou le capital culturel. Mais ce n'est pas si simple, par exemple, dans un monde avec de plus en
 plus de millionnaires, il a fallu ériger de nouvelles barrières. Le sac Hermès Birkin est un bon exemple, il est
-vendu seulement à certaines personnes sélectionnées par les équipes de la marque !
+vendu seulement à certaines personnes sélectionnées par les équipes de la marque ! Dans les années 70, les sacs
+Vuitton ont très bien fonctionné au Japon, car le seul moyen d'en obtenir était d'avoir voyagé en France
 
-### Quand on triche !
+## Goût, authenticité, et identité.
+

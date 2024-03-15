@@ -286,8 +286,42 @@ en seulement deux dimensions, cela donnerait cela :
 
 ![image](embedding_1.png)
 
-Les animaux sont dans un "coin", les "fruits" dans un autre, le chien et le chat sont proches comme alligator et
+Les animaux sont dans un "coin", les "fruits" dans un autre, le chien et le chat sont proches comme l'alligator et le
 crocodile. Ceci est généré assez simplement en regardant d'énormes quantités de texte et en regardant à quel point
 des mots apparaissent dans des contextes similaires. Par exemple, "alligator" et "crocodile" vont apparaître souvent de
 manière presque interchangeable dans des phrases par ailleurs semblables, on va donc les mettre "à côté".
+
+### Comment calcule t'on les embeddings ?
+
+Pour comprendre comment sont calculés ces embeddings, nous allons reprendre l'exemple de la reconnaissance de chiffres
+et nous allons nous voir comment trouver les "écritures de chiffres" qui sont similaires.
+
+Ce que l'on a fait précédemment, si on simplifie à l'extrême, c'est créer un réseau de neurones qui va ranger les
+images qu'on lui présente dans une des dix boites représentants les chiffres de 0 à 9. Nous avons vu que les réseaux
+de neuronnes sont organisés en couches, que se passe-t-il si on regarde les valeurs des neurones des couches avant
+d'arriver à la couche finale ? Ces valeurs devraient conceptuellement représenter quelque chose qui signifie "Plutôt
+un 4, mais ressemble un peu à un 2" - On va utiliser ces valeurs pour notre embedding!
+
+Ceci nous permet de ne pas avoir à définir ce qu'est la proximité entre deux mots, on va laisser le réseau de neurones
+faire son travail et utiliser les couches précédentes pour voir ce qu'il a trouvé de similaire. Si l'on veut se
+représenter le résultat, cela donnerait ça, dans un espace à trois dimensions :
+
+![image](embedding_2.png)
+
+Si l'on veut faire la même chose pour les mots, on va faire de la prédiction de mot. Si l'on part sur la phrase "le _
+chat", on va essayer, en utilisant beaucoup de textes existants, de calculer la probabilité que différents mots
+puissent remplir le blanc que l'on a laissé dans notre phrase.
+
+On va donc affecter un nombre à chacun des mots du dictionnaire, ce qui donnera par exemple, pour notre phrase "le =
+405" et "chat 9782". En résultat, on va calculer pour chacun des autres mots du dictionnaire, la probabilité de le
+trouver au milieu de notre phrase. Nous allons intercepter l'intérieur des couches du réseau de neurones, juste
+avant qu'il n'arrive à la conclusion et récupérer les chiffres qu'il a trouvés pour chaque mot.
+
+Nous avons désormais une façon de transformer les mots en une collection de nombre utilisables par un réseau de
+neurones.
+
+## A l'intérieur de ChatGPT
+
+
+
 
