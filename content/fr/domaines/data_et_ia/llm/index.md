@@ -320,8 +320,30 @@ avant qu'il n'arrive à la conclusion et récupérer les chiffres qu'il a trouv�
 Nous avons désormais une façon de transformer les mots en une collection de nombre utilisables par un réseau de
 neurones.
 
-## A l'intérieur de ChatGPT
+## Les transformers
 
+ChatGPT est un réseau de neuronnes avec 175 milliards de poids (paramètres) mais il est spécialisé pour traiter le
+langage avec quelque chose de particulier : les transformers.
 
+Les transformers introduisent la notion d'attention. L'attention est une opération qui permet de donner plus ou
+moins de poids à chaque mot de la phrase en fonction des autres mots de la phrase.
 
+Comment cela va fonctionner :
+
+- À partir d'une phrase donnée ("le chat est _"), on va trouver un embedding (ensemble de chiffres) qui les
+  représentent.
+- On va utiliser ces chiffres pour produire un nouvel embedding.
+- à partir de ce nouvel embedding, on va calculer la probabilité de trouver chaque mot du dictionnaire à la fin de
+  notre phrase.
+
+L'attention va permettre de "regarder de plus près" certains mots de la phrase leur donner plus de poids produire le
+nouvel embedding.
+
+Dans ChatGPT, Chaque mot est effectivement représenté par un tableau de nombres que nous pouvons considérer comme
+les coordonnées d'un point dans une sorte d'« espace linguistique ». Et lorsque ChatGPT complète une phrase, cela
+correspond à tracer une trajectoire dans cet espace.
+
+![image](transformers_1.png)
+
+## Conclusion
 
