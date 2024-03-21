@@ -14,9 +14,9 @@ weight: 10
 toc: true
 ---
 
-Cet article a été écrit grâce à la lecture de [What Is ChatGPT Doing... And Why Does It Work?](https://amzn.to/48pD4Au).
-Les images sont aussi issus de ce livre, j'ai juste essayé d'en faire un résumé, un peu simplifié, avec quelques
-bases en plus et en français.
+Cet article a été écrit grâce à la lecture de nombreux articles, mais surtout du livre [What Is ChatGPT Doing... And
+Why Does It Work?](https://amzn.to/48pD4Au) (Les images sont, en majorité, aussi issues du livre). J'ai essayé d'en
+faire un résumé, simplifié sur certains aspects, et complété par des explications sur d'autres.
 
 ## Introduction.
 
@@ -24,54 +24,54 @@ Comme cela a été expliqué à de nombreuses reprises, basiquement, ce que Chat
 un texte qui soit une suite de mots raisonnablement cohérents - Cohérent signifiant ici que le texte produit par le
 modèle est similaire à ce que l'on pourrait attendre d'un humain qui aurait lu des millions de pages webs.
 
-Le LLM que vous utilisez a lu des millions de pages webs. D'un point de vue très simplifié, s'il écrit "Le chat est"
-et veut trouver le mot suivant dans sa phrase, il va regarder le mot qui vient le plus souvent après "Le chat est" dans
-tout ce qu'il a lu et va le proposer. Cela va donner le mot "animal" par exemple - Bien sûr, il y avait d'autres
-possibilités (mignon, félin...).
+Le LLM que vous utilisez a lu des millions de pages webs. D'un point de vue très simplifié, quand il commence la phrase
+*"Le chat"* puis veut trouver le mot suivant, il va regarder le mot qui vient le plus souvent après *$Le chat"* dans
+tout ce qu'il a lu et va simplement le proposer. Cela va donner le mot *"noir"* par exemple.
 
-Fondamentalement, le système pour chaque mot se repose la question "étant donné le texte écrit jusqu'à présent, quel
-devrait être statistiquement le prochain mot ?". L'idée est donc de créer un modèle qui permette d’estimer les
-probabilités avec lesquelles des séquences de mots devraient se produire, même si ces séquences n'ont jamais été
-explicitement vu dans le corpus de texte que nous avons donné au LLM.
+Fondamentalement, pour chaque nouveau mot à écrire, le système se repose la question *"étant donné le texte écrit
+jusqu'à présent, quel devrait être statistiquement le prochain mot ?"*. L'idée est donc d'avoir un modèle qui permette
+d’estimer les probabilités avec lesquelles des séquences de mots devraient se produire, même si ces séquences n'ont
+jamais été explicitement vu dans le corpus de texte que nous avons utilisé.
 
 ## Qu'est-ce qu'un modèle ?
 
-Imaginons, comme Galilée, que vous vouliez savoir combien de temps cela prend à un boulet de canon lâché d'un étage
-particulier de la tour de Pise pour atteindre le sol. La solution la plus simple est de mesurer le temps que cela prend
-pour chacun des étages.
+Imaginons, comme Galilée, que vous vouliez savoir combien de temps met un boulet de canon lâché d'un étage particulier
+de la tour de Pise pour atteindre le sol. La solution la plus simple est de mesurer le temps que cela prend pour chacun
+des étages.
 
-L'autre façon de faire, c'est de modéliser le problème afin de trouver une fonction qui, à partir de paramètres (ici
-l'étage de départ), va vous donner le temps que cela prend pour le boulet de canon de tomber. Nous allons donc commencer
-par réaliser quelques mesures et les représenter sur un graphique :
+L'autre façon de faire, c'est de modéliser le problème afin de trouver une fonction mathématique qui, à partir de
+paramètres (ici l'étage de départ), va vous donner le temps de chute du boulet. Nous allons donc commencer par réaliser
+quelques mesures et les représenter sur un graphique :
 
 ![image](modelisation_etape_1.png)
 
-La question est donc : à partir des mesures reportées sur le graphique ci-dessus, comment trouver une fonction qui va
-nous donner la valeur pour les étages où nous n'avons pas de mesures ?
+À partir des mesures reportées sur le graphique ci-dessus, comment trouver une fonction qui va nous donner la valeur
+pour les étages où nous n'avons pas réalisé de mesures ?
+
 On peut commencer par tracer une droite qui passe au plus près de tous les points que nous avons mesurés :
 
 ![image](modelisation_etape_2.png)
 
 La ligne droite donne un résultat qui est assez proche de la réalité, mais il y a des points qui sont un peu loin de la
-droite. En essayant une formule mathématique plus compliquée (`a + b x + c x2`), on arrive à quelque chose de mieux :
+droite. En essayant une formule mathématique plus compliquée (`a + b x + c x2`), on arrive à quelque chose de
+mieux, c'est-à-dire plus proche de la réalité :
 
 ![image](modelisation_etape_3.png)
 
-Tout modèle que vous utilisez possède une structure sous-jacente particulière, puis un ensemble de paramètres que vous
-pouvez définir pour qu'il colle le plus possible à vos attentes. Dans le cas de ChatGPT, il y a 175 milliards de
-paramètres.
+On peut voir que tout modèle que vous utilisez possède une structure sous-jacente particulière, puis un ensemble de
+paramètres que vous pouvez définir pour qu'il colle le plus possible à vos attentes. Dans le cas de ChatGPT, il y a
+175 milliards de paramètres.
 
 ## Modéliser des tâches humaines.
 
-Pour des tâches humaines comme reconnaître les images, c'est un peu le même principe sauf qu'il n'existe pas de
+Pour modéliser des tâches humaines comme reconnaître une image, c'est un peu le même principe sauf qu'il n'existe pas de
 formule mathématique simple pour le modéliser.
 
-Imaginons que nous souhaitions faire de la reconnaissance d'images comme celles-ci (des chiffres) :
+Imaginons que nous souhaitions faire de la reconnaissance d'images représentant des chiffres comme ceux-ci :
 ![image](modelisation_image_1.png)
 
-Nous allons suivre la façon de faire que nous avons décrite dans le précédent paragraphe "Qu'est-ce qu'un modèle ?"
-et nous allons donc commencer par récupérer un certain nombre d'exemples d'images pour chacun des chiffres à fin de
-bâtir notre modèle, par exemple :
+De la même façon que pour le boulet de canon, nous allons commencer par collecter différents exemples de chiffres
+écrits à fin de bâtir notre modèle, par exemple :
 ![image](modelisation_image_2.png)
 
 Rien qu'avec l'exemple ci-dessus, nous voyons qu'une comparaison pixel à pixel n'est pas la solution pour
@@ -81,28 +81,30 @@ comparaison pixel par pixel.
 
 Alors comment faire ? Nous allons essayer de trouver une fonction qui, à partir des pixels de l'image, va nous donner
 la probabilité que l'image représente un chiffre particulier.
-Nous allons donc considérer la valeur du niveau de gris de chaque pixel comme une variable Xi et nous allons trouver une
-fonction qui une fois évaluées avec toutes ces variables nous indique de quel chiffre se trouve l'image... De la
-même façon que nous avons trouvé une fonction qui détermine, pour chaque étage, le temps que mettait le boulet de canon
-à tomber.
 
-On a donc une fonction mathématique, prenant, en entrée, les valeurs des différents pixels de l'image, qui effectue
-environ un demi million d'opérations mathématiques, et qui nous donne en sortie le chiffre que représente l'image.
+Nous allons donc considérer la valeur du niveau de gris de chaque pixel comme une variable *Xi* et nous allons
+trouver une fonction qui, une fois évaluée avec toutes ces variables nous indique de quel chiffre se trouve l'image...
+De la même façon que nous avons trouvé une fonction qui détermine, pour chaque étage, le temps que mettait le boulet de
+canon à tomber.
+
+On aura donc une fonction mathématique, avec, en entrée, les valeurs des différents pixels de l'image. On va exécuter
+cette fonction (qui devrait opérer environ un demi million d'opérations mathématiques) et elle nous donnera en sortie le
+chiffre correspondant à l'image.
 
 ## Réseaux de neurones.
 
 Essayons maintenant de comprendre comment les modèles fonctionnent. Pour cela, nous allons nous intéresser à un modèle
-particulier : le réseau de neurones (qui ont été inventés en 1940!).
+particulier : le réseau de neurones.
 
 Dans le cerveau, il existe environ 100 milliards de neurones. Chaque neurone est connecté à approximativement 10 000
 autres neurones. Chacun d'entre eux peut produire un signal électrique qui est transmis à d'autres neurones. Chaque
-signal dépend de signaux reçus par les neurones connectés (chaque connexion ayant des "poids différents" qui
-impactent le résultat).
+signal dépend des signaux reçus par les neurones connectés (chaque connexion ayant des "poids différents" qui
+modifient le résultat).
 
-Quand on voit une image comme notre "4" ci-dessus, les photons de la lumière frappent la rétine de nos yeux et génèrent
-un signal électrique qui est transmis aux cellules nerveuses. Le signal va ensuite se propager à travers plusieurs
-couches de neurones. C'est ce processus qui va former une pensée dans notre cerveau et qui va nous permettre de dire : "
-C'est un 4".
+Quand on voit une image comme notre *"4"* ci-dessus, les photons de la lumière frappent la rétine de nos yeux et
+génèrent un signal électrique qui est transmis aux cellules nerveuses. Le signal va ensuite se propager à travers
+plusieurs couches de neurones. C'est ce processus qui va former une pensée dans notre cerveau et qui va nous permettre
+de dire : *"C'est un 4"*.
 
 ### Les attracteurs.
 
@@ -113,7 +115,7 @@ lesquels le système tend à évoluer, indépendamment de sa position initiale.
 ![image](attracteur_image_1.png)
 
 Si l'on veut se les représenter, regardez le dessin ci-dessus. Les points oranges sont les attracteurs, si vous
-lâchez un quelque chose dans l'une des régions d'un attracteur, cette chose va tendre à se rapprocher de ce point.
+lâchez quelque chose dans l'une des régions d'un attracteur, cette chose va tendre à se rapprocher de ce point.
 
 Si l'on reprend notre exemple de reconnaissance de chiffres, on peut imaginer que les attracteurs sont les
 différents chiffres que votre modèle peut reconnaître. Quand vous présentez une nouvelle image à votre réseau de
@@ -131,35 +133,37 @@ Prenons un cas très simple :
 
 ![image](reseau_neurones_1.png)
 
-Si l'on nous donne un point avec des coordonnées {x, y}, notre modèle doit savoir de quel point orange, il est le
-plus proche. Le résultat doit correspondre au graphique ci-dessous:
+L'idée est la suivante : si l'on nous donne un point quelconque avec des coordonnées *{x, y}*, notre modèle doit
+trouver de quel point orange il est le plus proche. Le résultat doit correspondre au graphique ci-dessous:
 
 ![image](reseau_neurones_2.png)
 
-Un réseau de neuronnes, ça ressemble au schéma ci-dessous. On y voit des neuronnes, organisés en couches. Chaque neurone
-est connecté à tous les neurones de la couche précédente et de la couche suivante.
+Revenons au réseau de neuronnes. Un réseau de neuronnes, ça ressemble au schéma ci-dessous. On y voit des neuronnes,
+organisés en couches. Chaque neurone est connecté à tous les neurones de la couche précédente et de la couche suivante.
 
 ![image](reseau_neurones_3.png)
 
-Chaque neurone va évaluer une valeur avec une fonction mathématique. Pour utiliser le réseau, nous allons simplement
-entrer nos coordonnées {x, y} dans les deux premiers neurones du réseau et laisser chaque neurone faire son calcul
-et passer le résultat à la couche suivante. Le résultat final sera donné par le dernier neurone.
-Bien sûr, mettre en place le réseau de neuronnes n'est pas suffisant, les résultats seront aléatoires. Il va falloir
-le "calibrer" pour qu'il donne les résultats que nous attendons, c'est ce que l'on appelle l'entrainement.
+Chaque neurone va calculer une valeur avec une fonction mathématique. Pour notre problème, dans le réseau de
+neuronnes que nous allons construire, nous allons simplement entrer nos coordonnées *{x, y}* dans les deux premiers
+neurones du réseau et laisser chaque neurone faire son calcul et passer le résultat à la couche suivante.
+
+Le résultat final sera donné par le dernier neurone. Bien sûr, mettre en place le réseau de neuronnes au hasard
+n'est pas suffisant, les résultats seront aléatoires. Il va falloir le "calibrer" pour qu'il donne les résultats que
+nous attendons, c'est ce que l'on appelle l'entrainement.
 
 ![image](reseau_neurones_4.png)
 
 Comme nous pouvons le voir sur le schéma, chaque neurone reçoit des valeurs de plusieurs neurones de la couche
-précédente et chaque connexion a un "poids" (positif ou négatif) qui va influencer le résultat - ceci permet de
-modifier "l'importance" de chacune des entrées. Le "calibrage" du réseau de neurones consiste à trouver les bons
-poids pour chaque connexion afin que le résultat final soit bon dans la majeure partie des cas présentés.
+précédente et chaque connexion a un "poids" qui va influencer le résultat en sortie - ceci permet de modifier
+"l'importance" de chacune des entrées. Le "calibrage" du réseau de neurones consiste à trouver les bons poids pour
+chaque connexion afin que le résultat final soit bon dans la majeure partie des cas d'apprentissage présentés.
 
-La valeur d’un neurone donné est déterminée en multipliant les valeurs des « neurones précédents » par leurs poids
+La valeur d’un neurone donné est calculée en multipliant les valeurs des « neurones précédents » par leurs poids
 correspondants et en les additionnant. On se retrouve donc à multiplier des matrices.
 
-Enfin, on applique une fonction de « seuil » (ou « d’activation ») qui, comme vous pouvez le voir dans les exemples
-ci-dessous, va transformer une valeur obtenue en entrée en une valeur de sortie. C’est cette fonction qui va donner
-la valeur finale du neurone.
+Enfin, à "l'intérieur" du neurone, on applique une fonction de « seuil » (ou « d’activation ») qui, comme vous
+pouvez le voir dans les exemples ci-dessous, va transformer une valeur obtenue en entrée en une valeur de sortie. C’est
+cette fonction qui va donner la valeur finale du neurone.
 
 ![image](reseau_neurones_5.png)
 
@@ -170,7 +174,7 @@ Si l'on reprend notre exemple de reconnaissance de chiffres, nous allons devoir 
 
 - Entrer une image dans le réseau de neurones.
 - Laisser le réseau de neurones faire ses calculs.
-- Comparer le résultat obtenu avec le chiffre que nous attendions.
+- Comparer le chiffre trouvé par le réseau de neurone avec le chiffre que nous attendions.
 - Modifier les poids des connexions pour que le résultat obtenu soit plus proche de ce que nous attendions.
 - Recommencer avec une autre image.
 
@@ -192,16 +196,16 @@ recherchons comme on peut le voir ci-dessous.
 
 L'avantage des réseaux de neurones est que l'on ne les programme pas, on ne va pas essayer de coder une fonction qui
 va chercher la barre du 7, la boucle du 8, etc. Au lieu de celà, on va juste lui montrer plein d'exemples des
-résultats que l'on souhaite obtenir, lui va "généraliser" les exemples qu'on lui fournit.
+résultats que l'on souhaite obtenir et il va "généraliser" les exemples qu'on lui fournit.
 
-L'entrainement, concrètement, c'est trouver les valeurs des poids des connexions entre les neuronnes qui vont
+L'entrainement, concrètement, consiste à trouver les valeurs des poids des connexions entre les neuronnes qui vont
 permettre de reproduire les exemples qu'on lui a donnés.
 
 Prenons un exemple très simple, essayons d'apprendre à un réseau de neurones à reproduire la fonction ci-dessous :
 
 ![image](entrainement_1.png)
 
-Voici le réseau de neuronnes utilisé :
+Voici le réseau de neurones utilisé :
 
 ![image](entrainement_2.png)
 
@@ -227,32 +231,41 @@ Imaginons un instant que l'on ait deux poids w1 et w2 et que l'on ait une foncti
 
 ![image](entrainement_5.png)
 
-Nous allons donc essayer de trouver les valeurs de w1 et w2 qui vont minimiser la fonction de perte. Pour cela, nous
-allons suivre le chemin de la descente la plus raide à partir des w1 et w2 précédents que nous avons eus.
+Nous allons essayer de trouver les valeurs de w1 et w2 qui vont minimiser la fonction de perte. Pour cela, nous allons
+suivre le chemin de la descente la plus raide à partir des w1 et w2 précédents que nous avons eus.
 
 ![image](entrainement_6.png)
 
-Quelque part, imaginez-vous que quand on choisit un poids au hasard, on le place au hasard sur une montagne. L'objectif
-va être de trouver le chemin le plus raide pour descendre de la montagne afin d'atteindre l'altitude la plus basse
-possible. C'est ce que l'on appelle la descente de gradient!
+Au début de notre entrainement, nous avons des poids choisis au hasard, nous allons donc avoir une fonction de perte
+avec une valeur certainement très élevée. On peut voir cette fonction de coût comme une sorte de paysage montagneux : un
+endroit particulier correspond à un ensemble de valeurs pour les poids, et la hauteur de cet endroit correspond à la
+perte que nous avons pour ces valeurs de poids.
+
+Entrainer un réseau de neurones, c'est essayer de trouver le point le plus bas de ce paysage, c'est-à-dire les
+valeurs de poids qui vont minimiser la fonction de perte.
+
+C'est ce que l'on appelle la descente de gradient : On va suivre le chemin le plus raide pour descendre le plus vite
+possible. Si l'on reprend la métaphore de la montagne, nous faisons, à partir du point où nous sommes, un pas dans
+une direction pour savoir si ce pas fait monter ou descendre... et on avance comme cela jusqu'à ce que l'on ne puisse
+plus descendre plus bas.
 
 ## L'entrainement de réseaux de neurones en pratique
 
-Tout d'abord, ce n'est pas une science exacte, on suit des processus essai-erreurs-corrections avec un ensemble d'idées
-et d'astuces qui ont été développées au fil du temps.
+Tout d'abord, nous ne sommes pas sur une science exacte, on est en mode essais-erreurs-corrections avec un ensemble
+d'idées et d'astuces qui ont été développées au fil du temps.
 
 La première question à se poser, quelle taille doit avoir mon réseau de neurone pour une tâche donnée ? C'est assez
 difficile à estimer même si plus une tâche est complexe, plus le réseau de neurones semble devoir être grand.
 
 Dans l'exemple ci-dessous, il est facile de voir que si le réseau est trop petit, il est impossible de reproduire la
 fonction que nous cherchons. Attention, si le réseau est trop grand, il va reproduire la fonction que nous cherchons,
-mais aussi les "bruits" que nous avons dans nos données d'entrainement.
+mais aussi les "trucs bizarres" que nous avons dans nos données d'entrainement.
 
 ![image](entrainement_pratique_1.png)
 
 Maintenant que nous avons choisi une architecture pour notre réseau de neuronnes, il va falloir récupérer des
-données pour l'entrainer. Pour cela, il va falloir les nettoyer, les préparer, les transformer, les augmenter, etc.
-L'autre question qui se présente est "de combien de données ai-je besoin pour entrainer mon réseau de neurones ?".
+données pour l'entrainer. Il va falloir les nettoyer, les préparer, les transformer, les augmenter, etc. L'autre
+question qui se présente est "de combien de données ai-je besoin pour entrainer mon réseau de neurones ?".
 Comme pour la taille du réseau, il est difficile de répondre à cette question.
 
 Même s'il existe des techniques pour récupérer des connaissances déjà acquises (comme le transfer learning), il va
@@ -264,10 +277,10 @@ lui servira d'entrées à partir de laquelle s'entraîner, la fin des phrases é
 
 Comme nous l'avons vu, l'objectif de l'entrainement est de trouver les poids (ou paramètres) qui vont permettre
 d'obtenir les bonnes sorties pour les bonnes entrées avec la fameuse fonction de perte. L'ensemble du processus
-consiste à faire baisser cette fonction de perte.
+consistant à faire baisser cette fonction de perte.
 
 Généralement, elle va baisser puis stagner. Si elle stagne et que l'on est à un point assez bas, c'est que l'on a
-atteint un minimum local, c'est que l'on a fini l'entrainement. Si elle stagne et que l'on est à un point assez haut,
+atteint un minimum local et l'on a fini l'entrainement. Si elle stagne et que l'on est à un point assez haut,
 c'est qu'il y a quelque chose qui ne va pas.
 
 ## Les embeddings
@@ -276,8 +289,8 @@ Nous l'avons vu, les réseaux de neuronnes sont basés sur des nombres, nous avo
 textes par des nombres.
 
 On pourrait choisir un nombre au hasard pour chaque mot, mais l'idée, fondamentale chez ChatGPT, est de représenter
-l'essence d'un mot comme "pomme" par un tableau de nombres - Et si ce mot est proche d'un autre mot comme "banane,
-les valeurs du tableau de nombres du mot banane seront proches de des valeurs du tableau de nombre de "pomme". C'est ce
+l'essence d'un mot comme "pomme" par un tableau de nombres - Et si ce mot est proche d'un autre mot comme "banane",
+les valeurs du tableau de nombres du mot "banane" seront proches des valeurs du tableau de nombres de "pomme". C'est ce
 que l'on appelle un embedding.
 
 On peut voir cela comme une tentative de représenter un "espace de signification" dans lequel les mots sont placés
@@ -286,25 +299,24 @@ en seulement deux dimensions, cela donnerait cela :
 
 ![image](embedding_1.png)
 
-Les animaux sont dans un "coin", les "fruits" dans un autre, le chien et le chat sont proches comme l'alligator et le
+Les animaux sont dans un coin, les fruits dans un autre, le chien et le chat sont proches comme l'alligator et le
 crocodile. Ceci est généré assez simplement en regardant d'énormes quantités de texte et en regardant à quel point
 des mots apparaissent dans des contextes similaires. Par exemple, "alligator" et "crocodile" vont apparaître souvent de
 manière presque interchangeable dans des phrases par ailleurs semblables, on va donc les mettre "à côté".
-
-### Comment calcule t'on les embeddings ?
 
 Pour comprendre comment sont calculés ces embeddings, nous allons reprendre l'exemple de la reconnaissance de chiffres
 et nous allons nous voir comment trouver les "écritures de chiffres" qui sont similaires.
 
 Ce que l'on a fait précédemment, si on simplifie à l'extrême, c'est créer un réseau de neurones qui va ranger les
 images qu'on lui présente dans une des dix boites représentants les chiffres de 0 à 9. Nous avons vu que les réseaux
-de neuronnes sont organisés en couches, que se passe-t-il si on regarde les valeurs des neurones des couches avant
-d'arriver à la couche finale ? Ces valeurs devraient conceptuellement représenter quelque chose qui signifie "Plutôt
-un 4, mais ressemble un peu à un 2" - On va utiliser ces valeurs pour notre embedding!
+de neuronnes sont organisés en couches, mais que se passe-t-il si on regarde les valeurs des neurones des couches avant
+d'arriver à la couche finale ? Ces valeurs non finales devraient conceptuellement représenter quelque chose qui
+signifie "Plutôt un 4, mais ressemble un peu à un 2" - Ce sont ces valeurs que l'on va utiliser pour calculer notre
+embedding.
 
-Ceci nous permet de ne pas avoir à définir ce qu'est la proximité entre deux mots, on va laisser le réseau de neurones
-faire son travail et utiliser les couches précédentes pour voir ce qu'il a trouvé de similaire. Si l'on veut se
-représenter le résultat, cela donnerait ça, dans un espace à trois dimensions :
+Cette façon de faire permet de ne pas avoir à définir ce qu'est la proximité entre deux chiffres ou deux mots, on va
+laisser le réseau de neurones faire son travail et utiliser les couches précédentes pour voir ce qu'il a trouvé de
+similaire. Si l'on veut se représenter le résultat, cela donnerait ça, dans un espace à trois dimensions :
 
 ![image](embedding_2.png)
 
@@ -317,13 +329,10 @@ On va donc affecter un nombre à chacun des mots du dictionnaire, ce qui donnera
 trouver au milieu de notre phrase. Nous allons intercepter l'intérieur des couches du réseau de neurones, juste
 avant qu'il n'arrive à la conclusion et récupérer les chiffres qu'il a trouvés pour chaque mot.
 
-Nous avons désormais une façon de transformer les mots en une collection de nombre utilisables par un réseau de
-neurones.
-
 ## Les transformers
 
 ChatGPT est un réseau de neuronnes avec 175 milliards de poids (paramètres) mais il est spécialisé pour traiter le
-langage avec quelque chose de particulier : les transformers.
+langage grâce à quelque chose particulier : les transformers.
 
 Les transformers introduisent la notion d'attention. L'attention est une opération qui permet de donner plus ou
 moins de poids à chaque mot de la phrase en fonction des autres mots de la phrase.
@@ -333,7 +342,7 @@ Comment cela va fonctionner :
 - À partir d'une phrase donnée ("le chat est _"), on va trouver un embedding (ensemble de chiffres) qui les
   représentent.
 - On va utiliser ces chiffres pour produire un nouvel embedding.
-- à partir de ce nouvel embedding, on va calculer la probabilité de trouver chaque mot du dictionnaire à la fin de
+- À partir de ce nouvel embedding, on va calculer la probabilité de trouver chaque mot du dictionnaire à la fin de
   notre phrase.
 
 L'attention va permettre de "regarder de plus près" certains mots de la phrase leur donner plus de poids produire le
@@ -345,5 +354,22 @@ correspond à tracer une trajectoire dans cet espace.
 
 ![image](transformers_1.png)
 
-## Conclusion
+Prenons deux phrases :
+
+- "La souris est dans le jardin"
+- "La souris est à côté de l'ordinateur"
+
+Les transformers sont capables de distinguer les deux usages du mot "souris" en se basant sur le contexte fourni par
+les autres mots de la phrase, et ainsi d'assigner à chaque occurrence du mot "souris" un embedding différent qui capture
+son sens spécifique dans la phrase.
+
+De cette façon, le mot "souris" dans la phrase "La souris est dans le jardin" sera rapproché du mot "jardin". De manière
+équivalente, dans la phrase "La souris est à côté de l'ordinateur", le mot "souris" sera rapproché du mot "ordinateur".
+De cette manière, le mot modifié "souris" dans chacune des deux phrases contiendra certaines informations des mots
+voisins, y ajoutant ainsi du contexte.
+
+Le schéma ci-dessous montre le fonctionnement des transformers avec deux phrases "the bank of the river" et "money
+in the bank". On peut voir que le mot "bank" est déplacé grâce aux autres mots de la phrase.
+
+![image](transformers_2.png)
 
