@@ -18,6 +18,10 @@ Cet article a été écrit grâce à la lecture de nombreux articles, mais surto
 Why Does It Work?](https://amzn.to/48pD4Au) (Les images sont, en majorité, aussi issues du livre). J'ai essayé d'en
 faire un résumé, simplifié sur certains aspects, et complété par des explications sur d'autres.
 
+Si vous voulez, en français, comprendre comment l'IA fonctionne, je vous conseille l'excellent
+livre [Quand la machine apprend: La révolution des neurones artificiels et de l'apprentissage profond](https://amzn.to/4cjvV85)
+de Yann Le Cun qui est pédagogue hors pair!
+
 ## Introduction.
 
 Comme cela a été expliqué à de nombreuses reprises, basiquement, ce que ChatGPT fait, c'est d'essayer de produire
