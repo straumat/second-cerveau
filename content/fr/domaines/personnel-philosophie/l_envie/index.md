@@ -16,7 +16,7 @@ toc: false
 
 **L'envie est le cancer de l'âme**
 
-Ce texte se base sur cet excellent article : [Envy Is the Cancer of the Soul](https://moretothat.com/envy/).
+Ce texte se base sur l'excellent article "[Envy Is the Cancer of the Soul](https://moretothat.com/envy/)".
 
 Même si vous avez une vie agréable, il est fort probable que vous avez une vision du futur où vous êtes un peu plus
 heureux. Imaginez par exemple que vous désiriez être plus riche. Une fois ce désire en place, vous allez vous mettre à
@@ -31,10 +31,10 @@ Vous allez alors avoir trois types de personnes sur cette échelle :
   pas sur votre échelle. C'est généralement avec ces gens-là que se créent des amitiés.
 - Ceux qui ont atteint l'objectif que vous vous êtes fixés et que vous enviez!
 
-Ceux qui que vous envierez le plus seront :
+Et parmi ceux que vous envierez, vous allez avoir :
 
 - Ceux avec qui vous avez une histoire commune, mais qui semble désormais vous avoir dépassé. Une histoire partagée (un
-  ami d'enfance, un ancien associé...) implique un point de départ commun, une sorte d'égalité.
+  ami d'enfance, un ancien associé...) implique un point de départ commun, mais une inégalité qui s'est creusée.
 - Ceux qui ont un chemin vers le succès qui semble facilement reproductible. Vous allez avoir tendance à accepter leur
   façon de faire et leur jugement... mais cela va surtout vous pousser à perdre confiance dans vos capacités.
 - Ceux qui vous ressemblent. Vous allez vous reconnaître en eux et vous dire que vous auriez pu faire pareil... Vous
@@ -43,16 +43,14 @@ Ceux qui que vous envierez le plus seront :
 Le problème est qu'à notre époque, avec Internet et les réseaux sociaux, vous n'êtes qu'à un clic d'ajouter énormément
 de personnes à la liste des gens que vous pouvez envier.
 
-Prenez Linkedin, des gens vont pouvoir passer des heures à fabriquer de fameux posts "inspirants" présentant une version
-améliorée de leur vie, avec un texte travaillé et des photos retouchées et avantageuses.... le texte pourra aussi
-présenter une version qui grossit les très positifs et oublie les choses négatives... Ces gens ont l'opportunité de
-faire du "pick and choose" pour se présenter exactement de la façon dont ils veulent se présenter même si cela ne
-correspond pas à la réalité.
+Prenez Linkedin, des gens vont passer des heures à fabriquer de fameux posts "inspirants" présentant une version
+"améliorée" de leur vie grâce à des textes travaillés et des photos retouchées et/ou avantageuses.... Ces gens ont
+l'opportunité de faire du "pick and choose" pour se présenter exactement de la façon dont ils veulent se présenter.
 
-Avec ces réseaux sociaux, le nombre de personnes qui vous ressemblent (étude, parcours...) ou qui ont un chemin vers le
+Avec les réseaux sociaux, le nombre de personnes qui vous ressemblent (étude, parcours...) ou qui ont un chemin vers le
 succès qui semble facilement reproductible explose littéralement...
 
-Pour combattre l'envie, il y a plusieurs solutions :
+Pour combattre l'envie, il y a essentiellement trois solutions :
 
 - Questionner votre désir. Un désir est un contrat que vous passez avec vous-même et dans lequel vous dites "je refuse
   d'être heureux tant que je n'aurai pas cette chose". Plutôt que d'aller vers des désirs du type "être riche", "être
@@ -62,5 +60,5 @@ Pour combattre l'envie, il y a plusieurs solutions :
   désirez. Peut-être que les autres choses et les conséquences n'en valent pas la peine et que finalement, c'est pas mal
   d'être vous.
 - Concentrez-vous sur votre propre vie. Le fait que vous soyez envieux montre que vous avez beaucoup trop de choses dans
-  votre tête, tout cela repose sur notre besoin de validation externe. Concentrez-vous sur vous, ce que vous aimez, ce
-  que vous avez envie.
+  votre tête et que vous avez peut-être un peu trop besoin de validation externe. Concentrez-vous sur vous, ce que vous
+  aimez, ce dont vous avez envie.
