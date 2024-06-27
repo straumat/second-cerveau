@@ -8,11 +8,11 @@ draft: false
 images: [ ]
 type: docs
 menu:
-  projets:
-    parent: "intelligence-artificielle"
-    identifier: "intelligence-artificielle-ressources"
+projets:
+parent: "intelligence-artificielle"
+identifier: "intelligence-artificielle-ressources"
 weight: 0
 toc: true
 ---
 
-Pas encore de ressource répertoriée ici.
+[Mon second cerveau a déménagé, vous retrouverez mon contenu sur www.straumat.blog](https://www.straumat.blog/)

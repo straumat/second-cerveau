@@ -14,14 +14,4 @@ weight: 1
 toc: true
 ---
 
-À l'origine, l'expression « Open Source » faisait référence aux logiciels Open Source dont le code conçu est accessible
-au public : n'importe qui peut voir, modifier et distribuer le code à sa convenance.
-
-L'objectif de ce chapitre est de comprendre ce modèle de développement, de comprendre qui sont les gens qui le font
-fonctionner et quels sont les modèles économiques viables.
-
-Le résumé qui suit a été réalisé notamment suite à la lecture de l'excellent
-livre Working in Public: The Making and Maintenance of Open Source Software
-
-[![image](couverture_livre.jpg)](https://amzn.to/3Se3eA3)
-
+[Mon second cerveau a déménagé, vous retrouverez mon contenu sur www.straumat.blog](https://www.straumat.blog/)

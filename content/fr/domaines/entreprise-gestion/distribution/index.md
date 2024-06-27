@@ -15,10 +15,4 @@ weight: 1
 toc: true
 ---
 
-## Design & distribution
-
-**Peter Thiel**: "Il faut voir la distribution comme quelque chose d'essentiel au design de votre produit. Si vous avez
-inventé quelque chose de nouveau, mais que vous n'avez pas trouvé un moyen efficace de le vendre, vous avez un mauvais
-business."
-
-[De Zéro à Un](https://amzn.to/4aMw2bs)
+[Mon second cerveau a déménagé, vous retrouverez mon contenu sur www.straumat.blog](https://www.straumat.blog/)
